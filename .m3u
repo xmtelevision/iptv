@@ -17,12 +17,6 @@ http://klmtv.ddns.net:8000/live/klm/klm/1.ts
 
 #EXTINF:0,[COLOR yellow][B]----COPA AMERICA----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",TyC Sports 720
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",TyC Sports 640
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",TyC Sports 480
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 3
 http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1772110.m3u8?scitytokenstarttime=1465787829&scitytokenendtime=1466392629&scitytokenhash=SgUUV1D7jlEFqQEbvcLlGQuopjkTw4Doj5h_kSDbVQY%3D
 #EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" , Azteca Trece HD Algunos partidos
@@ -38,12 +32,6 @@ http://klmtv.ddns.net:8000/live/klm/klm/1.ts
 http://stream.ssh101.com:1935/live/foxlive3/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.movistar.co/documents/10184/1173792/winsports_Logo.png/81695df7-dde3-47e4-ae56-d35e53d9b53c?t=1440110205666" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:0 tvg-logo="http://revistasenal.com/wp-content/uploads/2013/12/empieza-el-mundial-2014-en-tyc-sports.jpg" group-title="DEPORTES",TyC Sports 720
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://revistasenal.com/wp-content/uploads/2013/12/empieza-el-mundial-2014-en-tyc-sports.jpg" group-title="DEPORTES",TyC Sports 640
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://revistasenal.com/wp-content/uploads/2013/12/empieza-el-mundial-2014-en-tyc-sports.jpg" group-title="DEPORTES",TyC Sports 480
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
 
 #EXTINF:0,[COLOR blue][B]----DEPORTES HD----[/B][/COLOR]
 
