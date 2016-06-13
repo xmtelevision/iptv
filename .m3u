@@ -27,7 +27,7 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",TyC Sports 480
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" , Azteca Trece HD
+#EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" , Azteca Trece HD Algunos partidos
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",Directv Sports
 http://cdn.sostart.pw/livehls/zhZ8AzqYTWWz/playlist.m3u8?scitytokenstarttime=1465599513&scitytokenendtime=1466204313&scitytokenhash=0lzw7D1IWQj0lTkWBgcakvkoWtMQFi5DsxoGffqTprI
@@ -36,6 +36,55 @@ http://klmtv.ddns.net:8000/live/klm/klm/24.ts
 #EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",bein max 2
 http://klmtv.ddns.net:8000/live/klm/klm/1.ts
 
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",prueba dropbox
-https://dl.dropboxusercontent.com/s/eqt2zakckculn3k/XM%20TELEVISION.mkv?dl=0
+#EXTINF:0,[COLOR yellow][B]----DEPORTES----[/B][/COLOR]
+
+#EXTINF:0 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png" group-title="DEPORTES",Fox Sports Argentina
+http://stream.ssh101.com:1935/live/foxlive3/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.movistar.co/documents/10184/1173792/winsports_Logo.png/81695df7-dde3-47e4-ae56-d35e53d9b53c?t=1440110205666" group-title="DEPORTES",Win Sports
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:0 tvg-logo="http://revistasenal.com/wp-content/uploads/2013/12/empieza-el-mundial-2014-en-tyc-sports.jpg" group-title="DEPORTES",TyC Sports 720
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://revistasenal.com/wp-content/uploads/2013/12/empieza-el-mundial-2014-en-tyc-sports.jpg" group-title="DEPORTES",TyC Sports 640
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/34/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://revistasenal.com/wp-content/uploads/2013/12/empieza-el-mundial-2014-en-tyc-sports.jpg" group-title="DEPORTES",TyC Sports 480
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8
+
+#EXTINF:0,[COLOR blue][B]----DEPORTES HD----[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSport-HD1
+http://195.154.207.145:8000/play/beins1hd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSport-HD2
+http://195.154.207.145:8000/play/beinshd2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-3
+http://195.154.207.145:8000/play/beinshd3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-4
+http://195.154.207.145:8000/play/beinshd4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-5
+http://195.154.207.145:8000/play/beinshd5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-6
+http://195.154.207.145:8000/play/beinshd6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-7
+http://195.154.207.145:8000/play/beinshd7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-8
+http://195.154.207.145:8000/play/beinshd7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-9
+http://195.154.207.145:8000/play/beinshd9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",Bein Sport HD10
+http://195.154.207.145:8000/play/beinshd10
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-11
+http://195.154.207.145:8000/play/beinshd11
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",Bein-SportHD-12
+http://195.154.207.145:8000/play/beinshd12
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",FOX SPORTS 1 HD
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",CBC SPORT HD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",EUROSPORT 1 ENG HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",EUROSPORT 1 FRA HD
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",NFL NOW HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",NBA Tv
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
