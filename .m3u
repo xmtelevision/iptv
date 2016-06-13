@@ -6,6 +6,8 @@
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",TRT 1
+http://edge1.scity.tv/livehls/lYa5xbl4rGpS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 3
 http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1772110.m3u8?scitytokenstarttime=1465787829&scitytokenendtime=1466392629&scitytokenhash=SgUUV1D7jlEFqQEbvcLlGQuopjkTw4Doj5h_kSDbVQY%3D
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",bein max 1
@@ -45,6 +47,8 @@ http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_a
 
 #EXTINF:0,[COLOR blue][B]----DEPORTES HD----[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",Canal +Sports
+http://cdn.castto.me/live/Z7Uvlz4bRsQbHliCnRtp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSport-HD1
 http://195.154.207.145:8000/play/beins1hd
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSport-HD2
