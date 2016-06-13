@@ -2,18 +2,14 @@
 
 #EXTINF:0,[COLOR yellow][B]----EUROCOPA----[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",TVM 1
-http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",TVM 2
-http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",TRT 1
-http://edge1.scity.tv/livehls/lYa5xbl4rGpS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 3
 http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1772110.m3u8?scitytokenstarttime=1465787829&scitytokenendtime=1466392629&scitytokenhash=SgUUV1D7jlEFqQEbvcLlGQuopjkTw4Doj5h_kSDbVQY%3D
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",bein max 1
-http://klmtv.ddns.net:8000/live/klm/klm/24.ts
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="COPA AMERICA",bein max 2
-http://klmtv.ddns.net:8000/live/klm/klm/1.ts
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCPA",TVM 1
+http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
+http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TRT 1
+http://edge1.scity.tv/livehls/lYa5xbl4rGpS/playlist.m3u8
 
 #EXTINF:0,[COLOR yellow][B]----COPA AMERICA----[/B][/COLOR]
 
