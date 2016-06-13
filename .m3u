@@ -8,8 +8,6 @@ http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1772110.m3u8?scitytokenstar
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TRT 1
-http://edge1.scity.tv/livehls/lYa5xbl4rGpS/playlist.m3u8
 
 #EXTINF:0,[COLOR yellow][B]----COPA AMERICA----[/B][/COLOR]
 
@@ -346,4 +344,81 @@ http://test-sf.cf/canal.m3u8?token=VGtwU1ZuUmhYMTlFRW5YVjAzWnVrNnY4bnlVcWt0RThsb
 #EXTINF:-1,WOBI TV
 http://test-sf.cf/canal.m3u8?token=VGtwU1ZuUmhYMTg1WGRua0NsWjg5SXYvZnhOalRWQW1IS2xpWUxPT05paz0=
 
-
+#EXTINF:-1,Discovery Kids
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/408.m3u8
+#EXTINF:-1,CBeebies
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/409.m3u8
+#EXTINF:-1,Disney Jr
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/410.m3u8
+#EXTINF:-1,Nick Jr
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/411.m3u8
+#EXTINF:-1,Disney Channel
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/412.m3u8
+#EXTINF:-1,Nick HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/414.m3u8
+#EXTINF:-1,Nickelodeon (Nick)
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/415.m3u8
+#EXTINF:-1,Nicktoons
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/413.m3u8
+#EXTINF:-1,Cartoon Network
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/416.m3u8
+#EXTINF:-1,Disney XD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/417.m3u8
+#EXTINF:-1,Boomerang
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/418.m3u8
+#EXTINF:-1,TIIN
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/419.m3u8
+#EXTINF:-1,Tooncast
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/420.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/421.m3u8
+#EXTINF:-1,History HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/423.m3u8
+#EXTINF:-1,H2
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/422.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/424.m3u8
+#EXTINF:-1,Discovery World HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/425.m3u8
+#EXTINF:-1,Discovery Channel
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/426.m3u8
+#EXTINF:-1,Animal Planet
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/427.m3u8
+#EXTINF:-1,Home and Health
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/428.m3u8
+#EXTINF:-1,NatGeo
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/429.m3u8
+#EXTINF:-1,Lifetime
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/430.m3u8
+#EXTINF:-1,Discovery Science
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/431.m3u8
+#EXTINF:-1,Discovery Civilization
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/432.m3u8
+#EXTINF:-1,Discovery Turbo
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/433.m3u8
+#EXTINF:-1,TLC
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/434.m3u8
+#EXTINF:-1,WOBI TV
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/435.m3u8
+#EXTINF:-1,Fox 1 HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/436.m3u8
+#EXTINF:-1,Fox Action HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/437.m3u8
+#EXTINF:-1,Fox Movies
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/438.m3u8
+#EXTINF:-1,Fox Cinéma
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/439.m3u8
+#EXTINF:-1,Fox Classics
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/440.m3u8
+#EXTINF:-1,Golden HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/444.m3u8
+#EXTINF:-1,Cinecanal HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/442.m3u8
+#EXTINF:-1,TNT HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/443.m3u8
+#EXTINF:-1,The Film Zone HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/445.m3u8
+#EXTINF:-1,De Película HD
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/446.m3u8
+#EXTINF:-1,AZ Cinema
+http://149.56.45.203:8000/live/bd5eyws/bd5eyws/441.m3u8
