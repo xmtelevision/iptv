@@ -7,23 +7,27 @@
 https://video10-lax.streamup.com/app/zponax4s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 3
 http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1611785390.m3u8?scitytokenstarttime=1465929300&scitytokenendtime=1466534100&scitytokenhash=mdinVuz2uOCMEsdB4xQOdWhEUoDcMRQpW82fpy0Suiw%3D
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 4
+http://208.75.225.28:1935/live/zonitax4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
 http://d1k8w635mcebvp.cloudfront.net/cl/smil:telecanal.smil/chunklist_b643072.m3u8
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 3
-http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1772110.m3u8?scitytokenstarttime=1465787829&scitytokenendtime=1466392629&scitytokenhash=SgUUV1D7jlEFqQEbvcLlGQuopjkTw4Doj5h_kSDbVQY%3D
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCPA",TVM 1
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 1
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,[COLOR yellow][B]----COPA AMERICA----[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",Zona Sports 1
+https://video10-lax.streamup.com/app/zponax4s-stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",Zona Sports 3
+http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1611785390.m3u8?scitytokenstarttime=1465929300&scitytokenendtime=1466534100&scitytokenhash=mdinVuz2uOCMEsdB4xQOdWhEUoDcMRQpW82fpy0Suiw%3D
+#EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",Zona Sports 4
+http://208.75.225.28:1935/live/zonitax4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",T y C Sports
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_all.smil/35/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 3
-http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1772110.m3u8?scitytokenstarttime=1465787829&scitytokenendtime=1466392629&scitytokenhash=SgUUV1D7jlEFqQEbvcLlGQuopjkTw4Doj5h_kSDbVQY%3D
 #EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" , Azteca Trece HD Algunos partidos
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" ,Arena Sports 1
