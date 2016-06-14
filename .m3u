@@ -19,6 +19,8 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&reb
 http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1772110.m3u8?scitytokenstarttime=1465787829&scitytokenendtime=1466392629&scitytokenhash=SgUUV1D7jlEFqQEbvcLlGQuopjkTw4Doj5h_kSDbVQY%3D
 #EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" , Azteca Trece HD Algunos partidos
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" ,Arena Sports 1
+http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",bein max 1
 http://klmtv.ddns.net:8000/live/klm/klm/24.ts
 #EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",bein max 2
