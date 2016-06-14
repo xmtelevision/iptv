@@ -34,6 +34,8 @@ http://klmtv.ddns.net:8000/live/klm/klm/1.ts
 http://stream.ssh101.com:1935/live/foxlive3/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.movistar.co/documents/10184/1173792/winsports_Logo.png/81695df7-dde3-47e4-ae56-d35e53d9b53c?t=1440110205666" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="DEPORTES",PFC Brazil
+http://art.nextv.ca/nextv/pfci/index.m3u8
 
 #EXTINF:0,[COLOR blue][B]----DEPORTES HD----[/B][/COLOR]
 
