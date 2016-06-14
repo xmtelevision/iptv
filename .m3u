@@ -5,6 +5,8 @@
 
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 1
 https://video10-lax.streamup.com/app/zponax4s-stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Zona Sports 3
+http://edge1.scity.tv/livehls/4jpxfviKlV4/chunklist_w1611785390.m3u8?scitytokenstarttime=1465929300&scitytokenendtime=1466534100&scitytokenhash=mdinVuz2uOCMEsdB4xQOdWhEUoDcMRQpW82fpy0Suiw%3D
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
