@@ -17,6 +17,8 @@ http://d1k8w635mcebvp.cloudfront.net/cl/smil:telecanal.smil/chunklist_b643072.m3
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Sport TV 1
+http://cdn.sostart.pw/livehls/kjA3qh2wYsvW/playlist.m3u8?scitytokenstarttime=1465994228&scitytokenendtime=1466599028&scitytokenhash=R19T-Z38LtF20WPVwMbes-Tsf-TowViY75g5qo_bCOQ=
 
 #EXTINF:0,[COLOR yellow][B]----COPA AMERICA----[/B][/COLOR]
 
