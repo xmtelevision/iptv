@@ -91,6 +91,97 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",NBA Tv
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
+#EXTINF:1,CANAL 7
+http://batman.tutvgratis.tv/ch/1011.m3u8?token=oq49lhn1ieha/QSlZ4MY/pkgjPz8n1rnUfU11+tTW5uqm06GDOw6kxBwIgrVU/rYfyVZofNi3fYfs65z7wou+5q27AkjmtW2CjJco//tvhmNBwAsnPRFhTjSr8QXetb5XW//veyTWoR70KFhysaiuxwpp12OHkqE1HxoMMgRaxo=|RcWPeJtkzoHemC7MX49xoj/P0MEB/FKVz2YfHMElSco=.m3u8
+#EXTINF:1,Azteca noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:1,CANAL 2
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/index_691_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,CANAL 5
+http://batman.tutvgratis.tv/ch/1167.m3u8?token=9DQXT5vGmRRVeTiG74CXXQMRRzVhYObp7+oF3LvioOgnweGtfT3f54e9BPoCJpcN51jbJCr5j2gtz2SaMDzMobZaE+X/jLpZ1fs8X8NZlbKfnhM5GucXwLehQM51jdcV0wMrg6CAHEKUvNLc4t9zfLli6zd3kaPzXPf3pVty348=|97jZ+X1+ZczLY5tVXkGiwZzWKKcSjuh/exaViObC5R0=.m3u8
+#EXTINF:1,CANAL Cartoon Network
+http://batman.tutvgratis.tv/ch/1483.m3u8?token=0yeB1NEOcZLU9UNM0NgEa9rWWNExdl6WBRJ3d9B0RcRlzls6jKYgmAOWqJvP7Uu2J4LHr/eFhXt62hzK9w5Lwuq0hqoUPuLVosJoLjJjm59tPiSbAku1wqDf7t5MLImFAsDlN+DEnC7em646ud091d7cf+vwf73Flu4Yqku6svA=|K4TM5fLGgbdMPIvcaSt5B563Ipp87+33nph/EFF48g0=.m3u8
+#EXTINF:1,CANAL comedy central
+http://batman.tutvgratis.tv/ch/1359.m3u8?token=w4ufBrrnCC1Cr49gBC6oXOh27Hwcc2ga82taGFztRxL1lofziuZYoUBgcNRSM6RyA22udIfmkYrb4P7lZbPXhHD+p9AoE20MW0H5j/qm3jGbYN5So6/76Wh8VCjwNPp6wS4Cgt0qDUp1zGTRHhKReR5Y8PLMqexcQlng8jgHpAI=|xHotODuh5AWcbXpOuPz6XJ89VlLBiHYEAVllDBPuucI=.m3u8
+#EXTINF:1,cine canal
+http://batman.tutvgratis.tv/ch/1583.m3u8?token=FK6sgrJo8X6Q9a6Bws56Jks7EpYYPMLbjWaAMve/AcF2X+81iq17z+U6E4nUNjkdoTU6F37PhafsaNoNkLqQo5uxiOj5L1volPBxGi9ni6zzAxebnKGvk7YlIEdcXotS2OOjhT06j2lHIUhJrwahyyAp0B3zTobPt/qbQB1PcXw=|qQjy1h07arusxECbpN+QssjngrhFCdakidwPDxelX44=.m3u8
+#EXTINF:1,CANAL 5
+http://batman.tutvgratis.tv/ch/1167.m3u8?token=9DQXT5vGmRRVeTiG74CXXQMRRzVhYObp7+oF3LvioOgnweGtfT3f54e9BPoCJpcN51jbJCr5j2gtz2SaMDzMobZaE+X/jLpZ1fs8X8NZlbKfnhM5GucXwLehQM51jdcV0wMrg6CAHEKUvNLc4t9zfLli6zd3kaPzXPf3pVty348=|97jZ+X1+ZczLY5tVXkGiwZzWKKcSjuh/exaViObC5R0=.m3u8
+#EXTINF:1,A&E
+http://batman.tutvgratis.tv/ch/1346.m3u8?token=eJjf0Pc6SIgOqV7rTKHrVFRa/LQs4j5iE1WEJ3G4iRobFcTIk860tXnyBsTh3c0M1/pZNPDvX+0QqqKCqAaqdtDFEwfk7AA+ZdVSxppqPhZdpDSjBpe2TciotH8iJF/MJAe1die8W2/6fikO+31IDYIiGwx7E9xSIFx409XWnKE=|NV5H4sXSv+TlpyN/1POCaqGVp9svEr225MaGmLMoicA=.m3u8
+#EXTINF:1,Animal Planet
+http://batman.tutvgratis.tv/ch/1522.m3u8?token=bBmGRx4tXbmdce5AmGo7RWhJsE5P24c/GKPGUBxmJ3M9RlcG7selB3BqyEGgjqRkZSukh2xOYyd1WFlGXKSdlYH89jVy1Ie7E3XfGJtoTAR35QgxKhwm5JVr0xqgDWq9rM4L8lTphSZyDnRXBnI+/kRQh2tB6LQk36WZRpUGNWc=|Pihe2vNjlikwAKT25eP/vCNtnm1wy7+W+7VjQL/rGqc=.m3u8
+#EXTINF:1,AXN
+http://batman.tutvgratis.tv/ch/1350.m3u8?token=DLw/fqwNsv6kxxwWDNNW36GAB1DR0oQ8a95QVAPZ0/lZr87SVaIzIh+Mc/OIT1MgWGXcpBpHkU8u+togeRsYqFuPVHL9vwZ+z+IBiugbQJmYbbdLGpGJmRVlYKyBuy/mwT257Jlj+6hn0Z0TMWbC7QfdE4WFrL8s72B+i8OFWWA=|rRAiB28Y0kmttcv34qVBp4soAg8wj1KNgZi7ZDfAYsw=.m3u8
+#EXTINF:1,BandaMax
+http://batman.tutvgratis.tv/ch/1730.m3u8?token=66BA3K3ymhL7N3o5Kap8+OpzElgZLhHBKgEGaSre4UjFf4PDs3b2c6pIEp/jlevcxEzE5DEjxVDCwzd268em2e706GeeE1HxXXrwxmiG+VVpOOqxtHLu22KWWbmJ4FUvviJJYOlwlEMQZGKpHIxEjw5KmeEZJOi47ALIhcsCRqI=|VfTq8utTbY1ktZ0qfYmVNkz6z3e48EJqQCrSn8e9358=.m3u8
+#EXTINF:1,canal 22
+http://livestream-f.akamaihd.net/16458468_4574813_65908958_1_646@39006?v=3.8.0&fp=WIN%2021,0,0,242&r=SBMAO&g=GMQCFEVRCPKU
+#EXTINF:1,CANAL 44
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_500k_av-b.m3u8?sd=10&rebase=on
+#EXTINF:1,Canal 52
+http://stream.ssh101.com:1935/live/CANAL52MX/chunklist.m3u8?token=vzDxIHqqitYTrr5A0tBGtUDriRTYL+DJCgY5c6GVSrSyuSwqH6MfVsJcTM7C0Qfu7BUhr%2FMuNrfmf6uuvS7AREluNIm7cThqnOSZxl5BS0DSaVmdjDJMNt29hwgUVDTlRLFZY1fGne0pFMbqaFiprVkd%2FDCodMc8Gbp+r2IQDxk%3D%7CYQgECRWpXqjEt4BzuRpOIokH15p6EZU9EU0AAMnlytw%3D.m3u8
+#EXTINF:1,Cartoon Network
+http://batman.tutvgratis.tv/ch/1483.m3u8?token=vuZvrKwFM/6sIHu4bSCcj+6uquFfyLmneJ94kS72w7Rh7YmIJR3uZCyFX2xmcGxy5XdKXzgKI7IncwORivUZMH55pagqDmy43tFRMu2deiD+u2B9x5lpGgvL8Q8zrTbqLFAvqon610HBue+HUQVZn4Uf0BhEZA4b5h6/l8CxAug=|40bnzSEj7ZTby9A7nz28w4ZbH4hnq9RhljvVf7zBbBc=.m3u8
+#EXTINF:1,discovery kids
+http://batman.tutvgratis.tv/ch/1451.m3u8?token=dxa/V+7Sgn/YObNo7qSJF119/jj8T2KsH1WV9xRdt7gROSs9dIgTAt4esqlLxc351u9pcOwuyt0GhIFJAtsV5EC9hkytELfBTQ1BqnOSzhG5yaOFOC7A7A7frTWN89GQxsE0vxDRPDQN3MEdGoFlySe67GZJ4KvtMvD2w8wz5hI=|QAJtiiq46a1qiYemUyVPKqWJV2ICMR2+2EHjFpg0tSo=.m3u8
+#EXTINF:1,cinematvplay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+#EXTINF:1,disney channel
+http://batman.tutvgratis.tv/ch/1467.m3u8?token=RgOP+bzZ6M+l7OX3+4/iAx/u9NT5CrDpwCGCtSzXF2RaKWq+8IrbBKBY/1+r6IC3vg62owhWaaNUwS7f4RmMs76eLE0KpgVwq6Dyc49SuhiWQqbIUd8u9qDl2xzprha8kOahBGVgRfAS33S5qqaKeyF3x0De2YfuNyr19LIpoRs=|sKXVSj9h+rtkmKz8oV1LbJ1yRKk2X681MfgNidlik+I=.m3u8
+#EXTINF:1,disney jr
+http://batman.tutvgratis.tv/ch/1459.m3u8?token=+ffO1PiVTqpphTs2Po3QWo2oVUcJAjDP/NLl/1tlmC15GCn91yAiJJ9wsQg/dE5H1Pv/7Ic8Jr2lR4O8pEiCvKwcalUVKin7xrrs8roF4IlhhftCzFQ3YeS5bUB0N9MDixpBhRxrROKPI8153denSrFtO5ucVce8KBrq4Utq9qY=|G4QEom7ukgA/brJCE6yYxT2+DwmVi52m0PpO0K4fyvo=.m3u8
+#EXTINF:1,disney xd
+http://batman.tutvgratis.tv/ch/1487.m3u8?token=FBHhq+tA2MkCUDHDaCo4a8DyREX/LltryCYCcgm9oUIxXBBBVn+LAS1jx64cgD38S4PPID8fxEMN2ZQNZe4YPOJ+P7gHmT1TdfmWA7aCGeeu8h7Ccf1gIjNHubI273FzYj8+nOTdfKtpsvaJpWySjEQPtfA0lb9p9V6VNjWZyYY=|YM0Epkpq3EBhu3MbvylbErOpnhIq1TQuTP6N0SJaHoM=.m3u8
+#EXTINF:1,dragon-ball-z
+rtmp://46.28.53.160/live/tutvgratisdbz?id=57187&pk=eb0393495921a70ce83218602b59320fd4e18b96bfb8ec5a1a93e81b6f01fdba
+#EXTINF:1,comedy-central
+http://batman.tutvgratis.tv/ch/1359.m3u8?token=Tbz4mrcjLy00KumBe6LjvOn4qiEUspzVX5ZkyW7lVJLWxjog+6Uo5P1W80QCdeLn+WjdAe1p/Z8DemgrMoSuUBbHwOcRBikZU+kGNZdGEMxpgyNdsyynNMJdKHEQaY1kWWxoFUjJSxm+7GQsWhsoCHvwrhkseBnu0XXu7P3ekSA=|jiWREvObU/PRFia9NGcGFKYM0Lg9q4kiWcZD00/ZpNU=.m3u8
+#EXTINF:1,distrito comedia
+http://batman.tutvgratis.tv/ch/1431.m3u8?token=c7VFqshpEURx+8mZMvagnbwdge5hEhRtQ+twrEG6T6lczHsfurklIRrpjLXiVe+ajmudKMdmpVW1O6ozfU6KsJopbaIMVkzSJNFI1ngchinndLvn/tqU5ZUhxbd4FFTPCusWkeXeCHm+uBuvjOXgivSB7vYTwM9q0D9XSqMNN78=|U+icXBfHYIRkHejm/XisliLm3WPU3UAgMdOIHm6th6I=.m3u8
+#EXTINF:1,dw latinoamerica
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,caracol
+http://cdn.sostart.pw/livehls/zhZ8AzqYTWWz/chunklist_fulltvsports.m3u8
+#EXTINF:1,efektotv
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
+#EXTINF:1,espn 2
+http://batman.tutvgratis.tv/ch/1675.m3u8?token=oCEtCN3yr3umWyqaTM+rJKOAVSaiCFHTrKLWFybGzSDpfBLHthCF1zjurGcXwiyDonMRzw4AQ2OX5s/Di3C3G4hd3L5p4NjOmxHLZ4UXj5FtIPWSaihbPw3b0q6KX1MRRpEtkW+M2ve1oBs7jA5QUcT/NwHLHk1NesSqE5dn5bI=|kLO06N0e/tpx+wkYgJCNrHXJloeEQVOVLzOvOx+89P8=.m3u8
+#EXTINF:1,espn-3
+http://batman.tutvgratis.tv/ch/1655.m3u8?token=wfL1mq53xrltHafFqFRDCfe+US60c/fyWUGwcQ/GJhOzu+V6m+1Yr6Uygn1SUjuAKJCBBI22qoWcFJLcVgW25/D/UAzSOlNdejW07/kaMHe6im8/yBp4G7n8HogyftpmiL5RoXxPeF0JnJ7slppn/xQfwmZCNDfsfMLv7vTPhNE=|Ej2W47tmtEHypyHmMpN/lcHQ/+Qt37EHBLrfeTTUgOc=.m3u8
+#EXTINF:1,fox-sports
+http://batman.tutvgratis.tv/ch/1659.m3u8?token=Ny51TZzgErt9he9qTxBrIFIazpgzzWNZT9DBxyXO7xKizdCnb5cgOzssuZ4Lrf/Hy351UQow88IELJqu7oYaEmtwTrOQAywdVggDWosKaSs+i70L0TcTR0FKpwSDGHbrm9lILqqFBWcqHGR4OmsxMpikYWjy/tHx1/ShMw5q8V0=|DngMTRv4rpUTRoM9R02lnHAl9y5FMV8mntoy4WR2f9M=.m3u8
+#EXTINF:1,fox sports 2
+http://batman.tutvgratis.tv/ch/1663.m3u8?token=+BOYmo5i5OryDMxJM+S8Q/B/2kwzjx1P+V5C2KOCSXcjhi+7ajOyL2NKaL2uhbbtOzJVtCDnoNSKXwTH2pgSg83EQSl1MS79KY5NFhg1459j66BN9KyRw2+RsaVeryto002zVAY+QXBmqnS52+Hi8EzM87U1ow4TWnv7aCDMsoQ=|ziQZCdyofQheFEvMK+I9XTtHfm+v0zA/MPei8/jC/DU=.m3u8
+#EXTINF:1,tyc-sports
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_all.smil/34/chunklist.m3u8
+#EXTINF:1,fx-hd
+http://batman.tutvgratis.tv/ch/1403.m3u8?token=aPamjsRKHvPqmYY/vun/nDx1tYrNhK1GH4scClEMAOvSdtzkKIm9vB4jvH9a+BACK/sakkRq3ulEquJR+j5FTW5GNgCRgQKZFMc0MTyC7bMUJ79pD2fWYuJdvmEcQvbkPcjYZCINh7eUZ9sP0+kQeYd0Yksw1aXkUpG1boCE/a8=|qGz7ymE5LLBs3y8IM90Vq0ziWQzyrrmZknO8VdmYLpc=.m3u8
+#EXTINF:1,fox 1
+http://batman.tutvgratis.tv/ch/1559.m3u8?token=HbGAkRUiExwYsxrCkcK+1tmIbV9+Fkz0vL66g6ZbmPCNCsQ71dOzDF8Jy66/R9Ro7+eKIs90ysHwVYhY20CnRg4jCPe7rRzCDL+ORC3YHlsL2QORF8RVacY36Y6e6OoG3WuRH9b+Ff5Jugm/3VGJvUQmjIFumQd+uKTrkJ/7TYE=|WbmhtPt/7pjmMr8v7ZxVZJOpi0XtLsbMgvjoWsZUw3M=.m3u8
+#EXTINF:1,golden edge
+http://batman.tutvgratis.tv/ch/1623.m3u8?token=ypk5UPh7GHw7Vbr2BxgHeZE9hVCZuaHHEM2yDkV5ZIMMUt0aCv8qJ09DDv1reKZsuMifBFdcLfpWs+WudRFFKrHntsbQZ9Cokgkrlaim62MefDtbTf3gky6jlHntsJBj3TeOgZsKB+s41XZKGaBQXuPA1lZYS3R002F/pl8tSAE=|31DFhsCBopvlAPyRBfkagERuY9aX/4WmZKOS+shE7Z0=.m3u8
+#EXTINF:1,hbo 2
+http://199.180.114.174:88/files/hb2tv5.m3u8
+#EXTINF:1,the filme zone 
+http://batman.tutvgratis.tv/ch/1595.m3u8?token=1PzxBNvcgm9E3g5JwK/mEEMmbHHoNtps2+TUHZRtCjm7oCZcTG5szpsbnIlooleoGZz9vlP/jhRCh+MkkGNriCNbs9t24NgZFt8lCZGYqYBZz+4ZQtEcgZY24pNa0fGFNbL/pWH73EfB/aoiFa2dvs787XDkHHFVZOVEXoYetlw=|tpFndGQBg3U0e5+NaTy+qG1OZD4XW6pUMeyIu51eYhc=.m3u8
+#EXTINF:1,universal channel
+http://batman.tutvgratis.tv/ch/1339.m3u8?token=AoNtRMHl7u+pLje5F4rBuLpb0Wz4dtvzAwulnrZeXwo/xEg871w/4YQFBE+TQTBrhKutyesG/JXRtFJkPwrN8rhqeqPzMwTxiptwERgsR1wLPVoZyjBh1yXsK4K4y9A98xxvFGNq3PwDg7vwAPyPaLpxofUU4EEvmij5JzW3twQ=|Rra/M1ENxGFBFc+35h/t/i9IK5Bhf4hHZuywGNVIqlk=.m3u8
+#EXTINF:1,warner channel
+http://batman.tutvgratis.tv/ch/1335.m3u8?token=0yJlgegpK0tOv3GNSLDOx8qCCepKtWYN/P+zv2Kox/m3WPOoUNGJPKDZEy/yfTl3tCD4fv9dQP5j7G8qVf+YLYvco1LlNdfIlaN73rMX10EwUubeGIUNqvaiQfW6UzN4R1DwEPugLjPUSIScdmUeJvLnpjxNBM6dg12EKc856lQ=|12yePmrdj/4EReXqVUGIP2y9UhKDLA2OqoNMZaj1Vm8=.m3u8
+#EXTINF:1,tnt
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2FWL%2F%2Bbo5AF%2FGNsHksYx3vXqUjlYaFvM5kdpQGvvBjMd7GyUKA37jNZheqrq%2BAd5oHuTPtmxSv83Q%3D%3D
+#EXTINF:1,hbo plus
+rtmp://198.255.17.18:443/live?pItxsGBuYkMDbrpUA3CvjjOr9Q8gxf84/live_mega_extremo
+#EXTINF:1,history channel
+http://batman.tutvgratis.tv/ch/1507.m3u8?token=vgb2poY19mZ2fM6RN28ppBHkZWSBghJHjCbD84rxPrZ02XMzCiFHEmhyOLX5f2ICc/0s5Qrl5qlBnXTR3b5HkWCcbMB0Nq5+MXYZq2YhE3dmgDHHwD98+USHPCn4JNIV34CseErHPxc2zgp85wntWHl9Cd1e46siZnvK3K4OCSs=|FErINMAJtx8y8tD1kYcNMcHRQVlTKTCFjgTmgLIFbEE=.m3u8
+#EXTINF:1,NatGeo
+http://batman.tutvgratis.tv/ch/1531.m3u8?token=bEAXoTumYZeVQspaF1Evd8s7pkvqQyayx8je0lZZ31xnziCUiVPdTRygp+Te/lU1/CCrLtyYEHe+sWCkIEvpOwFz2NYKQZDqLpL69FK1GjKEOUuh0hdRXt5veMDx4nEwKHesTntJG1fRdapbwNLjkYB+CKUSCmSvG+tEZe0V/lA=|n7u3kli56M7/ZIZK6a1bCDBuxQg/koxcP/OimGro4HQ=.m3u8
+#EXTINF:1,NatGeo Wild HD
+http://batman.tutvgratis.tv/ch/1511.m3u8?token=AoRkAPQmGe/ntA7aScs5DvdMfRLGJHoNBjzBVcgSJ+b92xC0cf8TLcVJZez+XMu/G4aiHDZal3jwAnzpD1zeT88C/NZUNfO0hp7JZv+wfPjQGuXekKTKWKQ7ITFHGWzOpB6M2aeogp7bu1cYzF4P1SbTj1KTXjnNcW7SDPtXQQ4=|cyzbuyaJ1UPdksBY+tWsZCXYAfqqdXNboml/hVzI7i0=.m3u8
+
+
+
 #EXTINF:-1,A&E
 http://test-sf.cf/canal.m3u8?token=VGtwU1ZuUmhYMTlRODNvUFJXalV0dTFoVElmajg2MVRuTWlIbUhINko4RT0=
 
