@@ -56,47 +56,6 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="DEPORTES",PFC Brazil
 http://art.nextv.ca/nextv/pfci/index.m3u8
 
-#EXTINF:0,[COLOR blue][B]----DEPORTES HD----[/B][/COLOR]
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",Canal +Sports
-http://cdn.castto.me/live/Z7Uvlz4bRsQbHliCnRtp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSport-HD1
-http://195.154.207.145:8000/play/beins1hd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSport-HD2
-http://195.154.207.145:8000/play/beinshd2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-3
-http://195.154.207.145:8000/play/beinshd3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-4
-http://195.154.207.145:8000/play/beinshd4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-5
-http://195.154.207.145:8000/play/beinshd5
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-6
-http://195.154.207.145:8000/play/beinshd6
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-7
-http://195.154.207.145:8000/play/beinshd7
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-8
-http://195.154.207.145:8000/play/beinshd7
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-9
-http://195.154.207.145:8000/play/beinshd9
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",Bein Sport HD10
-http://195.154.207.145:8000/play/beinshd10
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",BeinSportHD-11
-http://195.154.207.145:8000/play/beinshd11
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",Bein-SportHD-12
-http://195.154.207.145:8000/play/beinshd12
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",FOX SPORTS 1 HD
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",CBC SPORT HD
-http://s69362.cdn.ngenix.net/live/_definst_/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",EUROSPORT 1 ENG HD
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",EUROSPORT 1 FRA HD
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",NFL NOW HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZmwOx6Q.png" group-title="DEPORTES HD",NBA Tv
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
 #EXTINF:1,CANAL 7
 http://batman.tutvgratis.tv/ch/1011.m3u8?token=oq49lhn1ieha/QSlZ4MY/pkgjPz8n1rnUfU11+tTW5uqm06GDOw6kxBwIgrVU/rYfyVZofNi3fYfs65z7wou+5q27AkjmtW2CjJco//tvhmNBwAsnPRFhTjSr8QXetb5XW//veyTWoR70KFhysaiuxwpp12OHkqE1HxoMMgRaxo=|RcWPeJtkzoHemC7MX49xoj/P0MEB/FKVz2YfHMElSco=.m3u8
 #EXTINF:1,Azteca noticias
