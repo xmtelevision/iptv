@@ -61,6 +61,36 @@ http://666666.ddns.net:8000/fullhd/fullhd/1077
 http://666666.ddns.net:8000/fullhd/fullhd/1078
 #EXTINF:-1,Bein Sports 1 HD
 http://666666.ddns.net:8000/fullhd/fullhd/1079
+#EXTINF:-1,Sky SPORTS 1
+http://80.243.182.106:8080/Sk/SpoooS101/index.m3u8
+#EXTINF:-1,Sky SPORTS 2
+http://80.243.182.106:8080/Sk/SpoooS2/index.m3u8
+#EXTINF:-1,Sky SPORTS 3
+http://80.243.182.106:8080/Sk/SpoooS33/index.m3u8
+#EXTINF:-1,Sky SPORTS 4
+http://80.243.182.106:8080/Sk/SpoooS4/index.m3u8
+#EXTINF:-1,Sky SPORTS 5
+http://80.243.182.106:8080/Sk/SpoooS5/index.m3u8
+#EXTINF:-1, BT Sport Europe
+http://149.202.85.84:8080/btSpEUrope-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, BT Sport ESPN
+http://149.202.85.84:8080/btEspn-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,SkySportsF1
+http://149.202.207.8:8080/skf1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 1 [UK]
+http://149.202.207.8:8080/sk1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 2 [UK]
+http://149.202.207.8:8080/sk2-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 3 [UK]
+http://149.202.207.8:8080/sk3-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 4 [UK]
+http://149.202.207.8:8080/sk4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 5 [UK]
+http://149.202.207.8:8080/sk5-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, BT SPORTS 1
+http://149.202.207.8:8080/bts1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, BT SPORTS 2
+http://149.202.207.8:8080/bts2-94506afdjklfg/local/index.m3u8
 
 
 
