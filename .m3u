@@ -3,26 +3,6 @@
 
 ACTUALIZADO EL 27 DE JUNIO DE 2016 - XM TELEVISION - LISTA GRATUITA.
 
-#EXTINF:0,[COLOR yellow][B]----EUROCOPA----[/B][/COLOR]
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",El Trece
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
-http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
-http://d1k8w635mcebvp.cloudfront.net/cl/smil:telecanal.smil/chunklist_b643072.m3u8
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",M1
-http://cdn.magictvbox.eu:8080/m1/720p.m3u8
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",ETV
-http://e1.cdn.mind.ee/live/_definst_/smil:etv/chunklist_w506087809_b1544100_slest.m3u8?
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 1 
-http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
-http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",bein max 1
-http://klmtvi.ddns.net:8000/live/klm/klm/3.ts
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",bein max 2
-http://klmtvi.ddns.net:8000/live/klm/klm/4.ts
-
 #EXTINF:0,[COLOR yellow][B]----COPA AMERICA----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",TyC Sports 720
@@ -49,12 +29,26 @@ http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 #EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",Azteca Trece HD Algunos partidos
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",Win Sports Colombia
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA",PFC Brazil
-http://art.nextv.ca/nextv/pfci/index.m3u8
-#EXTINF:0 tvg-logo="http://www.masportsoffice.com/wp-content/uploads/2016/01/COPA_Centenario2016_1-300.jpg" group-title="COPA AMERICA" ,Arena Sports 1 Ingles
-http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
+
+#EXTINF:0,[COLOR yellow][B]----EUROCOPA----[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",El Trece
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
+http://d1k8w635mcebvp.cloudfront.net/cl/smil:telecanal.smil/chunklist_b643072.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",M1
+http://cdn.magictvbox.eu:8080/m1/720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",ETV
+http://e1.cdn.mind.ee/live/_definst_/smil:etv/chunklist_w506087809_b1544100_slest.m3u8?
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 1 
+http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
+http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",bein max 1
+http://klmtvi.ddns.net:8000/live/klm/klm/3.ts
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",bein max 2
+http://klmtvi.ddns.net:8000/live/klm/klm/4.ts
 
 #EXTINF:0,[COLOR yellow][B]----DEPORTES----[/B][/COLOR]
 
