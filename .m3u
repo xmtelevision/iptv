@@ -17,6 +17,22 @@ http://e1.cdn.mind.ee/live/_definst_/smil:etv/chunklist_w506087809_b1544100_sles
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",RCN
+http://208.75.225.28:1935/live/rrrrrhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",RCN
+http://cdn.latinovision.net:1935/live/smil:320.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",M6
+http://m6-live.akm.cdn.m6web.fr/out/i/223_7.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",HTV
+http://51.254.136.4:81/sipragezabava.com/htv_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TV MALTA
+http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",BELARUS 1
+http://edge1.tv.mts.by/belarus1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",BELARUS 2
+http://live.streaming.hoster.by:1935/belarus1/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",1 TV 
+http://162.212.176.42/1tvbk/1tv1/playlist.m3u8
 
 #EXTINF:0,A&E
 #EXTGRP:unsorted
