@@ -1,11 +1,10 @@
 
 #EXTM3U
 
-ACTUALIZADO EL 27 DE JUNIO DE 2016 - XM TELEVISION - LISTA GRATUITA.
+ACTUALIZADO EL 07 DE JULIO DE 2016 - XM TELEVISION - LISTA GRATUITA.
 
 #EXTINF:0,[COLOR yellow][B]----EUROCOPA----[/B][/COLOR]
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",El Trece
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",Telecanal
@@ -18,10 +17,6 @@ http://e1.cdn.mind.ee/live/_definst_/smil:etv/chunklist_w506087809_b1544100_sles
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",bein max 1
-http://klmtvi.ddns.net:8000/live/klm/klm/3.ts
-#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",bein max 2
-http://klmtvi.ddns.net:8000/live/klm/klm/4.ts
 
 #EXTINF:0,A&E
 #EXTGRP:unsorted
