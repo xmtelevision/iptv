@@ -362,60 +362,6 @@ http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
 #EXTINF:0,FOX News HD
 #EXTGRP:unsorted
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,canal once
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:0,Azteca MTY
-#EXTGRP:unsorted
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:0,Azteca Noticias
-#EXTGRP:unsorted
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
-#EXTINF:0,Azteca Clic
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL103/PROFILE03.m3u8
-#EXTINF:0,Azteca Corazon
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
-#EXTINF:0,Az Cinema
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
-#EXTINF:0,Antena 3
-#EXTGRP:unsorted
-http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE03.m3u8
-#EXTINF:0,Fashion TV
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
-#EXTINF:0,Hola TV
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
-#EXTINF:0,Hmx
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE03.m3u8
-#EXTINF:0,Formula 1 Latinoamerica
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
-#EXTINF:0,PX
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
-#EXTINF:0,MTV Hits
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
-#EXTINF:0,Mas Chic
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE03.m3u8
-#EXTINF:0,Garage Tv
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
-#EXTINF:0,Antena 3
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:0,Trendy
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
-#EXTINF:0,UNO TV
-#EXTGRP:unsorted
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL145/PROFILE03.m3u8
 #EXTINF:0,MEXICO TRAVEL
 #EXTGRP:unsorted
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
