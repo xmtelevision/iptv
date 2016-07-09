@@ -508,53 +508,6 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png",HBO 2
-http://199.180.114.174:88/files/hbo222222.m3u8
-#EXTINF:-1, Univision TDN
-http://104.236.61.232:8081/live/sky69/UnivisionTDNcsp/playlist.m3u8
-#EXTINF:-1,FOX SPORTS USA
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,win sports latino
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1,antena latina
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b610304.m3u8
-#EXTINF:-1, Fail Tv
-http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
-#EXTINF:-1, Telemundo
-http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 , LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 , Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,TV Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8
-#EXTINF:-1, MEGA 
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Travel Channel
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:0, TVMAS HD
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,A3S
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?
-#EXTINF:-1 ,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,Canal U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:0,TV 5 MONDE AMÉRIQUE LATINE
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-
-
-
----------------FIN TOTAL PLAY-------------------------
-#EXTINF:-1 ,TyC Sports
-http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
-#EXTINF:-1 ,Eurosport
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 ,NFL Network USA
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-
-
 #EXTINF:-1, PELICULAS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1, Anime
@@ -786,3 +739,4 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:0 tvg-id="" tvg-name="" group-title="COLOMBIA",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+
