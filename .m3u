@@ -5,6 +5,8 @@ ACTUALIZADO EL 11 DE JULIO DE 2016 - XM TELEVISION - LISTA GRATUITA.
 
 #EXTINF:0,[COLOR yellow][B]----EUROCOPA----[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",RCP HD
+http://prim.ingest.medcomlive-live.adaptive.level3.net/hls-live/medcomlive-live/_definst_/live/stream3.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",RCN
 http://canalrcn-mobile-encoder.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lestoitsdelyon.com/wp-content/uploads/2015/07/Satellite.jpg" group-title="EUROCOPA",RCN
