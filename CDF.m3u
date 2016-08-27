@@ -18,211 +18,211 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 
 #EXTINF:0,[COLOR green][B]----DEPORTES - SPORTS----[/B][/COLOR]
 
-#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES - SPORTS",AyM Sports      *
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTES - SPORTS",AyM Sports      *
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pro-cdn-public-fcb.everincloud.com/20157/28952/416501/1.0/416501.png?t=1450175678000" group-title="DEPORTES - SPORTS",Barca TV
+#EXTINF:-1  tvg-logo="https://pro-cdn-public-fcb.everincloud.com/20157/28952/416501/1.0/416501.png?t=1450175678000" group-title="DEPORTES - SPORTS",Barca TV
 http://premium.exabytetv.info/xtc/345ft/1203/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://es.testsworld.net/files/2013/02/test-de-deporte.jpg" group-title="DEPORTES - SPORTS",Bein La Liga
+#EXTINF:-1  tvg-logo="http://es.testsworld.net/files/2013/02/test-de-deporte.jpg" group-title="DEPORTES - SPORTS",Bein La Liga
 http://premium.exabytetv.info/xtc/345ft/1174/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="DEPORTES - SPORTS",Bein La Liga Opción 2
+#EXTINF:-1  tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="DEPORTES - SPORTS",Bein La Liga Opción 2
 http://premium.exabytetv.info/xtc/345ft/1202/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein La Liga Opción 3
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein La Liga Opción 3
 http://premium.exabytetv.info/gc/345ft/1330/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein La Liga Opción 4
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein La Liga Opción 4
 http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein La Liga Opción 5
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein La Liga Opción 5
 http://stream.zetatv.cf/pw/verliga_bbsglgi/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sport 1 HD (Francés)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein Sport 1 HD (Francés)
 http://premium.exabytetv.info/xtc/345ft/1336/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sport 2 HD (Francés)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein Sport 2 HD (Francés)
 http://premium.exabytetv.info/xtc/345ft/1335/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sport 3 HD (Francés)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein Sport 3 HD (Francés)
 http://premium.exabytetv.info/xtc/345ft/1334/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lh3.googleusercontent.com/-iZyi5yBShPk/VXoYdYsbNGI/AAAAAAAABKM/24aFmFykdOE/s300/bein-sports-espanol.png" group-title="DEPORTES - SPORTS",Bein Sports Español
+#EXTINF:-1  tvg-logo="http://lh3.googleusercontent.com/-iZyi5yBShPk/VXoYdYsbNGI/AAAAAAAABKM/24aFmFykdOE/s300/bein-sports-espanol.png" group-title="DEPORTES - SPORTS",Bein Sports Español
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lh3.googleusercontent.com/-iZyi5yBShPk/VXoYdYsbNGI/AAAAAAAABKM/24aFmFykdOE/s300/bein-sports-espanol.png" group-title="DEPORTES - SPORTS",Bein Sports Español Opcion 2
+#EXTINF:-1  tvg-logo="http://lh3.googleusercontent.com/-iZyi5yBShPk/VXoYdYsbNGI/AAAAAAAABKM/24aFmFykdOE/s300/bein-sports-espanol.png" group-title="DEPORTES - SPORTS",Bein Sports Español Opcion 2
 http://premium.exabytetv.info/gc/345ft/1333/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Español Opción 2
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein Sports Español Opción 2
 http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Sports Max 1
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein Sports Max 1
 http://premium.exabytetv.info/gc/345ft/1331/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Bein Ñ
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Bein Ñ
 http://premium.exabytetv.info/gc/345ft/1184/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Box Nation
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Box Nation
 http://premium.exabytetv.info/xtc/345ft/1258/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sport Europe
+#EXTINF:-1   group-title="DEPORTES - SPORTS",BT Sport Europe
 http://premium.exabytetv.info/xtc/345ft/1271/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports 1
+#EXTINF:-1   group-title="DEPORTES - SPORTS",BT Sports 1
 http://premium.exabytetv.info/xtc/345ft/1257/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",BT Sports 2
+#EXTINF:-1   group-title="DEPORTES - SPORTS",BT Sports 2
 http://premium.exabytetv.info/xtc/345ft/1256/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Canal del Futbol (Ecuador Sólo eventos)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Canal del Futbol (Ecuador Sólo eventos)
 http://premium.exabytetv.info/gc/345ft/1321/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Caza y Pesca (Español)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Caza y Pesca (Español)
 http://premium.exabytetv.info/xtc/345ft/1337/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",CDF HD (Chile)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",CDF HD (Chile)
 http://premium.exabytetv.info/xtc/345ft/1324/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-EsjmKdYjDyY/VQASgOY4ZPI/AAAAAAAADkY/tpBOrjaFqT4/s1600/cdn-sportsmax-655.png" group-title="DEPORTES - SPORTS",CDN Sports Max (Dominicano)
+#EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-EsjmKdYjDyY/VQASgOY4ZPI/AAAAAAAADkY/tpBOrjaFqT4/s1600/cdn-sportsmax-655.png" group-title="DEPORTES - SPORTS",CDN Sports Max (Dominicano)
 http://premium.exabytetv.info/livestream.php?acc=15754920&eve=5198653&token=345ft&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cdo_cl_premium.png" group-title="DEPORTES - SPORTS",CDO Premium (Chile)
+#EXTINF:-1  tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cdo_cl_premium.png" group-title="DEPORTES - SPORTS",CDO Premium (Chile)
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Chelsea FC
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Chelsea FC
 http://premium.exabytetv.info/xtc/345ft/1255/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 1
+#EXTINF:-1  tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 1
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 2
+#EXTINF:-1  tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 2
 http://jjoo2016ch02-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 3
+#EXTINF:-1  tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 3
 http://jjoo2016ch03-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch03)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 4
+#EXTINF:-1  tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES - SPORTS",Claro Sport 4
 http://jjoo2016ch04-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch04)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cable_magico_deportes.png" group-title="DEPORTES - SPORTS",CMD HD (Peruano)
+#EXTINF:-1  tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cable_magico_deportes.png" group-title="DEPORTES - SPORTS",CMD HD (Peruano)
 http://premium.exabytetv.info/gc/345ft/706/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg" group-title="DEPORTES - SPORTS",Direct TV Sports
+#EXTINF:-1  tvg-logo="http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg" group-title="DEPORTES - SPORTS",Direct TV Sports
 http://co.exabytetv.info/miix/345ft/aHR0cDovL3d3dy50di1wb3JpbnRlcm5ldC5jb20vMjAxNC8wNy9kaXJlY3R2LXNwb3J0cy1lbi12aXZvLXBvci1pbnRlcm5ldC5odG1s/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-vYjpa5qGEDI/VAN5N54oK7I/AAAAAAAAAG4/P5PmVrQJVs4/s1600/directv%2Bsports%2B2.png" group-title="DEPORTES - SPORTS",Direct TV Sports 2
+#EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-vYjpa5qGEDI/VAN5N54oK7I/AAAAAAAAAG4/P5PmVrQJVs4/s1600/directv%2Bsports%2B2.png" group-title="DEPORTES - SPORTS",Direct TV Sports 2
 http://co.exabytetv.info/miix/345ft/aHR0cDovL3d3dy50di1wb3JpbnRlcm5ldC5jb20vMjAxNC8wNy9kaXJlY3R2LXNwb3J0cy0yLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/79/big_logo.png" group-title="DEPORTES - SPORTS",Dubai Sports
+#EXTINF:-1  tvg-logo="http://static.filmon.com/assets/channels/79/big_logo.png" group-title="DEPORTES - SPORTS",Dubai Sports
 http://premium.exabytetv.info/tokener/345ft/583/exabytetv.m3u8
 #EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-+.gif" group-title="DEPORTES - SPORTS",ESPN + México      *
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 1      *
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",ESPN 1 Argentina
+#EXTINF:-1   group-title="DEPORTES - SPORTS",ESPN 1 Argentina
 http://co.exabytetv.info/zonyy/345ft/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9Fc3BuLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES - SPORTS",ESPN 2      *
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",ESPN 2 Argentina
+#EXTINF:-1   group-title="DEPORTES - SPORTS",ESPN 2 Argentina
 http://co.exabytetv.info/jua/345ft/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES - SPORTS",ESPN 3      *
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://txmgv24xack1i8jje2nayxpr.wpengine.netdna-cdn.com/us/files/2011/04/MZ25542_ESPN_Deportes-400x310.jpg" group-title="DEPORTES - SPORTS",ESPN Deportes
+#EXTINF:-1  tvg-logo="http://txmgv24xack1i8jje2nayxpr.wpengine.netdna-cdn.com/us/files/2011/04/MZ25542_ESPN_Deportes-400x310.jpg" group-title="DEPORTES - SPORTS",ESPN Deportes
 http://co.exabytetv.info/jua/345ft/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9Fc3BuLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES - SPORTS",ESPN HD      *
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",ESPN HD UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",ESPN HD UK
 http://premium.exabytetv.info/xtc/345ft/1264/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/664920539325210624/whF1PE6Y.png" group-title="DEPORTES - SPORTS",Eurosport
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/664920539325210624/whF1PE6Y.png" group-title="DEPORTES - SPORTS",Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Eurosport 1 UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Eurosport 1 UK
 http://premium.exabytetv.info/xtc/345ft/1263/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Eurosport 2 UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Eurosport 2 UK
 http://premium.exabytetv.info/xtc/345ft/1262/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/formula-1.gif" group-title="DEPORTES - SPORTS",F1 TV      *
 http://200.76.77.237/LIVE/H01/CANAL511/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.multichannel.com/sites/default/files/public/styles/blog_content/public/fight%20sports%20logo%20400x300.jpg" group-title="DEPORTES - SPORTS",Fight Sports
+#EXTINF:-1  tvg-logo="http://www.multichannel.com/sites/default/files/public/styles/blog_content/public/fight%20sports%20logo%20400x300.jpg" group-title="DEPORTES - SPORTS",Fight Sports
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3440/big_logo.png" group-title="DEPORTES - SPORTS",FighTV Plus
+#EXTINF:-1  tvg-logo="http://static.filmon.com/assets/channels/3440/big_logo.png" group-title="DEPORTES - SPORTS",FighTV Plus
 http://premium.exabytetv.info/tokener/345ft/702/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports      *
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Fox Sports 1 (Argentina)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Fox Sports 1 (Argentina)
 http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",Fox Sports 2      *
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Fox Sports 3 (Argentina)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Fox Sports 3 (Argentina)
 http://premium.exabytetv.info/cable/345ft/1298/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES - SPORTS",Gol Perú (Peruano)
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES - SPORTS",Gol Perú (Peruano)
 http://premium.exabytetv.info/gc/345ft/939/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Gol TV Español
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Gol TV Español
 http://stream.zetatv.cf/pw/goltv_b2kycdj/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/gol_tv.png" group-title="DEPORTES - SPORTS",Gol TV HD
+#EXTINF:-1  tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/gol_tv.png" group-title="DEPORTES - SPORTS",Gol TV HD
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Liverpool FC
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Liverpool FC
 http://premium.exabytetv.info/xtc/345ft/1261/exabytetv.m3u8
-#EXTINF:-1 tvg-id="tv" tvg-name="tv" tvg-logo="" group-title="DEPORTES - SPORTS",Mach TV (Ruso)
+#EXTINF:-1 tvg-id="tv" tvg-name="tv"  group-title="DEPORTES - SPORTS",Mach TV (Ruso)
 http://premium.exabytetv.info:8000/live/exabytetv/29408023958/287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://es.testsworld.net/files/2013/02/test-de-deporte.jpg" group-title="DEPORTES - SPORTS",Moto GP HD
+#EXTINF:-1  tvg-logo="http://es.testsworld.net/files/2013/02/test-de-deporte.jpg" group-title="DEPORTES - SPORTS",Moto GP HD
 http://premium.exabytetv.info/xtc/345ft/1173/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/262/big_logo.png" group-title="DEPORTES - SPORTS",Motorz
+#EXTINF:-1  tvg-logo="http://static.filmon.com/assets/channels/262/big_logo.png" group-title="DEPORTES - SPORTS",Motorz
 http://premium.exabytetv.info/tokener/345ft/584/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Movistar Deportes
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Movistar Deportes
 http://stream.zetatv.cf/pw/deportes_13uk31p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png" group-title="DEPORTES - SPORTS",Movistar Deportes 2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png" group-title="DEPORTES - SPORTS",Movistar Deportes 2
 http://premium.exabytetv.info/xtc/345ft/1178/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Movistar Deportes 2 Opción 2
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Movistar Deportes 2 Opción 2
 http://stream.zetatv.cf/pw/deportes2_ardgdvv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png" group-title="DEPORTES - SPORTS",Movistar F1
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png" group-title="DEPORTES - SPORTS",Movistar F1
 http://premium.exabytetv.info/xtc/345ft/972/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo-futbol.png" group-title="DEPORTES - SPORTS",Movistar Futbol
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo-futbol.png" group-title="DEPORTES - SPORTS",Movistar Futbol
 http://premium.exabytetv.info/xtc/345ft/1175/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo-futbol.png" group-title="DEPORTES - SPORTS",Movistar Futbol Opción 2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo-futbol.png" group-title="DEPORTES - SPORTS",Movistar Futbol Opción 2
 http://premium.exabytetv.info/gc/345ft/1332/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Movistar Futbol Opción 3
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Movistar Futbol Opción 3
 http://stream.zetatv.cf/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Movistar Golf
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Movistar Golf
 http://stream.zetatv.cf/pw/golf_asn535f/chunklist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png" group-title="DEPORTES - SPORTS",Movistar Moto GP
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png" group-title="DEPORTES - SPORTS",Movistar Moto GP
 http://premium.exabytetv.info/xtc/345ft/971/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Movistar Partidazo
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Movistar Partidazo
 http://stream.zetatv.cf/pw/partidazo_bb1r7mx/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/295/big_logo.png" group-title="DEPORTES - SPORTS",My Combat Channel
+#EXTINF:-1  tvg-logo="http://static.filmon.com/assets/channels/295/big_logo.png" group-title="DEPORTES - SPORTS",My Combat Channel
 http://premium.exabytetv.info/tokener/345ft/586/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/220px-Golf_Channel_Logo.png" group-title="DEPORTES - SPORTS",NBC Golf
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/220px-Golf_Channel_Logo.png" group-title="DEPORTES - SPORTS",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2502.png" group-title="DEPORTES - SPORTS",NBC Sport Network
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2502.png" group-title="DEPORTES - SPORTS",NBC Sport Network
 http://premium.exabytetv.info/gc/345ft/1022/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/696739618562027520/oYgqd7MO.jpg" group-title="DEPORTES - SPORTS",NFL Now
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/696739618562027520/oYgqd7MO.jpg" group-title="DEPORTES - SPORTS",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.cardplayer.com/assets/twitch_channels/000/000/001/pokercentral-profile_image-576154661611b620-300x300.png" group-title="DEPORTES - SPORTS",Poker Central
+#EXTINF:-1  tvg-logo="http://media.cardplayer.com/assets/twitch_channels/000/000/001/pokercentral-profile_image-576154661611b620-300x300.png" group-title="DEPORTES - SPORTS",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Premier Sports UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Premier Sports UK
 http://premium.exabytetv.info/xtc/345ft/1272/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/C_116_canali_36_upiLogo.jpg" group-title="DEPORTES - SPORTS",Premium Sports (Italia)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/C_116_canali_36_upiLogo.jpg" group-title="DEPORTES - SPORTS",Premium Sports (Italia)
 http://premium.exabytetv.info/xtc/345ft/1223/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Racing UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Racing UK
 http://premium.exabytetv.info/xtc/345ft/1260/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" group-title="DEPORTES - SPORTS",Real Madrid TV
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" group-title="DEPORTES - SPORTS",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Bundesliga (Alemán)
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Bundesliga (Alemán)
 http://premium.exabytetv.info/xtc/345ft/1273/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/672807942190665729/GMzQprxT.png" group-title="DEPORTES - SPORTS",Sky Sports (Italia)
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/672807942190665729/GMzQprxT.png" group-title="DEPORTES - SPORTS",Sky Sports (Italia)
 http://premium.exabytetv.info/xtc/345ft/1221/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/672807942190665729/GMzQprxT.png" group-title="DEPORTES - SPORTS",Sky Sports 1 (Italia)
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/672807942190665729/GMzQprxT.png" group-title="DEPORTES - SPORTS",Sky Sports 1 (Italia)
 http://premium.exabytetv.info/xtc/345ft/1222/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Sports 1 UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Sports 1 UK
 http://premium.exabytetv.info/xtc/345ft/1254/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Sports 2 UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Sports 2 UK
 http://premium.exabytetv.info/xtc/345ft/1253/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Sports 3 UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Sports 3 UK
 http://premium.exabytetv.info/xtc/345ft/1252/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Sports 4 UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Sports 4 UK
 http://premium.exabytetv.info/xtc/345ft/1251/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Sports 5 UK
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Sports 5 UK
 http://premium.exabytetv.info/xtc/345ft/1250/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Sports Austria
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Sports Austria
 http://stream.zetatv.cf/pw/tvb144/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/863.png" group-title="DEPORTES - SPORTS",Sky Sports en Español
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/863.png" group-title="DEPORTES - SPORTS",Sky Sports en Español
 http://premium.exabytetv.info/gc/345ft/707/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES - SPORTS",Sky Sports F1
+#EXTINF:-1   group-title="DEPORTES - SPORTS",Sky Sports F1
 http://premium.exabytetv.info/xtc/345ft/1265/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3531.png" group-title="DEPORTES - SPORTS",Sportsnet Lakers
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3531.png" group-title="DEPORTES - SPORTS",Sportsnet Lakers
 http://premium.exabytetv.info/gc/345ft/1117/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3413.png" group-title="DEPORTES - SPORTS",SportsNet New York
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3413.png" group-title="DEPORTES - SPORTS",SportsNet New York
 http://premium.exabytetv.info/gc/345ft/1124/exabytetv.m3u8
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tdn_mx.png" group-title="DEPORTES - SPORTS",TDN
 http://209.126.124.25:8081/live/97/tdn@5u1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabast.com/wp-content/uploads/2014/08/tve_teledeporte.png" group-title="DEPORTES - SPORTS",Teledeporte
+#EXTINF:-1  tvg-logo="http://arabast.com/wp-content/uploads/2014/08/tve_teledeporte.png" group-title="DEPORTES - SPORTS",Teledeporte
 http://premium.exabytetv.info/xtc/345ft/1159/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/265/big_logo.png" group-title="DEPORTES - SPORTS",The Ski Channel
+#EXTINF:-1  tvg-logo="http://static.filmon.com/assets/channels/265/big_logo.png" group-title="DEPORTES - SPORTS",The Ski Channel
 http://premium.exabytetv.info/tokener/345ft/585/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo-toros.png" group-title="DEPORTES - SPORTS",Toros TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo-toros.png" group-title="DEPORTES - SPORTS",Toros TV
 http://premium.exabytetv.info/xtc/345ft/1076/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES - SPORTS",TyC Sports
+#EXTINF:-1  tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES - SPORTS",TyC Sports
 http://co.exabytetv.info/miix/345ft/aHR0cDovL2VsZ3JhbnR2LmNvbS90eWMtc3BvcnRzLWVuLXZpdm8uaHRtbA==/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3257.png" group-title="DEPORTES - SPORTS",UFC Network
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3257.png" group-title="DEPORTES - SPORTS",UFC Network
 http://co.exabytetv.info/jua/345ft/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS91ZmMtbmV0d29yay1lbi12aXZvLmh0bWw=/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png" group-title="DEPORTES - SPORTS",UFC Network HD
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png" group-title="DEPORTES - SPORTS",UFC Network HD
 http://premium.exabytetv.info/cable/345ft/1296/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png" group-title="DEPORTES - SPORTS",UFC Network Latinoamérica
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png" group-title="DEPORTES - SPORTS",UFC Network Latinoamérica
 http://premium.exabytetv.info/gc/345ft/686/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next
+#EXTINF:-1  tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC Next
 http://premium.exabytetv.info/tokener/345ft/544/exabytetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3207.png" group-title="DEPORTES - SPORTS",Univision Deportes Network
+#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3207.png" group-title="DEPORTES - SPORTS",Univision Deportes Network
 http://premium.exabytetv.info/gc/345ft/1110/exabytetv.m3u8
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/univision_tdn.png" group-title="DEPORTES - SPORTS",Univisión TDN
 http://co.exabytetv.info:8000/live/visita-facebook-ExabyteTV/9872e/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",Versus Channel
+#EXTINF:-1  tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",Versus Channel
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="DEPORTES - SPORTS",Win Sports (Colombiano)
+#EXTINF:-1  tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="DEPORTES - SPORTS",Win Sports (Colombiano)
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
