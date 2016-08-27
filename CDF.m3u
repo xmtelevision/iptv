@@ -7,14 +7,14 @@ http://199.180.114.174:8000/live/arnaldo/arnaldo/739.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/YNNyJWW.jpg" group-title="CDF",CDF Estadio HD 2
 http://158.69.226.108:8000/live/Ramon/Ramon/1032.ts
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium WebdelFutbol
+#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalalongo4/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium Zta Tv
+#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium Zta Tv (SOLO PARTIDOS)
 http://play.zetatv.biz/hls/index.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium Futbolchile.net
-https://www.dropbox.com/s/z1xvzaeocfvs20a/CDFNodisponible.mp4?dl=1
+#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium Futbolchile.net (SOLO PARTIDOS)
+https://www.dropbox.com/s/eqt2zakckculn3k/XM%20TELEVISION.mkv?dl=1
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/YNNyJWW.jpg" group-title="CDF",CDF Estadio HD Acestream 
+#EXTINF:0 tvg-logo="http://i.imgur.com/YNNyJWW.jpg" group-title="CDF",CDF Estadio HD Acestream (SOLO PARTIDOS)
 acestream://b617014f8a2059aaec7bc4b9ade65a4b9c4af0c1
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium Bullanguero (KODI o ROSADIN) 
