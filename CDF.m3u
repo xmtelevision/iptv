@@ -18,9 +18,9 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 
 #EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports 1 Sur
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports 1 Argentina
 http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20141006141554" group-title="DEPORTES",Fox Sports 3 Sur
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20141006141554" group-title="DEPORTES",Fox Sports 3 Argentina
 http://premium.exabytetv.info/cable/345ft/1298/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yqlLqJnV3-w/VjTpmTAvClI/AAAAAAAAAIA/3xLIHdvRk-I/s1600/Euro-sport-2-sd.png" group-title="DEPORTES",Eurosport 2
 http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
@@ -46,31 +46,31 @@ http://stream.zetatv.cf/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
 http://stream.zetatv.cf/pw/barcatv_aw3h4aq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png" group-title="DEPORTES",Movistar Golf
 http://stream.zetatv.cf/pw/golf_asn535f/chunklist.m3u8
-#EXTINF:0 group-title="DEPORTES" tvg-id="Canal F1" tvg-name="Canal F1" tvg-logo="http://i.imgur.com/CSKox4c.png",Canal F1
-http://200.76.77.237/LIVE/H01/CANAL511/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:0 group-title="DEPORTES" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif",Fox Sports 
+#EXTINF:0 group-title="DEPORTES" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif",Fox Sports Mexico
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:0 group-title="DEPORTES" tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif",Fox Sports 2
+#EXTINF:0 group-title="DEPORTES" tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif",Fox Sports 2 Mexico
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://i.imgur.com/pILxqf3.jpg",ESPN +
+#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://i.imgur.com/pILxqf3.jpg",ESPN + Mexico
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif",ESPN HD 
+#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif",ESPN HD Mexico
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif",ESPN 2 
+#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif",ESPN 2 Mexico
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif",ESPN 3
+#EXTINF:0 group-title="DEPORTES" tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif",ESPN 3 Mexico
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1s
-#EXTINF:0 group-title="DEPORTES" tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/big/aym-sports.gif",AyM Sports
+#EXTINF:0 group-title="DEPORTES" tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/big/aym-sports.gif",AyM Sports Mexico
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
 #EXTINF:0 group-title="DEPORTES" tvg-id="PX Tv" tvg-name="PX Tv" tvg-logo="http://i.imgur.com/4NobmBY.jpg",PX Tv
 http://200.76.77.237/LIVE/H01/CANAL528/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
+#EXTINF:0 group-title="DEPORTES" tvg-id="Canal F1" tvg-name="Canal F1" tvg-logo="http://i.imgur.com/CSKox4c.png",Canal F1
+http://200.76.77.237/LIVE/H01/CANAL511/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru
 http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
 #EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/cmd-logo-2B28D2D4F7-seeklogo.com.gif" group-title="DEPORTES",CMD Peru
 http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7ZmbdEaLSfI/VSWcxvxV_tI/AAAAAAAAA_Y/y81HeRP24s8/s1600/lSKat26.png" group-title="DEPORTES",DirecTv
 http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox Sports 2 Mexico
 http://stream.ssh101.com:1935/live/redzer11/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
