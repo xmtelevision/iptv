@@ -13,7 +13,7 @@ http://proxy-005.dc3.dailymotion.com/sec(48726b7ea4f6c86821706642b0702247)/video
 #EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",CDF Estadio HD Acestream (SOLO PARTIDOS)
 acestream://b617014f8a2059aaec7bc4b9ade65a4b9c4af0c1
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium Bullanguero (KODI o ROSADIN) 
+#EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",CDF Premium Bullanguero (KODI o ROSADIN) 
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 
 #EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
@@ -26,7 +26,7 @@ http://premium.exabytetv.info/cable/345ft/1296/exabytetv.m3u8
 http://premium.exabytetv.info/gc/345ft/686/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports 1 Argentina
 http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20141006141554" group-title="DEPORTES",Fox Sports 3 Argentina
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYHbErU.png" group-title="DEPORTES",Fox Sports 3 Argentina
 http://premium.exabytetv.info/cable/345ft/1298/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://www.eurocupbasketball.com/rs/29753/7dd1e5a9-6d1e-44ba-805c-0858188b732f/9bc/filename/eurosport-2.png" group-title="DEPORTES",Eurosport 2
 http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
