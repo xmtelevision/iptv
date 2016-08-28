@@ -21,6 +21,12 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 
 #EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
 
+#EXTINF:0 tvg-logo="http://avanteesportes.com/2014/wp-content/uploads/2014/01/UFC.png" group-title="DEPORTES",UFC Network
+http://co.exabytetv.info/jua/345ft/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS91ZmMtbmV0d29yay1lbi12aXZvLmh0bWw=/exabytetv.m3u8
+#EXTINF:0 tvg-logo="http://avanteesportes.com/2014/wp-content/uploads/2014/01/UFC.png" group-title="DEPORTES",UFC Network
+http://premium.exabytetv.info/cable/345ft/1296/exabytetv.m3u8
+#EXTINF:0 tvg-logo="http://avanteesportes.com/2014/wp-content/uploads/2014/01/UFC.png" group-title="DEPORTES",UFC Network
+http://premium.exabytetv.info/gc/345ft/686/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports 1 Argentina
 http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20141006141554" group-title="DEPORTES",Fox Sports 3 Argentina
