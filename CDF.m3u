@@ -18,6 +18,10 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 
 #EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports 1 Sur
+http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20141006141554" group-title="DEPORTES",Fox Sports 3 Sur
+http://premium.exabytetv.info/cable/345ft/1298/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yqlLqJnV3-w/VjTpmTAvClI/AAAAAAAAAIA/3xLIHdvRk-I/s1600/Euro-sport-2-sd.png" group-title="DEPORTES",Eurosport 2
 http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="DEPORTES",GOL Television
