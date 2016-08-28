@@ -2,15 +2,15 @@
 
 #EXTINF:0,[COLOR green][B]----CDF----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/YNNyJWW.jpg" group-title="CDF",CDF Estadio HD 1 (TODOS REPRODUCTORES)
+#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",CDF Estadio HD 1 (TODOS REPRODUCTORES)
 http://199.180.114.174:8000/live/arnaldo/arnaldo/739.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/YNNyJWW.jpg" group-title="CDF",CDF Estadio HD 2 (TODOS REPRODUCTORES)
+#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",CDF Estadio HD 2 (TODOS REPRODUCTORES)
 http://158.69.226.108:8000/live/Ramon/Ramon/1032.ts
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
+#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
 http://proxy-005.dc3.dailymotion.com/sec(48726b7ea4f6c86821706642b0702247)/video/547/146/286641745_mp4_h264_aac_hd_1.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/YNNyJWW.jpg" group-title="CDF",CDF Estadio HD Acestream (SOLO PARTIDOS)
+#EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",CDF Estadio HD Acestream (SOLO PARTIDOS)
 acestream://b617014f8a2059aaec7bc4b9ade65a4b9c4af0c1
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium Bullanguero (KODI o ROSADIN) 
@@ -18,11 +18,11 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 
 #EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://avanteesportes.com/2014/wp-content/uploads/2014/01/UFC.png" group-title="DEPORTES",UFC Network
+#EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
 http://co.exabytetv.info/jua/345ft/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS91ZmMtbmV0d29yay1lbi12aXZvLmh0bWw=/exabytetv.m3u8
-#EXTINF:0 tvg-logo="http://avanteesportes.com/2014/wp-content/uploads/2014/01/UFC.png" group-title="DEPORTES",UFC Network
+#EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
 http://premium.exabytetv.info/cable/345ft/1296/exabytetv.m3u8
-#EXTINF:0 tvg-logo="http://avanteesportes.com/2014/wp-content/uploads/2014/01/UFC.png" group-title="DEPORTES",UFC Network
+#EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
 http://premium.exabytetv.info/gc/345ft/686/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports 1 Argentina
 http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
@@ -70,9 +70,9 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
 http://200.76.77.237/LIVE/H01/CANAL528/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
 #EXTINF:0 group-title="DEPORTES" tvg-id="Canal F1" tvg-name="Canal F1" tvg-logo="http://i.imgur.com/CSKox4c.png",Canal F1
 http://200.76.77.237/LIVE/H01/CANAL511/PROFILE02.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PhlTiEJ.jpg" group-title="DEPORTES",Gol Peru
 http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
-#EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/cmd-logo-2B28D2D4F7-seeklogo.com.gif" group-title="DEPORTES",CMD Peru
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VYKi7Mx.jpg" group-title="DEPORTES",CMD Peru
 http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7ZmbdEaLSfI/VSWcxvxV_tI/AAAAAAAAA_Y/y81HeRP24s8/s1600/lSKat26.png" group-title="DEPORTES",DirecTv
 http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8
