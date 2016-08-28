@@ -18,10 +18,42 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 
 #EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru
+http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7ZmbdEaLSfI/VSWcxvxV_tI/AAAAAAAAA_Y/y81HeRP24s8/s1600/lSKat26.png" group-title="DEPORTES",DirecTv
+http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox Sports 2
+http://stream.ssh101.com:1935/live/redzer11/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lateledelacoope.com.ar/images/deportes/dxtvnew.png" group-title="DEPORTES",DXTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvbaj.com/wp-content/uploads/2015/02/realmadridtv-logo.jpg" group-title="DEPORTES",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yqlLqJnV3-w/VjTpmTAvClI/AAAAAAAAAIA/3xLIHdvRk-I/s1600/Euro-sport-2-sd.png" group-title="DEPORTES",Eurosport 2
+http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://b.vimeocdn.com/ps/420/420577_300.jpg" group-title="DEPORTES",GOL Television
+http://stream.zetatv.cf/pw/goltv_b2kycdj/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2soklqP.jpg" group-title="DEPORTES",Partidazo
+http://stream.zetatv.cf/pw/partidazo_bb1r7mx/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",Bein Laliga
+http://stream.zetatv.cf/pw/verliga_bbsglgi/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7tVwYON.jpg" group-title="DEPORTES",Bein Sports
+http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",Bein Laliga
+http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www1.movistarplus.es/estaticos/img-movistar/nueva-imagen/logo-deportes-1.png" group-title="DEPORTES",Movistar Deportes
+http://stream.zetatv.cf/pw/deportes_13uk31p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png" group-title="DEPORTES",Movistar Deportes 2
+http://stream.zetatv.cf/pw/deportes2_ardgdvv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RuPLWYe.jpg" group-title="DEPORTES",Movistar Futbol
+http://stream.zetatv.cf/pw/tvb112/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RuPLWYe.jpg" group-title="DEPORTES",Movistar Futbol
+http://stream.zetatv.cf/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia343_0.jpg" group-title="DEPORTES",Barca Tv
+http://stream.zetatv.cf/pw/barcatv_aw3h4aq/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png" group-title="DEPORTES",Movistar Golf
+http://stream.zetatv.cf/pw/golf_asn535f/chunklist.m3u8 
+
+
 
