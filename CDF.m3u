@@ -8,7 +8,7 @@ http://199.180.114.174:8000/live/arnaldo/arnaldo/739.m3u8
 http://158.69.226.108:8000/live/Ramon/Ramon/1032.ts
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/D7DCNFf.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
-http://stream.ssh101.com:1935/live/lalalongo4/chunklist.m3u8
+http://fcache.veoh.com/file/f/l110192562.mp4?e=1472360712&ri=6000&rs=100&h=ac3030c4e4bcdfac41e4f9f0342c33f7
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/YNNyJWW.jpg" group-title="CDF",CDF Estadio HD Acestream (SOLO PARTIDOS)
 acestream://b617014f8a2059aaec7bc4b9ade65a4b9c4af0c1
