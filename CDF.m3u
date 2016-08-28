@@ -56,3 +56,5 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvbaj.com/wp-content/uploads/2015/02/realmadridtv-logo.jpg" group-title="DEPORTES",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES",CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
