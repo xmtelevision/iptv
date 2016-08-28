@@ -22,9 +22,9 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20141006141554" group-title="DEPORTES",Fox Sports 3 Argentina
 http://premium.exabytetv.info/cable/345ft/1298/exabytetv.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yqlLqJnV3-w/VjTpmTAvClI/AAAAAAAAAIA/3xLIHdvRk-I/s1600/Euro-sport-2-sd.png" group-title="DEPORTES",Eurosport 2
+#EXTINF:-1 tvg-logo="http://www.eurocupbasketball.com/rs/29753/7dd1e5a9-6d1e-44ba-805c-0858188b732f/9bc/filename/eurosport-2.png" group-title="DEPORTES",Eurosport 2
 http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="DEPORTES",GOL Television
+#EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/beinsports/web/img/logo-golt.png" group-title="DEPORTES",GOL Television
 http://stream.zetatv.cf/pw/goltv_b2kycdj/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2soklqP.jpg" group-title="DEPORTES",Partidazo
 http://stream.zetatv.cf/pw/partidazo_bb1r7mx/chunklist.m3u8
