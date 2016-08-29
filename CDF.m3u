@@ -90,6 +90,51 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES",CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
+#EXTINF:-1 group-title=”LATINOS”,HBOPlusLASD
+http://tmp.duki.me/LIVE/H02/HBOPlusLASD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,HBO
+http://tmp.duki.me/LIVE/H02/HBOLASD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,HBO 2
+http://tmp.duki.me/LIVE/H02/HBO2SD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Fox Sports 3
+http://tmp.duki.me/LIVE/H02/FoxSports3SD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Telemundo
+http://tmp.duki.me/LIVE/H02/TelemundoSD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,HBO FAMILY
+http://tmp.duki.me/LIVE/H02/HBOFamilyLASD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Golden Premier 1
+http://tmp.duki.me/LIVE/H02/GoldenPremier1LA/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Golden Premier 2
+http://tmp.duki.me/LIVE/H02/GoldenPremiere2LA/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Cine Dinamita
+http://tmp.duki.me/LIVE/H02/CineDinamitaLA/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Cine Latino
+http://tmp.duki.me/LIVE/H02/CineLatinoSD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Multipremier
+http://tmp.duki.me/LIVE/H02/MultiPremierLA/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Max Premier 1
+http://tmp.duki.me/LIVE/H02/MaxPrimeLASD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Max Premier 2
+http://tmp.duki.me/LIVE/H02/MaxPrime2LASD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,UNIVICION DePORTES
+http://tmp.duki.me/LIVE/H02/UnivisionDeportesUS/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,TDN
+http://tmp.duki.me/LIVE/H02/TDNMXLA/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,UTDN
+http://tmp.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,Fox Sports 3
+http://tmp.duki.me/LIVE/H02/FoxSports3SD/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,UFC Network
+http://tmp.duki.me/LIVE/H02/UFCNetworkLA/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,BoxNation
+http://tmp.duki.me/LIVE/H02/boxnation.stream/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,UNIVICION Los ANGELES
+http://tmp.duki.me/LIVE/H02/TelemundoLosAngeles/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,TELEMUNDO PUERTO RICO
+http://tmp.duki.me/LIVE/H02/TelemundoPR/master.m3u8
+#EXTINF:-1 group-title=”LATINOS”,ESTRELLA TV
+http://tmp.duki.me/LIVE/H02/EstrellaTVLA/master.m3u8
+
 EXTINF:-1,(GR) WOBI
 http://199.168.137.216:8000/live/forocable/50conexiones/1564.ts
 #EXTINF:-1,(GR) TVBRASIL
