@@ -9,6 +9,9 @@ https://dl.dropbox.com/s/3bw7saxmgfii550/Juan%20Gabriel%20-%20Las%20Vegas%202006
 http://199.180.114.174:8000/live/arnaldo/arnaldo/739.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",CDF Estadio HD 2 (TODOS REPRODUCTORES)
 http://158.69.226.108:8000/live/Ramon/Ramon/1032.ts
+#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",CDF Estadio HD 3 (TODOS REPRODUCTORES)
+http://premium.exabytetv.info/gc/no-pertenecemos-al-addon-live-kodi-total-ni-a-otro-addon/1325/exabytetv.m3u8
+
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalalongo4/chunklist.m3u8
@@ -22,15 +25,15 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 #EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
-http://co.exabytetv.info/jua/345ft/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS91ZmMtbmV0d29yay1lbi12aXZvLmh0bWw=/exabytetv.m3u8
+http://co.exabytetv.info/jua/no-pertenecemos-al-addon-live-kodi-total-ni-a-otro-addon/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS91ZmMtbmV0d29yay1lbi12aXZvLmh0bWw=/exabytetv.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
-http://premium.exabytetv.info/cable/345ft/1296/exabytetv.m3u8
+http://premium.exabytetv.info/cable/no-pertenecemos-al-addon-live-kodi-total-ni-a-otro-addon/1296/exabytetv.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
-http://premium.exabytetv.info/gc/345ft/686/exabytetv.m3u8
+http://premium.exabytetv.info/gc/no-pertenecemos-al-addon-live-kodi-total-ni-a-otro-addon/686/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports 1 Argentina
-http://premium.exabytetv.info/cable/345ft/1297/exabytetv.m3u8
+http://premium.exabytetv.info/cable/no-pertenecemos-al-addon-live-kodi-total-ni-a-otro-addon/1297/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYHbErU.png" group-title="DEPORTES",Fox Sports 3 Argentina
-http://premium.exabytetv.info/cable/345ft/1298/exabytetv.m3u8
+http://premium.exabytetv.info/cable/no-pertenecemos-al-addon-live-kodi-total-ni-a-otro-addon/1298/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="http://www.eurocupbasketball.com/rs/29753/7dd1e5a9-6d1e-44ba-805c-0858188b732f/9bc/filename/eurosport-2.png" group-title="DEPORTES",Eurosport 2
 http://stream.zetatv.cf/pw/eurosport2_b11qmaz/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/beinsports/web/img/logo-golt.png" group-title="DEPORTES",GOL Television
