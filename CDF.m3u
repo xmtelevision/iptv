@@ -89,3 +89,86 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES",CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
+EXTINF:-1,(GR) WOBI
+http://199.168.137.216:8000/live/forocable/50conexiones/1564.ts
+#EXTINF:-1,(GR) TVBRASIL
+http://199.168.137.216:8000/live/forocable/50conexiones/1577.ts
+#EXTINF:-1,(GR) TV PUBLICA
+http://199.168.137.216:8000/live/forocable/50conexiones/1574.ts
+#EXTINF:-1,(GR) TECNOPOLIS
+http://199.168.137.216:8000/live/forocable/50conexiones/1572.ts
+#EXTINF:-1,(GR) SYFY
+http://199.168.137.216:8000/live/forocable/50conexiones/1579.ts
+#EXTINF:-1,(GR) ROCK & POP
+http://199.168.137.216:8000/live/forocable/50conexiones/1573.ts
+#EXTINF:-1,(GR) NICK2 HD
+http://199.168.137.216:8000/live/forocable/50conexiones/1583.ts
+#EXTINF:-1,(GR) MUNDO FOX
+http://199.168.137.216:8000/live/forocable/50conexiones/1560.ts
+#EXTINF:-1,(GR) HISTORY CHANNEL
+http://199.168.137.216:8000/live/forocable/50conexiones/1578.ts
+#EXTINF:-1,(GR) HBO SIGNATURE
+http://199.168.137.216:8000/live/forocable/50conexiones/1575.ts
+#EXTINF:-1,(GR) FOX1
+http://199.168.137.216:8000/live/forocable/50conexiones/1561.ts
+#EXTINF:-1,(GR) FOX SPORTS
+http://199.168.137.216:8000/live/forocable/50conexiones/1557.ts
+#EXTINF:-1,(GR) FOX
+http://199.168.137.216:8000/live/forocable/50conexiones/1559.ts
+#EXTINF:-1,(GR) DISNEY JUNIOR
+http://199.168.137.216:8000/live/forocable/50conexiones/1580.ts
+#EXTINF:-1,(GR) DISCOVERY WORLD
+http://199.168.137.216:8000/live/forocable/50conexiones/1566.ts
+#EXTINF:-1,(GR) DISCOVERY TURBO
+http://199.168.137.216:8000/live/forocable/50conexiones/1554.ts
+#EXTINF:-1,(GR) DISCOVERY THEATER
+http://199.168.137.216:8000/live/forocable/50conexiones/1568.ts
+#EXTINF:-1,(GR) DISCOVERY SCIENCE
+http://199.168.137.216:8000/live/forocable/50conexiones/1556.ts
+#EXTINF:-1,(GR) DISCOVERY KIDS
+http://199.168.137.216:8000/live/forocable/50conexiones/1565.ts
+#EXTINF:-1,(GR) DISCOVERY H&H *
+http://199.168.137.216:8000/live/forocable/50conexiones/1558.ts
+#EXTINF:-1,(GR) DISCOVERY H&H
+http://199.168.137.216:8000/live/forocable/50conexiones/1569.ts
+#EXTINF:-1,(GR) DISCOVERY CIVILIZATION
+http://199.168.137.216:8000/live/forocable/50conexiones/1555.ts
+#EXTINF:-1,(GR) DEPORTV
+http://199.168.137.216:8000/live/forocable/50conexiones/1584.ts
+#EXTINF:-1,(GR) CANAL 9 INTERIOR
+http://199.168.137.216:8000/live/forocable/50conexiones/1582.ts
+#EXTINF:-1,(GR) CANAL 24Hs
+http://199.168.137.216:8000/live/forocable/50conexiones/1567.ts
+#EXTINF:-1,EL TRECE (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1624.ts
+#EXTINF:-1,(GR) C5N
+http://199.168.137.216:8000/live/forocable/50conexiones/1571.ts
+#EXTINF:-1,(GR) AMERICA SPORTS
+http://199.168.137.216:8000/live/forocable/50conexiones/1586.ts
+#EXTINF:-1,(GR) AMERICA 2
+http://199.168.137.216:8000/live/forocable/50conexiones/1570.ts
+#EXTINF:-1,(GR) A&E
+http://199.168.137.216:8000/live/forocable/50conexiones/1576.ts
+#EXTINF:-1,(GR) (ARG) UFC *
+http://199.168.137.216:8000/live/forocable/50conexiones/1563.ts
+#EXTINF:-1,(GR) (ARG) UFC
+http://199.168.137.216:8000/live/forocable/50conexiones/1562.ts
+#EXTINF:-1,WARNER (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1628.ts
+#EXTINF:-1,VH1 CLASSICS (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1620.ts
+#EXTINF:-1,TN (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1622.ts
+#EXTINF:-1,T5 CENTRAL (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1621.ts
+#EXTINF:-1,SONY (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1627.ts
+#EXTINF:-1,FOX SPORTS 3 (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1619.ts
+#EXTINF:-1,FOX SPORTS 2 (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1625.ts
+#EXTINF:-1,CRÓNICA TV (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1623.ts
+#EXTINF:-1,AXN (GR)
+http://199.168.137.216:8000/live/forocable/50conexiones/1626.ts
