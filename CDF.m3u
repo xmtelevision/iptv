@@ -180,7 +180,7 @@ http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8?
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tcsantacruz.png" group-title="REGIONALES", Telecanal Curico 
 http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6aBKUul.png" group-title="REGIONALES",VTV Valle de Aconcagua
+#EXTINF:-1 tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/09/logos_vtv.png" group-title="REGIONALES",VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-c2sanantonio.png" group-title="REGIONALES",Canal 2 San Antonio
 http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8
@@ -277,13 +277,13 @@ http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestr
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream3/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="RADIOS", Contivision Musica 
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6aBKUul.png" group-title="RADIOS",VTV Valparaiso y VIña del Mar
+#EXTINF:-1 tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/09/logos_vtv.png" group-title="RADIOS",VTV Valparaiso y VIña del Mar
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="RADIOS", Fm Hot Tv 
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="RADIOS",PortalFoxMix Tv 
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.duna.cl/wp-content/themes/duna_theme/img/duna_retina_o.png" group-title="RADIOS",Radio Duna HD
+#EXTINF:-1 tvg-logo="http://www.duna.cl/media/2013/12/radio-duna.jpg" group-title="RADIOS",Radio Duna HD
 http://unlimited5-cl.dps.live/dunatv/dunatv.smil/dunatv5-hls/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s8407q.png" group-title="RADIOS",Fm Tiempo 
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
