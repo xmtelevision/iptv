@@ -265,6 +265,67 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/soberania-tv-magallanes-y-antartica.jpg?160315114433" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
+#EXTINF:0,[COLOR blue][B]----RADIOS----[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GIY6wO9.jpg" group-title="RADIOS",Carnaval Tv 
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv HD
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv 480
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream2/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv 240
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream3/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="RADIOS", Contivision Musica 
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6aBKUul.png" group-title="RADIOS",VTV Valparaiso y VIña del Mar
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="RADIOS", Fm Hot Tv 
+http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="RADIOS",PortalFoxMix Tv 
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.duna.cl/wp-content/themes/duna_theme/img/duna_retina_o.png" group-title="RADIOS",Radio Duna HD
+http://unlimited5-cl.dps.live/dunatv/dunatv.smil/dunatv5-hls/livestream1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s8407q.png" group-title="RADIOS",fm Tiempo 
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.masdecoracion.latercera.com/20100505/926484.jpg" group-title="RADIOS",Radio Zero 
+http://unlimited6-cl.dps.live/zerotv/zerotv.smil/zerotv-hls6/livestream1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/1472/poster_220x220-2.jpg" group-title="RADIOS",Radio la Clave 
+http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://w3.t13radio.cl/t13radio/imag/img_default/default_300x250.jpg" group-title="RADIOS",Tele13 Radio 
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+#EXTINF:-1 tvg-logo="http://radioenvivo.me/wp-content/uploads/2013/11/radio-activa-chile.jpg" group-title="RADIOS",Radio Activa
+http://69.31.54.139/ACTIVA.mp3?type=.flv
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="RADIOS",Radio PortalFoxMix 
+http://167.114.119.122:9934/;
+#EXTINF:-1 tvg-logo="http://genarosalvo.cl/radiodinamica.cl/wp-content/uploads/2016/03/logo-radio-catalina-500.png" group-title="RADIOS",Catalina Coronel
+http://stream5.eltelon.com/catalina-coronel.aac?
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/3405/poster_220x220-2.jpg" group-title="RADIOS",Dinamica Coronel
+http://stream5.eltelon.com/dinamica.aac?
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/3407/poster_220x220-2.jpg" group-title="RADIOS",Isidora Coronel
+http://stream5.eltelon.com/isidora-coronel.aac?
+#EXTINF:-1 tvg-logo="http://radiodonmatias.cl/wp-content/uploads/2015/01/log_radio1.jpg" group-title="RADIOS",Don Matias Lota
+http://190.13.151.228:8002/stream
+#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4Radio_El_Carb__ng.jpg" group-title="RADIOS",El Carbon Lota
+http://tunein.digitalproserver.com/el_carbonbb.aac
+#EXTINF:-1 tvg-logo="http://fmstylo.cl/web/wp-content/uploads/2014/10/logo_stylo_chico2.png" group-title="RADIOS",Fm Stylo 
+http://wowza.chiloestreaming.com:9122
+#EXTINF:-1 tvg-logo="http://apps.poderopedia.org/media/medios/quellon.png" group-title="RADIOS",Quellon Fm
+http://s3.medionline.cl:7932/;stream.nsv&type=pls
+#EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/1013/poster_220x220-2.jpg" group-title="RADIOS",Estrella del Mar Quellon
+http://stream5.eltelon.com/estrella-del-mar-quellon.aac?type=.flv
+#EXTINF:-1 tvg-logo="http://www.radionahuel.cl/img/94_5_logo_400.jpg" group-title="RADIOS",Radio Nahuel
+http://streaming.chiloestreaming.com:9142
+#EXTINF:-1 tvg-logo="http://www.radiosancarlos.cl/images/san%20carlos.jpg" group-title="RADIOS",San Carlos 
+http://streaming.chiloestreaming.com:9146
+#EXTINF:-1 tvg-logo="http://www.libertadchiloe.com/images/logo.png" group-title="RADIOS",Libertad
+http://streaming.chiloestreaming.com:9148
+#EXTINF:-1 tvg-logo="http://www.cysradio.cl/img/cyslogo.jpg" group-title="RADIOS",C y S 
+http://stream5.eltelon.com/c-y-s.aac?
+#EXTINF:-1 tvg-logo="http://www.radiochiloe.cl/images/mrgonline.jpg" group-title="RADIOS",Martin Ruiz de Gamboa
+http://streaming.chiloestreaming.com:9548
+#EXTINF:-1 tvg-logo="http://www.adnradio.cl/dmz/programas/imagenes/500x500_555474.png" group-title="RADIOS",Imagen Fm
+http://streaming.chiloestreaming.com:9880
+
 
 #EXTINF:-1 group-title=”LATINOS”,HBOPlusLASD
 http://tmp.duki.me/LIVE/H02/HBOPlusLASD/master.m3u8
