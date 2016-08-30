@@ -5,18 +5,18 @@ https://dl.dropbox.com/s/3bw7saxmgfii550/Juan%20Gabriel%20-%20Las%20Vegas%202006
 
 #EXTINF:0,[COLOR green][B]----CDF----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",CDF Estadio HD 1 (TODOS REPRODUCTORES)
+#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",Estadio CDF HD 1 (TODOS REPRODUCTORES)
 http://199.180.114.174:8000/live/arnaldo/arnaldo/739.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",CDF Estadio HD 2 (TODOS REPRODUCTORES)
+#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",Estadio CDF HD 2 (TODOS REPRODUCTORES)
 http://158.69.226.108:8000/live/Ramon/Ramon/1032.ts
-#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",CDF Estadio HD 3 (TODOS REPRODUCTORES)
+#EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",Estadio CDF HD 3 (TODOS REPRODUCTORES)
 http://premium.exabytetv.info/gc/no-pertenecemos-al-addon-live-kodi-total-ni-a-otro-addon/1325/exabytetv.m3u8
 
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425287/11425287_720p.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",CDF Estadio HD Acestream (SOLO PARTIDOS)
+#EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",Estadio CDF HD Acestream (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425287/11425287_720p.m3u8
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",CDF Premium Bullanguero (KODI o ROSADIN) 
