@@ -196,7 +196,7 @@ http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/chunklist_w7293170
 http://tvstream02.creoweb.cl:80/maipu571//maipu571/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-indeptv.png" group-title="REGIONALES",Independencia Tv Santiago
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OlHBG44.png" group-title="REGIONALES", Graneros Television Santiago
+#EXTINF:-1 tvg-logo="http://lapincoya.bligoo.cl/media/users/10/534946/images/public/56458/logograneros.png?v=1307376922358" group-title="REGIONALES", Graneros Television Santiago
 http://movilstream.digitalproserver.com:1935/graneros/granerosvivo/graneros.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://tv-online.cl/canal-isb-iglesia-san-bernardo.jpg?160315114433" group-title="REGIONALES", ISB San Bernardo Santiago 
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
@@ -291,7 +291,7 @@ http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/play
 http://unlimited6-cl.dps.live/zerotv/zerotv.smil/zerotv-hls6/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/1472/poster_220x220-2.jpg" group-title="RADIOS",Radio la Clave 
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.adnradio.cl/IMAGES/image_src.gif?u=2" group-title="RADIOS",ADN Radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763759285830422529/BZwE7SNC.jpg" group-title="RADIOS",ADN Radio
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://w3.t13radio.cl/t13radio/imag/img_default/default_300x250.jpg" group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
