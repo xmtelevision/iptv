@@ -48,6 +48,8 @@ http://stream.zetatv.cf/pw/verliga_bbsglgi/chunklist.m3u8
 http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",Bein Laliga
 http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",Bein Laliga
+http://latino-webtv.ml/pw/ligarincon_a539aod/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www1.movistarplus.es/estaticos/img-movistar/nueva-imagen/logo-deportes-1.png" group-title="DEPORTES",Movistar Deportes
 http://stream.zetatv.cf/pw/deportes_13uk31p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png" group-title="DEPORTES",Movistar Deportes 2
@@ -56,6 +58,8 @@ http://stream.zetatv.cf/pw/deportes2_ardgdvv/chunklist.m3u8
 http://stream.zetatv.cf/pw/tvb112/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RuPLWYe.jpg" group-title="DEPORTES",Movistar Futbol
 http://stream.zetatv.cf/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RuPLWYe.jpg" group-title="DEPORTES",Movistar Futbol
+http://latino-webtv.ml/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia343_0.jpg" group-title="DEPORTES",Barca Tv
 http://stream.zetatv.cf/pw/barcatv_aw3h4aq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png" group-title="DEPORTES",Movistar Golf
