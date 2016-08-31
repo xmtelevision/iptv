@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, prueba vtv- fox sports sur
+http://cdn.widestream.io:8081/wideedge/push-cg0x0f2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDE2IDExOjMzOjIwIFBNJmhhc2hfdmFsdWU9WjlmRk1ZN1U2SWJlZ0IrSDNXMGszZz09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:0,[COLOR green][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/WldXCjZ.jpg" group-title="CDF",Estadio CDF 1 
