@@ -2,6 +2,13 @@
 
 #EXTINF:0,[COLOR green][B]----CHILE-PARAGUAY----[/B][/COLOR]
 
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 1
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 2
+http://199.180.114.174:8000/live/oscar/oscar/962.ts
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 3
+http://149.202.202.127:8000/live/Sandro/Sandro/1909.ts
+
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY (PRONTO)
 http://proxy-026.dc3.dailymotion.com/sec(d392e1ae3336e1a1ed9b679b1449a70a)/video/259/560/271065952_mp4_h264_aac_hq_1.m3u8
 
@@ -107,8 +114,6 @@ http://149.202.202.127:8000/live/Sandro/Sandro/4983.ts
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b500.m3u8?tvoneconnection
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE INTERNACIONAL",TVN INTERNACIONAL
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8?tvoneconnection
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE INTERNACIONAL",MEGA INTERNACIONAL
-http://149.202.202.127:8000/live/Sandro/Sandro/2642.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE INTERNACIONAL",MEGA INTERNACIONAL
 http://149.202.202.127:8000/live/Sandro/Sandro/1909.ts
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE INTERNACIONAL",CHV INTERNACIONAL
