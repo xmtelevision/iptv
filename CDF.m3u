@@ -12,7 +12,7 @@ http://149.202.202.127:8000/live/Sandro/Sandro/1909.ts
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY (PRONTO)
 http://proxy-026.dc3.dailymotion.com/sec(d392e1ae3336e1a1ed9b679b1449a70a)/video/259/560/271065952_mp4_h264_aac_hq_1.m3u8
 
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY (KODI-ROSADIN) Bullanguero
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY (KODI-ROSADIN)
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY HD ARENAVISION 17
@@ -33,7 +33,7 @@ http://premium.exabytetv.info/gc/no-pertenecemos-al-addon-live-kodi-total-ni-a-o
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425287/11425287_720p.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",CDF Premium (KODI-ROSADIN) Bullanguero
+#EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",CDF Premium (KODI-ROSADIN) 
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",Estadio CDF HD Acestream (SOLO PARTIDOS)
