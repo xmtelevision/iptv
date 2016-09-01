@@ -26,7 +26,7 @@ http://premium.exabytetv.info/gc/no-pertenecemos-al-addon-live-kodi-total-ni-a-o
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425287/11425287_720p.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",CDF Premium Bullanguero (KODI o ROSADIN) 
+#EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",CDF Premium Bullanguero (KODI-ROSADIN) 
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",Estadio CDF HD Acestream (SOLO PARTIDOS)
