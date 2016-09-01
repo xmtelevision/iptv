@@ -2,6 +2,9 @@
 
 #EXTINF:0,[COLOR green][B]----CHILE-PARAGUAY----[/B][/COLOR]
 
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY FOX SPORTS
+http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 1
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 2
@@ -13,16 +16,13 @@ http://158.69.226.108:8000/live/Demo/Demo/1154.ts
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 5
 http://158.69.226.108:8000/live/Demo/Demo/899.ts
 
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY (PRONTO)
-http://proxy-026.dc3.dailymotion.com/sec(d392e1ae3336e1a1ed9b679b1449a70a)/video/259/560/271065952_mp4_h264_aac_hq_1.m3u8
-
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY (KODI-ROSADIN)
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY HD ARENAVISION 17
-http://proxy-026.dc3.dailymotion.com/sec(d392e1ae3336e1a1ed9b679b1449a70a)/video/259/560/271065952_mp4_h264_aac_hq_1.m3u8
+acestream://a0eb7e6e34545feef6783c854496da7ac07ea2c4
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY HD ARENAVISION 18
-http://proxy-026.dc3.dailymotion.com/sec(d392e1ae3336e1a1ed9b679b1449a70a)/video/259/560/271065952_mp4_h264_aac_hq_1.m3u8
+acestream://d8adb09935cd09640da04fec02721c92f5b7f097
 
 #EXTINF:0,[COLOR green][B]----CDF----[/B][/COLOR]
 
