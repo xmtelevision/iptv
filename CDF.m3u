@@ -78,29 +78,30 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES",CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
-#EXTINF:0,[COLOR red][B]----CHILE----[/B][/COLOR]
+#EXTINF:0,[COLOR red][B]----FUERA DE CHILE----[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV FUERA DE CHILE
 http://199.180.114.174:8000/live/oscar/oscar/964.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN FUERA DE CHILE
 http://199.180.114.174:8000/live/oscar/oscar/961.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega FUERA DE CHILE
 http://199.180.114.174:8000/live/oscar/oscar/962.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="CHILE",La Red
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="CHILE",LA RED FUERA DE CHILE
 http://149.202.202.127:8000/live/Sandro/Sandro/4986.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="CHILE",La Red
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="CHILE",LA RED FUERA DE CHILE
 http://149.202.202.127:8000/live/Sandro/Sandro/4983.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN FUERA DE CHILE
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b500.m3u8?tvoneconnection
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN FUERA DE CHILE
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8?tvoneconnection
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA FUERA DE CHILE
 http://149.202.202.127:8000/live/Sandro/Sandro/2642.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA FUERA DE CHILE
 http://149.202.202.127:8000/live/Sandro/Sandro/1909.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV PRUEBA FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV FUERA DE CHILE
 http://149.202.202.127:8000/live/Sandro/Sandro/4984.ts
 
+#EXTINF:0,[COLOR red][B]----CHILE----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
