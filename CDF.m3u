@@ -47,6 +47,8 @@ http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
 http://stream.zetatv.cf/pw/ligarincon_a539aod/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",Bein Laliga
 http://latino-webtv.ml/pw/ligarincon_a539aod/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",Bein Laliga
+http://s4.latino-webtv.ml:8000/ligaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www1.movistarplus.es/estaticos/img-movistar/nueva-imagen/logo-deportes-1.png" group-title="DEPORTES",Movistar Deportes
 http://stream.zetatv.cf/pw/deportes_13uk31p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png" group-title="DEPORTES",Movistar Deportes 2
