@@ -81,11 +81,11 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 #EXTINF:0,[COLOR red][B]----CHILE----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV PRUEBA FUERA DE CHILE
-http://199.180.114.174:8000/live/adolfo/adolfo/964.ts
+http://199.180.114.174:8000/live/oscar/oscar/964.ts
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN PRUEBA FUERA DE CHILE
-http://199.180.114.174:8000/live/adolfo/adolfo/961.ts
+http://199.180.114.174:8000/live/oscar/oscar/961.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega PRUEBA FUERA DE CHILE
-http://199.180.114.174:8000/live/adolfo/adolfo/962.ts
+http://199.180.114.174:8000/live/oscar/oscar/962.ts
 
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
