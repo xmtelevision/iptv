@@ -8,6 +8,10 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 http://199.180.114.174:8000/live/oscar/oscar/962.ts
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 3
 http://149.202.202.127:8000/live/Sandro/Sandro/1909.ts
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 4
+http://158.69.226.108:8000/live/Demo/Demo/1154.ts
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY MEGA 5
+http://158.69.226.108:8000/live/Demo/Demo/899.ts
 
 #EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-PARAGUAY",CHILE-PARAGUAY (PRONTO)
 http://proxy-026.dc3.dailymotion.com/sec(d392e1ae3336e1a1ed9b679b1449a70a)/video/259/560/271065952_mp4_h264_aac_hq_1.m3u8
