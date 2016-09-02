@@ -73,15 +73,15 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
 http://edge-91-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN 480
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN SD
 http://edge-91-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b950.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN 360
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN SD
 http://edge-91-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b500.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD 
 http://edge-21-gtd.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN 480
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN SD
 http://edge-21-gtd.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b950.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN 360
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN SD
 http://edge-21-gtd.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
@@ -245,9 +245,9 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv HD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv 480
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv SD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream2/chunks.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv 240
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS",Carolina Tv SD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream3/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="RADIOS", Contivision Musica 
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
