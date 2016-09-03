@@ -190,7 +190,7 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/soberania-tv-magallanes-y-antartica.jpg?160315114433" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
-#EXTINF:0,[COLOR blue][B]----UOCT----[/B][/COLOR]
+#EXTINF:0,[COLOR red][B]----UOCT----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Isidora Goyenechea-Vitacura
 http://200.75.19.171/uoct/55/playlist.m3u8
@@ -288,7 +288,7 @@ http://200.75.19.171/uoct/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Isabel Riquelme con Bascuñán Guerrero
 http://200.75.19.171/uoct/6/playlist.m3u8
 
-#EXTINF:0,[COLOR red][B]----RADIOS CON VIDEO----[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]----RADIOS CON VIDEO----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GIY6wO9.jpg" group-title="RADIOS CON VIDEO",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
@@ -321,34 +321,6 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,[COLOR red][B]----RADIOS----[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Catalina Coronel
-http://stream5.eltelon.com/catalina-coronel.aac?
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Dinamica Coronel
-http://stream5.eltelon.com/dinamica.aac?
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Isidora Coronel
-http://stream5.eltelon.com/isidora-coronel.aac?
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Don Matias Lota
-http://190.13.151.228:8002/stream
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",El Carbon Lota
-http://tunein.digitalproserver.com/el_carbonbb.aac
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Fm Stylo 
-http://wowza.chiloestreaming.com:9122
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Quellon Fm
-http://s3.medionline.cl:7932/;stream.nsv&type=pls
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Estrella del Mar Quellon
-http://stream5.eltelon.com/estrella-del-mar-quellon.aac?type=.flv
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Radio Nahuel
-http://streaming.chiloestreaming.com:9142
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",San Carlos 
-http://streaming.chiloestreaming.com:9146
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Libertad
-http://streaming.chiloestreaming.com:9148
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",C y S 
-http://stream5.eltelon.com/c-y-s.aac?
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Martin Ruiz de Gamboa
-http://streaming.chiloestreaming.com:9548
-#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Imagen Fm
-http://streaming.chiloestreaming.com:9880
 #EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Radio Activa
 http://69.31.54.139/ACTIVA.mp3?type=.flv
 #EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Radio PortalFoxMix 
@@ -559,8 +531,36 @@ http://unlimited1-us.digitalproserver.com/biobiovaldivia/aac/icecast.audio
 http://unlimited1-us.digitalproserver.com/biobioosorno/aac/icecast.audio
 #EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios", biobio puerto montt
 http://unlimited1-us.digitalproserver.com/biobiopuertomontt/aac/icecast.audio
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Catalina Coronel
+http://stream5.eltelon.com/catalina-coronel.aac?
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Dinamica Coronel
+http://stream5.eltelon.com/dinamica.aac?
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Isidora Coronel
+http://stream5.eltelon.com/isidora-coronel.aac?
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Don Matias Lota
+http://190.13.151.228:8002/stream
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",El Carbon Lota
+http://tunein.digitalproserver.com/el_carbonbb.aac
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Fm Stylo 
+http://wowza.chiloestreaming.com:9122
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Quellon Fm
+http://s3.medionline.cl:7932/;stream.nsv&type=pls
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Estrella del Mar Quellon
+http://stream5.eltelon.com/estrella-del-mar-quellon.aac?type=.flv
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Radio Nahuel
+http://streaming.chiloestreaming.com:9142
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",San Carlos 
+http://streaming.chiloestreaming.com:9146
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Libertad
+http://streaming.chiloestreaming.com:9148
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",C y S 
+http://stream5.eltelon.com/c-y-s.aac?
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Martin Ruiz de Gamboa
+http://streaming.chiloestreaming.com:9548
+#EXTINF:-1 tvg-logo="http://www.labambaradio.com/siteimages/BOCINAS.png" group-title="Radios",Imagen Fm
+http://streaming.chiloestreaming.com:9880
 
-#EXTINF:0,[COLOR red][B]----DEPORTES----[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]----DEPORTES----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
 http://co.exabytetv.info/jua/6d75f68g9hiom/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS91ZmMtbmV0d29yay1lbi12aXZvLmh0bWw=/exabytetv.m3u8
