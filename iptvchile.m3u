@@ -2,11 +2,8 @@
 
 #EXTINF:0,[COLOR green][B]----CDF----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF 1
+#EXTINF:0 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF 
 http://premium.exabytetv.info/gc/6d75f68g9hiom/1324/exabytetv.m3u8
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF 2 
-http://158.69.226.108:8000/live/Elfino/Elfino/1032.ts
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF Premium WebdelFutbol (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425964/11425964_720p.m3u8
@@ -421,10 +418,6 @@ http://latino-webtv.ml/pw/plusfutbolrincondepensar_9wtnl4t/chunklist.m3u8
 http://stream.zetatv.cf/pw/barcatv_aw3h4aq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png" group-title="DEPORTES",Movistar Golf
 http://stream.zetatv.cf/pw/golf_asn535f/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PhlTiEJ.jpg" group-title="DEPORTES",Gol Peru
-http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VYKi7Mx.jpg" group-title="DEPORTES",CMD Peru
-http://b36642.cdn.telefonica.com/36642/ch07/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lateledelacoope.com.ar/images/deportes/dxtvnew.png" group-title="DEPORTES",DXTV
