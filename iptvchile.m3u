@@ -256,21 +256,9 @@ http://200.75.19.171/uoct/29/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Camino del Inca
 http://200.75.19.171/uoct/54/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Presidente Riesco
-http://200.75.19.171/uoct/53/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Vitacura
-http://200.75.19.171/uoct/49/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Rotonda Perez Zujovic
-http://200.75.19.171/uoct/47/playlist.m3u8
- 
+  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Apoquindo-Manquehue
 http://200.75.19.171/uoct/43/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Andres Bello-Nueva Tajamar
-http://200.75.19.171/uoct/42/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Diagonal Oriente con Vespucio
 http://200.75.19.171/uoct/10/playlist.m3u8
@@ -289,12 +277,6 @@ http://200.75.19.171/uoct/21/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Alameda-Concon
 http://200.75.19.171/uoct/28/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Pajaritos-5 de abril
-http://200.75.19.171/uoct/51/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Alameda-Matucana
-http://200.75.19.171/uoct/38/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", General Bonilla con Teniente Cruz
 http://200.75.19.171/uoct/55/playlist.m3u8
@@ -347,33 +329,9 @@ http://127.0.0.1
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Alameda-Cumming
 http://200.75.19.171/uoct/16/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Ruta 5-Vespucio
-http://200.75.19.171/uoct/52/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Pedro Fontova
-http://200.75.19.171/uoct/50/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Recoleta
-http://200.75.19.171/uoct/48/playlist.m3u8
- 
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", UOCT: Zona Sur
 http://127.0.0.1
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Departamental-Pedro Aguirre Cerda
-http://200.75.19.171/uoct/46/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Departamental-5 sur
-http://200.75.19.171/uoct/45/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Vicuña Mackenna
-http://200.75.19.171/uoct/41/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Gran Avenida
-http://200.75.19.171/uoct/40/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vespucio-Santa Rosa
-http://200.75.19.171/uoct/39/playlist.m3u8
- 
+  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vicuña Mackenna con Departamental
 http://200.75.19.171/uoct/8/playlist.m3u8
  
