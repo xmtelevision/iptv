@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR green][B]----CDF----[/B][/COLOR]
+#EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF 
 http://premium.exabytetv.info/gc/10100011101010100001110101/1324/exabytetv.m3u8
@@ -14,7 +14,7 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 #EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",Estadio CDF HD Acestream (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425964/11425964_720p.m3u8
 
-#EXTINF:0,[COLOR green][B]----CDO----[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]----CDO----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="CDO",CDO Premium 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b1064000.m3u8
@@ -190,7 +190,7 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.cl/soberania-tv-magallanes-y-antartica.jpg?160315114433" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
-#EXTINF:0,[COLOR blue][B]----RADIOS----[/B][/COLOR]
+#EXTINF:0,[COLOR red][B]----RADIOS----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GIY6wO9.jpg" group-title="RADIOS",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
@@ -323,7 +323,7 @@ http://200.75.19.171/uoct/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Isabel Riquelme con Bascuñán Guerrero
 http://200.75.19.171/uoct/6/playlist.m3u8
 
-#EXTINF:0,[COLOR green][B]----DEPORTES----[/B][/COLOR]
+#EXTINF:0,[COLOR red][B]----DEPORTES----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/Vsl4lYd.jpg" group-title="DEPORTES",UFC Network
 http://co.exabytetv.info/jua/6d75f68g9hiom/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS91ZmMtbmV0d29yay1lbi12aXZvLmh0bWw=/exabytetv.m3u8
