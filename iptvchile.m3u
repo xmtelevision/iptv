@@ -227,9 +227,6 @@ http://167.114.119.122:9934/;
 
 #EXTINF:0,[COLOR blue][B]----UOCT----[/B][/COLOR]
 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", UOCT: Zona Oriente
-http://127.0.0.1
- 
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Isidora Goyenechea-Vitacura
 http://200.75.19.171/uoct/55/playlist.m3u8
  
@@ -269,9 +266,6 @@ http://200.75.19.171/uoct/13/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", El Cerro con Los Conquistadores
 http://200.75.19.171/uoct/2/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", UOCT: Zona Poniente
-http://127.0.0.1
- 
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", General Velazquez-Arica
 http://200.75.19.171/uoct/21/playlist.m3u8
  
@@ -283,9 +277,6 @@ http://200.75.19.171/uoct/55/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", San Pablo con Neptuno
 http://200.75.19.171/uoct/3/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", UOCT: Zona Centro
-http://127.0.0.1
  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Viel-Matta
 http://200.75.19.171/uoct/34/playlist.m3u8
@@ -323,15 +314,9 @@ http://200.75.19.171/uoct/17/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", San Antonio con Agustinas
 http://200.75.19.171/uoct/14/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", UOCT: Zona Norte
-http://127.0.0.1
- 
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Alameda-Cumming
 http://200.75.19.171/uoct/16/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", UOCT: Zona Sur
-http://127.0.0.1
-  
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", Vicuña Mackenna con Departamental
 http://200.75.19.171/uoct/8/playlist.m3u8
  
