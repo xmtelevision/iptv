@@ -227,6 +227,8 @@ http://69.31.54.139/ACTIVA.mp3?type=.flv
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="RADIOS",Radio PortalFoxMix 
 http://167.114.119.122:9934/;
 
+#EXTINF:0,[COLOR blue][B]----UOCT----[/B][/COLOR]
+
 #EXTINF:-1, tvg-logo="http://concepcion.uoct.cl/wp-content/themes/wp-uoct-v2/media/uoct-logo.png" group-title="UOCT", UOCT: Zona Oriente
 http://127.0.0.1
  
