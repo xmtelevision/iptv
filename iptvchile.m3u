@@ -16,6 +16,11 @@ rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.t
 #EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",Estadio CDF HD Acestream (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425964/11425964_720p.m3u8
 
+#EXTINF:0,[COLOR green][B]----CDO----[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="CDO",CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
 #EXTINF:0,[COLOR red][B]----CHILE----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
@@ -271,5 +276,4 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvbaj.com/wp-content/uploads/2015/02/realmadridtv-logo.jpg" group-title="DEPORTES",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES",CDO Premium
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
