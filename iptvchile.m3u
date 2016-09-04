@@ -61,8 +61,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-632.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-400.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
-http://csm-e-saw1-12.yospace.13.cl/csm/live/108031140.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8
@@ -72,10 +70,8 @@ http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 http://cdn.ztreaming.com/t13vivo3/mobile.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="CHILE",UCV HD
 http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="CHILE",UCV 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="CHILE",UCV HD
 http://movilstream.digitalproserver.com:554/ucvtv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="CHILE",UCV 
-http://movilstream.digitalproserver.com:554/ucvtv2/ucvtv2vivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="CHILE",UCV 
 http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b848000.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="CHILE",UCV 
