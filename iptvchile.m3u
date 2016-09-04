@@ -259,7 +259,7 @@ http://200.75.19.171/uoct/6/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]----RADIOS CON VIDEO----[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GIY6wO9.jpg" group-title="RADIOS CON VIDEO",Carnaval Tv 
+#EXTINF:-1 tvg-logo="http://canalcarnaval.cl/wp-content/uploads/2016/03/logo38-l3tras.png" group-title="RADIOS CON VIDEO",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS CON VIDEO",Carolina Tv HD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
