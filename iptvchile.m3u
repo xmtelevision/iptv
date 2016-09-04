@@ -261,11 +261,11 @@ http://200.75.19.171/uoct/6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://canalcarnaval.cl/wp-content/uploads/2016/03/logo38-l3tras.png" group-title="RADIOS CON VIDEO",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS CON VIDEO",Carolina Tv HD
+#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/logo.png" group-title="RADIOS CON VIDEO",Carolina Tv HD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS CON VIDEO",Carolina Tv SD
+#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/logo.png" group-title="RADIOS CON VIDEO",Carolina Tv SD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream2/chunks.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qarIeEh.jpg" group-title="RADIOS CON VIDEO",Carolina Tv SD
+#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/logo.png" group-title="RADIOS CON VIDEO",Carolina Tv SD
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream3/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="RADIOS CON VIDEO", Contivision Musica 
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
