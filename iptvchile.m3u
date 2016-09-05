@@ -40,8 +40,12 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 http://edge-81-cl.edge.mdstrm.com/tvn-live/_definst_/smil:225f11a5627dd430dbed14a5a169dd74/chunklist_b800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega
+http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="CHILE",La Red (KODI-ROSADIN)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV (KODI-ROSADIN)
+rtmp://198.255.96.66/app app=app playpath=17586?MTQ3MzA0NDEwODswNzVjNjMzMzczOWIxNGY1YjE5MjUwMDhjZDA1MWYzNw== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4463324e6d55324e5463344e7a51324f445930/f6b7e05be9bb live=true timeout=15
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
@@ -54,6 +58,8 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8
 http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 (KODI-ROSADIN)
+rtmp://198.255.96.42/app app=app playpath=17585?MTQ3MzA0NDI1NTszZTRkOGFiMjk2M2IyNjE0Y2VkMDYxOGI5YWU5ZDY4MA== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6d55324e5463344e7a51324f445930/66dffdb82c8f live=true timeout=15
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
