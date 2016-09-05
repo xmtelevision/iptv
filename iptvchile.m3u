@@ -24,6 +24,8 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b
 
 #EXTINF:0,[COLOR red][B]----CHILE----[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN (KODI-ROSADIN)
+rtmp://198.255.96.74/app app=app playpath=17632?MTQ3MzA0Mzc4MTs3N2M5NjNmMWVmNzM3NjA5ZDgxYzNjZGVmMmQwOTBjZg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334e6a5a6c4d7a493d/ac616228dbf8 live=true timeout=15
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
 http://edge-71-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
