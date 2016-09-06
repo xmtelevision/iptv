@@ -2,7 +2,7 @@
 
 #EXTINF:0,[COLOR green][B]----CHILE-BOLIVIA----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA FOX SPORTS
+#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA FOX SPORTS CHILE
 
 http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
 
