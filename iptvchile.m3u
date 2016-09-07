@@ -1,33 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR green][B]----CHILE-BOLIVIA----[/B][/COLOR]
-
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA FOX SPORTS CHILE
-
-http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA MEGA 1
-http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
-
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA MEGA 2
-http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA (KODI-ROSADIN)
-
-rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
-
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA HD ARENAVISION 1
-
-acestream://50a24c2b185fb549e38c4f9b35a4afcbf55ed624
-
-#EXTINF:0 tvg-logo="http://islandsports.tv/wp-content/uploads/2016/02/chile.png" group-title="CHILE-BOLIVIA",CHILE-BOLIVIA HD ARENAVISION 2
-
-acestream://4484b176d2e08fd5746c153e1dee5ad684f3531d
-
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF 
-http://premium.exabytetv.info/gc/1010001110101011000011101011/1324/exabytetv.m3u8
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
 http://cdn.metacafe.com/videos/11425000/11425964/11425964_720p.m3u8
