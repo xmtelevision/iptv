@@ -2,6 +2,11 @@
 
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
+#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF PREMIUN ZR DEMO
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/smartv_iptv_latino_total/274.ts
+#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",CDF BASICO ZR DEMO
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/smartv_iptv_latino_total/422.ts
+
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
 
