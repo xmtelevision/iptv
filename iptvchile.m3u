@@ -2,9 +2,9 @@
 
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF PREMIUN DEMO
+#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF PREMIUN (DEMO)
 http://62.210.107.58:8000/live/smartv_iptv_latino_total/smartv_iptv_latino_total/274.ts
-#EXTINF:0 tvg-logo="http://i.imgur.com/BfSfbTy.jpg" group-title="CDF",CDF BASICO DEMO
+#EXTINF:0 tvg-logo="http://i.imgur.com/BfSfbTy.jpg" group-title="CDF",CDF BASICO (DEMO)
 http://62.210.107.58:8000/live/smartv_iptv_latino_total/smartv_iptv_latino_total/422.ts
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
