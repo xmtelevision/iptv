@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.caitv.net/directv-logo.jpg" ,Manchester United vs Manchester City
-http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
-
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
