@@ -5,7 +5,9 @@
 #EXTINF:0,CDF DEMO
 http://62.210.107.58:8000/live/smartv_iptv_latino_total/smartv/274.ts
 
-#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
+#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol 1 (SOLO PARTIDOS)
+http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol 2 (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalalongo5/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",Bullanguero (KODI-ROSADIN) 
