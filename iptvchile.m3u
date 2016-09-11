@@ -12,7 +12,7 @@ http://stream.ssh101.com:1935/live/lalalongo5/chunklist.m3u8
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",Estadio CDF HD (ACESTREAM)
-acestream://b617014f8a2059aaec7bc4b9ade65a4b9c4af0c1
+acestream://10e8c3810a4f13e84f8f75ac8dc562e0b94e0092
 
 #EXTINF:0,[COLOR blue][B]----CDO----[/B][/COLOR]
 
