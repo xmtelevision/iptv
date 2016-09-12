@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:0,[COLOR red][B]----NUEVOS----[/B][/COLOR]
+
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4418/poster_150x150-2.jpg" group-title="NUEVOS",Trailer Tv
+http://evo.eltelon.com:1935/live/trailer-tv/chunklist_w370725569.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="NUEVOS",Trailer Tv Kids
+http://evo.eltelon.com:1935/live/trailer-tvkids/chunklist_w514100352.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4478/poster_150x150-2.jpg" group-title="NUEVOS",Pandero Music top 50
+http://190.107.176.55:1935/live/pandero-top/chunklist_w1309422505.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4479/poster_150x150-2.jpg" group-title="NUEVOS",Pandero Music Chile
+http://evo.eltelon.com:1935/live/pandero-chile/chunklist_w666729793.m3u8
+
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol 1 (SOLO PARTIDOS)
