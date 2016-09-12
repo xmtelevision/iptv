@@ -24,7 +24,7 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b
 #EXTINF:0,[COLOR red][B]----CHILE----[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN (KODI-ROSADIN)
-rtmp://198.255.96.74/app app=app playpath=17632?MTQ3MzA0Mzc4MTs3N2M5NjNmMWVmNzM3NjA5ZDgxYzNjZGVmMmQwOTBjZg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334e6a5a6c4d7a493d/ac616228dbf8 live=true timeout=15
+rtmp://198.255.96.34/app app=app playpath=17632?MTQ3MzcxMjc0MztiYTBhM2UwNTQ3ZjE1ZjQ0MTY4MGJiODcxY2FmYTUxNw== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334e6a5a6c4d7a493d/df86b2a3acef live=true timeout=15
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
 http://edge-71-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
@@ -44,7 +44,7 @@ http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="CHILE",La Red (KODI-ROSADIN)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV (KODI-ROSADIN)
-rtmp://198.255.96.66/app app=app playpath=17586?MTQ3MzA0NDEwODswNzVjNjMzMzczOWIxNGY1YjE5MjUwMDhjZDA1MWYzNw== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4463324e6d55324e5463344e7a51324f445930/f6b7e05be9bb live=true timeout=15
+rtmp://198.255.96.50/app app=app playpath=17586?MTQ3MzcxMjgyNDtiNTJmNjU3ZWZjMDExNmU0M2FiZWRkOTIwMjljZGY1OA== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4463324e6d55324e5463344e7a51324f445930/0dcc4142dab2 live=true timeout=15
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
@@ -58,7 +58,7 @@ http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 (KODI-ROSADIN)
-rtmp://198.255.96.66/app<playpath>17585?MTQ3MzcxMjE4NTszMWY2MDE5MDI1MzNkZTJlMzY2YzM3ZmRjYTM5NmQzZA== <swfUrl>http://cdn.shidurlive.com/player.swf <pageUrl>http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6d55324e5463344e7a51324f445930/0d993ac2736a
+rtmp://50.7.28.194/app app=app playpath=17585?MTQ3MzcxMjg4NzthNTBjZjQ3Yzg4MDFmNjdkNjdjMzY2OGE0MzVhMzg2NQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6d55324e5463344e7a51324f445930/b8e4cd3fa4d2 live=true timeout=15
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
