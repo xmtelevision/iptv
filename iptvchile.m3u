@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
+http://chibiurl.com/vgqcs
+#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
+http://83.78.191.43:2048
+#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
+http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
+#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
+http://er-cdn.ertelecom.ru/os/video/hls/bt1064000/track.m3u8?session=ejvD7ofiNVsO54NCiUWrbRxGpAPbdrGY76bkcxUg
+
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol 1 (SOLO PARTIDOS)
