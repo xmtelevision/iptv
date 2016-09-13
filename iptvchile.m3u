@@ -1,43 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”beins.png”,BeinSport
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide  playpath=9lzkqxoo910s9l9  swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1  pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 tvg-logo=”canalplus_liga_hd.png” ,Bein Laliga
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61/privatestream  playpath=soless?keys=g40jEYWMO9x_7YAOZdEwfQ&keyt=1471914403  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1  pageUrl=http://privatestream.tv/
-#EXTINF:-1 tvg-logo=”canalplus_liga_hd.png” ,Bein Laliga
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61/privatestream  playpath=soless?keys=g40jEYWMO9x_7YAOZdEwfQ&keyt=1471914403  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1  pageUrl=http://privatestream.tv/
-#EXTINF:-1 tvg-logo=”canalplus_liga_hd.png” ,Bein Laliga
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to:1935/iguide  playpath=ukrfo4f4yx35kpl  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf  live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 tvg-logo=”canalplus_deportes_hd-300×127.png”,DEPORTES 1
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to:1935/iguide  playpath=scsbrvgrlbit9aw  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf  live=1 pageUrl=http://www.iguide.to/
-#EXTINF:-1 tvg-logo=”canalplus_deportes_hd-300×127.png”,DEPORTES 1
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to:1935/iguide  playpath=8z2sz9pg92rdjw1  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf  live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 tvg-logo=”canalplus_deportes_hd-300×127.png”,DEPORTES 2
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61:1935/privatestream  playpath=pdeportes247?keys=6qLKwoYAGmk09MVK0EiMdw&keyt=1472935750  swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-logo=”canalplus_futbol_hd-300×127.png”,C+ FUTBOL
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to:1935/iguide  playpath=6ltjhvrrjebsszd  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf  live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-
-#EXTINF:0,[COLOR red][B]----NUEVOS----[/B][/COLOR]
-
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4418/poster_150x150-2.jpg" group-title="NUEVOS",Trailer Tv
-http://evo.eltelon.com:1935/live/trailer-tv/chunklist_w370725569.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="NUEVOS",Trailer Tv Kids
-http://evo.eltelon.com:1935/live/trailer-tvkids/chunklist_w514100352.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4478/poster_150x150-2.jpg" group-title="NUEVOS",Pandero Music top 50
-http://190.107.176.55:1935/live/pandero-top/chunklist_w1309422505.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4479/poster_150x150-2.jpg" group-title="NUEVOS",Pandero Music Chile
-http://evo.eltelon.com:1935/live/pandero-chile/chunklist_w666729793.m3u8
-
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol 1 (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol 2 (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalalongo5/chunklist.m3u8
-
 #EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",Bullanguero (KODI-ROSADIN) 
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
-
 #EXTINF:0 tvg-logo="http://i.imgur.com/Gh9OTVE.jpg" group-title="CDF",Estadio CDF HD (ACESTREAM)
 acestream://10e8c3810a4f13e84f8f75ac8dc562e0b94e0092
 
@@ -45,14 +15,11 @@ acestream://10e8c3810a4f13e84f8f75ac8dc562e0b94e0092
 
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="CDO",CDO Premium 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b1064000.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="CDO",CDO Premium 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b640000.m3u8
 
 #EXTINF:0,[COLOR red][B]----CHILE----[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN (KODI-ROSADIN)
-rtmp://198.255.96.34/app app=app playpath=17632?MTQ3MzcxMjc0MztiYTBhM2UwNTQ3ZjE1ZjQ0MTY4MGJiODcxY2FmYTUxNw== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334e6a5a6c4d7a493d/df86b2a3acef live=true timeout=15
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
 http://edge-71-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
@@ -71,8 +38,6 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="CHILE",La Red (KODI-ROSADIN)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV (KODI-ROSADIN)
-rtmp://198.255.96.50/app app=app playpath=17586?MTQ3MzcxMjgyNDtiNTJmNjU3ZWZjMDExNmU0M2FiZWRkOTIwMjljZGY1OA== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d324f4463324e6d55324e5463344e7a51324f445930/0dcc4142dab2 live=true timeout=15
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
@@ -85,9 +50,6 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8
 http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="CHILE",CHV 
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 (KODI-ROSADIN)
-rtmp://50.7.28.194/app app=app playpath=17585?MTQ3MzcxMjg4NzthNTBjZjQ3Yzg4MDFmNjdkNjdjMzY2OGE0MzVhMzg2NQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d7a4d544d7a4e6d55324e5463344e7a51324f445930/b8e4cd3fa4d2 live=true timeout=15
-
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="CHILE",Canal 13 
@@ -149,6 +111,10 @@ http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
 http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://media.tumblr.com/2b6b0ac9e646b3b91537c1f45a5a64d9/tumblr_inline_mmsyp4OxUu1qz4rgp.png" group-title="REGIONALES",Fail Army Santiago
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4418/poster_150x150-2.jpg" group-title="REGIONALES",Trailer Tv
+http://evo.eltelon.com:1935/live/trailer-tv/chunklist_w370725569.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="REGIONALES",Trailer Tv Kids
+http://evo.eltelon.com:1935/live/trailer-tvkids/chunklist_w514100352.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-agrotv.png" group-title="REGIONALES", Agro Tv Santiago
 http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/chunklist_w729317017.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763410127256948736/T4xDXrS6.jpg" group-title="REGIONALES", Maipu Television
@@ -293,6 +259,10 @@ http://200.75.19.171/uoct/6/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]----RADIOS CON VIDEO----[/B][/COLOR]
 
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4478/poster_150x150-2.jpg" group-title="RADIOS CON VIDEO",Pandero Music top 50
+http://190.107.176.55:1935/live/pandero-top/chunklist_w1309422505.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4479/poster_150x150-2.jpg" group-title="RADIOS CON VIDEO",Pandero Music Chile
+http://evo.eltelon.com:1935/live/pandero-chile/chunklist_w666729793.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fZffdxL.jpg" group-title="RADIOS CON VIDEO",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOS CON VIDEO",Carolina Tv HD
