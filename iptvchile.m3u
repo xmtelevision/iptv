@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
-http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_portocarrero/271.ts
-#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
-http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_portocarrero/270.ts
-#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
-http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_portocarrero/276.ts
-#EXTINF:0 tvg-logo="http://www.photoshopfiles.com/photoshop_files/819/preview.png",Champions League
-http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_portocarrero/272.ts
 
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
