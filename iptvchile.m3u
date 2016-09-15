@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium DEMO
-http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_234/274.ts
 #EXTINF:-1 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png", Fox Sports CHILE DEMO
 http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_234/271.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",Fox Sports 2 CHILE DEMO
@@ -9,7 +7,9 @@ http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_234/270.ts
 
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
-#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol 1 (SOLO PARTIDOS)
+#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium DEMO
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_234/274.ts
+#EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalolanda1122/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",Bullanguero (KODI-ROSADIN) 
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
