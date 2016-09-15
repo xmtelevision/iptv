@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium DEMO
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_234/274.ts
+#EXTINF:-1 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png", Fox Sports CHILE DEMO
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_234/271.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",Fox Sports 2 CHILE DEMO
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/juan_234/270.ts
 
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
