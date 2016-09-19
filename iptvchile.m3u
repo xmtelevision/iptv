@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_TDN.png/200px-Logo_TDN.png" group-title="TDN",TDN
-http://livestream-f.akamaihd.net/i/21236275_6362109_lsi6qwvwiq5cwag7qpj_1@306528/index_348_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1474224338~acl=%2Fi%2F21236275_6362109_lsi6qwvwiq5cwag7qpj_1%40306528%2F*~data=hdntl~hmac=fcd31528c1849aab1c475e67d6fa5e172e0ee61efd4b21c711a598a2d09abd73
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_TDN.png/200px-Logo_TDN.png" group-title="TDN",TDN
-http://stream.ssh101.com:1935/live/planetadeportesweb/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://image.spreadshirtmedia.com/image-server/v1/compositions/103231344/views/1,width=190,height=190,appearanceId=17,version=1452254899.png/vl-classic_design.png" group-title="vaughnlive",vaughnlive
+rtmp://192.240.113.106:1935/live?cZ49YCfMoFJIpWLwZVIrpDyYqYuj6N6z app=live?cZ49YCfMoFJIpWLwZVIrpDyYqYuj6N6z playpath=live_psn27v  swfUrl=http://vaughnlive.tv/psn27v pageUrl=http://vaughnlive.tv/psn27v  live=true
 
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
