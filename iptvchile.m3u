@@ -259,6 +259,8 @@ http://200.75.19.171/uoct/6/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]----RADIOS CON VIDEO----[/B][/COLOR]
 
+#EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOS CON VIDEO",AE Radio
+http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w1125199642.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4478/poster_150x150-2.jpg" group-title="RADIOS CON VIDEO",Pandero Music top 50
 http://190.107.176.55:1935/live/pandero-top/chunklist_w1309422505.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4479/poster_150x150-2.jpg" group-title="RADIOS CON VIDEO",Pandero Music Chile
