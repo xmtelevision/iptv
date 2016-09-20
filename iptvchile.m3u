@@ -174,7 +174,7 @@ http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-inetosorno.png" group-title="REGIONALES", Inet 2 Tv Osorno 
 http://movilstream.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist-b848000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.chiloetv.cl/images/chiloe%20tv%20.jpg" group-title="REGIONALES",Chiloe Tv Castro
-http://servers10.com:1935/8338/8338/playlist.m3u8
+http://streaminglivehd.com:1935/8038//8038/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-roccotv.png" group-title="REGIONALES",Rocco Tv Coyhaique
 http://evo.eltelon.com:443/live/rocco-tv/chunklist_w1957411020.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-EWHy1BaA30w/AAAAAAAAAAI/AAAAAAAAAAA/775v4DmEzVQ/s100-c-k-no-rj-c0xffffff/photo.jpg" group-title="REGIONALES", Aysen Tv
