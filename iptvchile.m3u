@@ -115,6 +115,8 @@ http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
 http://evo.eltelon.com:1935/live/trailer-tv/chunklist_w370725569.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="REGIONALES",Trailer Tv Kids
 http://evo.eltelon.com:1935/live/trailer-tvkids/chunklist_w514100352.m3u8
+#EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-teletrak.png" group-title="REGIONALES",Teletrak
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w2041675405_b750000_slesp.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-agrotv.png" group-title="REGIONALES", Agro Tv Santiago
 http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/chunklist_w729317017.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763410127256948736/T4xDXrS6.jpg" group-title="REGIONALES", Maipu Television
@@ -145,6 +147,10 @@ http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-noticiascolchagua.png" group-title="REGIONALES", CNC Colchagua Santa Cruz
 http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
+#EXTINF:-1 tvg-logo="http://www.utvsanclemente.cl/img/logo-utv-sc.png" group-title="REGIONALES",UTV San Clemente
+http://cdn.mediostream.cl/utvs/livestream/chunklist_w602210427.m3u8?
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4216/poster_150x150-2.jpg" group-title="REGIONALES",Canal Regional San Clemente
+http://evo.eltelon.com:1935/live/san-clemente/chunklist_w981983238.m3u8
 #EXTINF:-1 tvg-logo="http://tvmaule.cl/web/img/logo.png" group-title="REGIONALES",Tv Maule Talca
 http://videostreaming.cl:8080/live/tvmaule.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-campustv.png" group-title="REGIONALES",Campus Tv Talca
@@ -171,6 +177,8 @@ http://movilstream.digitalproserver.com/uautonoma/uautonomavivo/uautonoma.smil/c
 http://wow2.cl.digitalproserver.com/ufro/ufrovivo/mp4:livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tectv.png" group-title="REGIONALES", TEC Television Temuco
 http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://www.canal33.cl/assets/images/logo.png" group-title="REGIONALES", Canal 33 Temuco
+http://evo.eltelon.com:443/live/canal-33/chunklist_w859275720.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-inetosorno.png" group-title="REGIONALES", Inet 2 Tv Osorno 
 http://movilstream.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist-b848000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.chiloetv.cl/images/chiloe%20tv%20.jpg" group-title="REGIONALES",Chiloe Tv Castro
@@ -261,6 +269,10 @@ http://200.75.19.171/uoct/6/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOS CON VIDEO",AE Radio
 http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w1125199642.m3u8
+#EXTINF:0 tvg-logo="http://www.maximafm.cl/maximachile/MAXIMAchile.jpg" group-title="RADIOS CON VIDEO",Maxima Fm
+http://evo.eltelon.com:1935/live/archi-maximafm/chunklist_w2072098221.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1092536678/logorp_400x400.jpg" group-title="RADIOS CON VIDEO",Radio Polar
+http://evo.eltelon.com:1935/live/archi-polar/chunklist_w16721680.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4478/poster_150x150-2.jpg" group-title="RADIOS CON VIDEO",Pandero Music top 50
 http://190.107.176.55:1935/live/pandero-top/chunklist_w1309422505.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4479/poster_150x150-2.jpg" group-title="RADIOS CON VIDEO",Pandero Music Chile
