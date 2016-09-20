@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.ibroadcastnetwork.org/images/uploads/vaughn-1.png" group-title="vaughnlive",vaughnlive (KODI-ROSADIN)
-rtmp://192.240.113.106:1935/live?cZ49YCfMoFJIpWLwZVIrpDyYqYuj6N6z app=live?cZ49YCfMoFJIpWLwZVIrpDyYqYuj6N6z playpath=live_psn27v  swfUrl=http://vaughnlive.tv/psn27v pageUrl=http://vaughnlive.tv/psn27v  live=true
-
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
