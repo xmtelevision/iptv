@@ -18,23 +18,23 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b
 
 #EXTINF:0,[COLOR red][B]----NACIONALES----[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN FUERA DE CHILE
 http://208.77.20.51:8181/TVNCHNOTOCAR/index.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN FUERA DE CHILE
 http://streams.innova-systems.net/TVNCHILE/index.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN HD
 http://edge-71-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN HD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN SD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b950.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN SD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/250px-24_Horas_TVN_alt.png" group-title="NACIONALES",24 Horas
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/250px-24_Horas_TVN_alt.png" group-title="NACIONALES",24 Horas
 http://edge-81-cl.edge.mdstrm.com/tvn-live/_definst_/smil:225f11a5627dd430dbed14a5a169dd74/chunklist_b800000.m3u8
-#EXTINF:-1 tvg-logo="http://www.videotron.com/vcom/media/ico-ch-tvchile/2/ico-ch-tvchile-92x92.jpg" group-title="NACIONALES", TV CHILE FUERA DE CHILE
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-tvnint.png" group-title="NACIONALES", TV CHILE FUERA DE CHILE
 http://208.77.20.51:8181/TVCHILE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega FUERA DE CHILE
 http://208.77.20.51:8181/MEGACHILEEHD/index.m3u8
@@ -200,6 +200,8 @@ http://wow2.cl.digitalproserver.com/ufro/ufrovivo/mp4:livestream2/playlist.m3u8
 http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.canal33.cl/assets/images/logo.png" group-title="REGIONALES", Canal 33 Temuco
 http://evo.eltelon.com:443/live/canal-33/chunklist_w859275720.m3u8
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/ATV-Valdivia.jpg" group-title="REGIONALES",ATV valdivia
+http://evo.eltelon.com:1935/live/atv-valdivia/chunklist_w1492350876.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-inetosorno.png" group-title="REGIONALES", Inet 2 Tv Osorno 
 http://movilstream.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist-b848000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.chiloetv.cl/images/chiloe%20tv%20.jpg" group-title="REGIONALES",Chiloe Tv Castro
