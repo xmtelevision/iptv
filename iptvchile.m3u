@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:0, MEGA PRUEBA
-http://208.77.20.51:8181/MEGACHILEEHD/index.m3u8
-#EXTINF:0, TV CHILE PRUEBA
-http://208.77.20.51:8181/TVCHILE/index.m3u8
-#EXTINF:0, CHW PRUEBA
-http://208.77.20.51:8081/live/chv/playlist.m3u8
-#EXTINF:0, CANAL 13 PRUEBA
-http://208.77.20.51:8081/canal13hdch/canal13hdch/playlist.m3u8
-#EXTINF:0, TVN PRUEBA
-http://208.77.20.51:8181/TVNCHNOTOCAR/index.m3u8
-#EXTINF:0, CDF PREMIUM PRUEBA
-http://208.77.20.51:8081/cdfpre/cdfpre/playlist.m3u8
-#EXTINF:0, LA RED PRUEBA
-http://208.77.20.51:8081/live/RED/RED/playlist.m3u8
 
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
+
+http://208.77.20.51:8081/cdfpre/cdfpre/playlist.m3u8
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
 http://stream.ssh101.com:1935/live/lalalongo5/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",Bullanguero (KODI-ROSADIN) 
@@ -30,6 +18,8 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b
 
 #EXTINF:0,[COLOR red][B]----NACIONALES----[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN FUERA DE CHILE
+http://208.77.20.51:8181/TVNCHNOTOCAR/index.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN HD
 http://edge-71-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN HD
@@ -42,6 +32,10 @@ http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/pla
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/250px-24_Horas_TVN_alt.png" group-title="NACIONALES",24 Horas
 http://edge-81-cl.edge.mdstrm.com/tvn-live/_definst_/smil:225f11a5627dd430dbed14a5a169dd74/chunklist_b800000.m3u8
+#EXTINF:0, TV CHILE PRUEBA
+http://208.77.20.51:8181/TVCHILE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega FUERA DE CHILE
+http://208.77.20.51:8181/MEGACHILEEHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
@@ -50,8 +44,12 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 http://mdstrm.com/live-stream-playlist/5614309a434aff1309a9d904.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red FUERA DE CHILE
+http://208.77.20.51:8081/live/RED/RED/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red (KODI-ROSADIN)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV FUERA DE CHILE
+http://208.77.20.51:8081/live/chv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
@@ -64,6 +62,8 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8
 http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 FUERA DE CHILE
+http://208.77.20.51:8081/canal13hdch/canal13hdch/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
