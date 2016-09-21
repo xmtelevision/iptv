@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://i.imgur.com/s8itQ4t.jpg" group-title="UNIVISION TDN",Univision TDN
+http://livestream-f.akamaihd.net/i/21551068_6363253_lsiklv2bswisly1zeev_1@305737/index_312_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1474499158~acl=%2Fi%2F21551068_6363253_lsiklv2bswisly1zeev_1%40305737%2F*~data=hdntl~hmac=be216448fab10a33efcc12b92117b27352f4f61eb5a05a0b790e18d26fa840ce
+
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://webdel.futbol/wp-content/uploads/wdf-200-new.jpg" group-title="CDF",WebdelFutbol (SOLO PARTIDOS)
