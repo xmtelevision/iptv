@@ -20,6 +20,8 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1847486482_b
 
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN FUERA DE CHILE
 http://208.77.20.51:8181/TVNCHNOTOCAR/index.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN FUERA DE CHILE
+http://streams.innova-systems.net/TVNCHILE/index.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN HD
 http://edge-71-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="NACIONALES",TVN HD
@@ -36,6 +38,8 @@ http://edge-81-cl.edge.mdstrm.com/tvn-live/_definst_/smil:225f11a5627dd430dbed14
 http://208.77.20.51:8181/TVCHILE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega FUERA DE CHILE
 http://208.77.20.51:8181/MEGACHILEEHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega FUERA DE CHILE
+http://streams.innova-systems.net/MEGACHILE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
@@ -80,6 +84,8 @@ http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 Movil
 http://cdn.ztreaming.com/t13vivo3/mobile.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV FUERA DE CHILE
+http://streams.innova-systems.net/UCVCHILE/index.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV HD
 http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV HD
