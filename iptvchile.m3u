@@ -109,7 +109,6 @@ http://movilstream.digitalproserver.com:554/ucvtv/livestream1/playlist.m3u8#Iptv
 http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b848000.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b348000.m3u8?#IptvChile
-
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdtv.png" group-title="NACIONALES", Camara de Diputados 
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://tv.senado.cl/tvsenado/site/artic/20150709/imag/foto_0000000120150709110044.png" group-title="NACIONALES",Tv Senado HD 
@@ -132,7 +131,7 @@ http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/chunklist_w7293170
 http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/2802/poster_220x220-2.jpg" group-title="NACIONALES", NIU Tv 
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://www.augroup-title="NACIONALES".cl/wp-content/uploads/2015/08/logo-uestv.jpg" group-title="NACIONALES",Uestv 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/576459470349344768/tyC8xVXe.jpeg" group-title="NACIONALES",Uestv 
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://www.famtv.cl/img/tve_01.png" group-title="NACIONALES",Famtv 
 http://tvstream02.creowebcl.com/8090/8090/playlist.m3u8#IptvChile
