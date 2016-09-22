@@ -1,5 +1,20 @@
 #EXTM3U
 
+
+#EXTINF:0,IPTV CHILE
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",ACTUALIZACION 21-09-2016  
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",LISTA GRATUITA
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",SOLO CANALES CHILENOS
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium
