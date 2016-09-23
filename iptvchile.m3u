@@ -327,7 +327,9 @@ http://200.75.19.171/uoct/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bqANBWs.png" group-title="UOCT", Isabel Riquelme con Bascuñán Guerrero
 http://200.75.19.171/uoct/6/playlist.m3u8
 #EXTINF:0,[COLOR red][B]----RADIOS----[/B][/COLOR]
-#EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios",Radio Activa
+#EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Radioactiva (92.5 FM) 1
+http://77.67.109.164/ACTIVA_SC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Radioactiva (92.5 FM) 2
 http://69.31.54.139/ACTIVA.mp3?type=.flv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios",Radio PortalFoxMix 
 http://167.114.119.122:9934/;
@@ -355,8 +357,6 @@ http://77.67.109.164/ADN_SC
 http://agricultura-audio.dps.live/agricultura/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Agricultura (Alt) (92.1 FM)
 http://tunein.digitalproserver.com/agc921bb.aac
-#EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Radioactiva (92.5 FM)
-http://77.67.109.164/ACTIVA_SC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Universo (93.7 FM)
 http://tunein.digitalproserver.com/universobb.aac
 #EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Universo (Alt) (93.7 FM)
