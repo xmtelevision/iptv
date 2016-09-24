@@ -110,8 +110,13 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8#IptvChile
 http://tvstream02.creowebcl.com/8090/8090/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/3916/poster_220x220-2.jpg" group-title="NACIONALES",Señal Uc 
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom#IptvChile
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/NuevoTiempo-Logo.jpg" group-title="NACIONALES",Nuevo Tiempo
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/NuevoTiempo-Logo.jpg" group-title="NACIONALES",Nuevo Tiempo 480
 http://wow1.dallas.digitalproserver.com/ntiempo/ntiempovivo/ntiempo.smil/chunklist_w978906851_b748000.m3u8
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/NuevoTiempo-Logo.jpg" group-title="NACIONALES",Nuevo Tiempo 240
+http://movilstream.digitalproserver.com/ntiempo/ntiempovivo/ntiempo.smil/chunklist-b248000.m3u8?
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/NuevoTiempo-Logo.jpg" group-title="NACIONALES",Nuevo Tiempo 320
+http://movilstream.digitalproserver.com/ntiempo/ntiempovivo/ntiempo.smil/chunklist-b448000.m3u8?
+
 #EXTINF:0,[COLOR blue][B]----REGIONALES----[/B][/COLOR]
 #EXTINF:-1 tvg-logo="http://morrovision.cl/logo.png" group-title="REGIONALES", Morrovisión Arica 
 http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?#IptvChile
