@@ -199,7 +199,7 @@ http://69.164.193.177:1935/live/myStream/playlist.m3u8?#IptvChile
 http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://tv-online.cl/soberania-tv-magallanes-y-antartica.jpg?160315114433" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8#IptvChile
-#EXTINF:0,[COLOR blue][B]----RADIOS CON VIDEO----[/B][/COLOR]
+#EXTINF:0,-RADIOS CON VIDEO-
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOS CON VIDEO",AE Radio
 http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w1125199642.m3u8#IptvChile
 #EXTINF:0 tvg-logo="http://www.maximafm.cl/maximachile/MAXIMAchile.jpg" group-title="RADIOS CON VIDEO",Maxima Fm
@@ -240,7 +240,7 @@ http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/p
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://w3.t13radio.cl/t13radio/imag/img_default/default_300x250.jpg" group-title="RADIOS CON VIDEO",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8#IptvChile
-#EXTINF:0,[COLOR red][B]----UOCT----[/B][/COLOR]
+#EXTINF:0,-UOCT-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bqANBWs.png" group-title="UOCT", Isidora Goyenechea-Vitacura
 http://200.75.19.171/uoct/55/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bqANBWs.png" group-title="UOCT", Tobalaba-Apoquindo
@@ -305,7 +305,7 @@ http://200.75.19.171/uoct/16/playlist.m3u8
 http://200.75.19.171/uoct/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bqANBWs.png" group-title="UOCT", Isabel Riquelme con Bascuñán Guerrero
 http://200.75.19.171/uoct/6/playlist.m3u8
-#EXTINF:0,[COLOR red][B]----RADIOS----[/B][/COLOR]
+#EXTINF:0,-RADIOS-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Radioactiva (92.5 FM) 1
 http://77.67.109.164/ACTIVA_SC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="Radios", Radioactiva (92.5 FM) 2
