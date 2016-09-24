@@ -13,6 +13,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://iphone-streaming.ustream.tv/uhls/22722786/streams/live/iphone/playlist.m3u8
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 #EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium
+http://livestream-f.akamaihd.net/i/21494740_6342866_lsi0f7hmkt8toexfqtc_1@306589/index_526_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1474814541~acl=%2fi%2f21494740_6342866_lsi0f7hmkt8toexfqtc_1%40306589%2f*~data=hdntl~hmac=c82eb305770135a1edc1afb37ab8f07033c58ed2b3ff0daa734ab5ab2e89c048
+#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium
 http://zialcobra.dyndns.org:8000/live/zialcobra1/zialcobra/274.ts
 #EXTINF:0 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF HD
 http://zialcobra.dyndns.org:8000/live/zialcobra1/zialcobra/574.ts
