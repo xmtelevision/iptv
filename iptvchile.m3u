@@ -225,11 +225,11 @@ http://evo.eltelon.com:1935/live/pandero-chile/chunklist_w666729793.m3u8#IptvChi
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fZffdxL.jpg" group-title="RADIOS CON VIDEO",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOS CON VIDEO",Carolina Tv HD
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?#IptvChile
+http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream1/chunks.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOS CON VIDEO",Carolina Tv SD
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream2/chunks.m3u8?#IptvChile
+http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream2/chunks.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOS CON VIDEO",Carolina Tv SD
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream3/chunks.m3u8?#IptvChile
+http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream3/chunks.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="RADIOS CON VIDEO", Contivision Musica 
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/09/logos_vtv.png" group-title="RADIOS CON VIDEO",VTV Valparaiso y VIña del Mar
