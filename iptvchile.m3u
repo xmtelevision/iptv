@@ -8,6 +8,10 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
+
+#EXTINF:0,[COLOR red][B]----LIGA MEXICANA----[/B][/COLOR]
+#EXTINF:0 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="LIGA MEXICANA",Liga Mexicana (Gentileza Addons Futmex)
+
 #EXTINF:0,[COLOR red][B]----CDF----[/B][/COLOR]
 #EXTINF:0 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="CDF",Bullanguero (KODI-ROSADIN) 
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
