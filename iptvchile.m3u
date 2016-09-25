@@ -36,7 +36,7 @@ http://mdstrm.com/live-stream-playlist/5614309a434aff1309a9d904.m3u8?#IptvChile
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega FUERA DE CHILE
 http://streams.innova-systems.net/MEGACHILE/index.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red (KODI-ROSADIN)
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red (Kodi)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8#IptvChile
