@@ -174,6 +174,8 @@ http://movilstream.digitalproserver.com/contivisionhd/contivisionhdvivo/contivis
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://www.televisiongratis.com.ar/components/com_televisiongratis/images/canal-21-chillan-576.jpg" group-title="REGIONALES",Canal 21 Chillan
 http://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch/chunklist_w76943128.m3u8#IptvChile
+#EXTINF:-1 tvg-logo="http://www.televida.cl/images/nuevo_logotelevida.png" group-title="REGIONALES",Televida Chillan
+http://evo.eltelon.com:1935/live/televida/chunklist_w1191743482.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-canal9biobio.png" group-title="REGIONALES",Canal 9 Bio Bio Concepción
 http://movilstream.digitalproserver.com/c9/_definst_/c9.smil/chunklist-b1500000.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tvu.png" group-title="REGIONALES",TVU Concepción 
@@ -188,6 +190,8 @@ http://wow2.cl.digitalproserver.com/ufro/ufrovivo/mp4:livestream2/playlist.m3u8#
 http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://www.canal33.cl/assets/images/logo.png" group-title="REGIONALES", Canal 33 Temuco
 http://evo.eltelon.com:443/live/canal-33/chunklist_w859275720.m3u8#IptvChile
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/710193965283336192/iOJ3Jihf.jpg" group-title="REGIONALES",Pucon Tv
+http://190.107.176.55:1935/live/pucon-tv/chunklist_w836162175.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/ATV-Valdivia.jpg" group-title="REGIONALES",ATV valdivia
 http://evo.eltelon.com:1935/live/atv-valdivia/chunklist_w1492350876.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-inetosorno.png" group-title="REGIONALES", Inet 2 Tv Osorno 
@@ -211,6 +215,8 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8#IptvChile
 #EXTINF:0,-RADIOS CON VIDEO-
 #EXTINF:0 tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="RADIOS CON VIDEO",AE Radio
 http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w1125199642.m3u8#IptvChile
+#EXTINF:0 tvg-logo="http://raddio.net/wp-content/uploads/2015/12/14a09f0df05350ff0e67fe961d800c9c.jpg" group-title="RADIOS CON VIDEO",Patagonia Radio
+http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.maximafm.cl/maximachile/MAXIMAchile.jpg" group-title="RADIOS CON VIDEO",Maxima Fm
 http://evo.eltelon.com:1935/live/archi-maximafm/chunklist_w2072098221.m3u8#IptvChile
 #EXTINF:0 tvg-logo="http://player.chilepower.cl/maxima/tv/tv.png" group-title="RADIOS CON VIDEO",Radio Maxima
