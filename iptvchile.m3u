@@ -182,6 +182,8 @@ http://movilstream.digitalproserver.com/c9/_definst_/c9.smil/chunklist-b1500000.
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://tv-online.cl/dinamica-television-coronel.jpg?160315114433" group-title="REGIONALES",Dinamica Tv Coronel
 http://evo.eltelon.com:1935/live/dinamica-television/chunklist_w235225936.m3u8#IptvChile
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tv4lota.png" group-title="REGIONALES",Tv 4 Lota
+http://evo.eltelon.com:1935/live/tv4-television/chunklist_w1931852168.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-uautonomatemuco.png" group-title="REGIONALES",Universidad Autonoma Temuco
 http://movilstream.digitalproserver.com/uautonoma/uautonomavivo/uautonoma.smil/chunklist-b1548000.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png" group-title="REGIONALES",Ufrovision Temuco
