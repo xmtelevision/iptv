@@ -80,6 +80,12 @@ http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?#IptvChile
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd#IptvChile
 #EXTINF:-1 tvg-logo="http://tv.senado.cl/tvsenado/site/artic/20150709/imag/foto_0000000120150709110044.png" group-title="NACIONALES",Tv Senado SD 
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd#IptvChile
+#EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-teletrak.png" group-title="NACIONALES",Teletrak
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-agrotv.png" group-title="NACIONALES", Agro Tv 
+http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/chunklist_w1760742229.m3u8
+#EXTINF:-1 tvg-logo="http://www.famtv.cl/img/tve_01.png" group-title="NACIONALES",Famtv 
+http://tvstream02.creowebcl.com/8090/8090/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://media.tumblr.com/2b6b0ac9e646b3b91537c1f45a5a64d9/tumblr_inline_mmsyp4OxUu1qz4rgp.png" group-title="NACIONALES",Fail Army 
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8#IptvChile
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4418/poster_150x150-2.jpg" group-title="NACIONALES",Trailer Tv
@@ -88,18 +94,12 @@ http://evo.eltelon.com:1935/live/trailer-tv/chunklist_w1979572646.m3u8
 http://evo.eltelon.com:1935/live/trailer-tvkids/chunklist_w607247776.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2016/01/CinemaTVPlay-Logo.jpg" group-title="NACIONALES",Cinema Tv Play 
 http://servicioamerica.net:1935/cinematvplays//cinematvplays/playlist.m3u8#IptvChile
-#EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-teletrak.png" group-title="NACIONALES",Teletrak
-http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w2041675405_b750000_slesp.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-agrotv.png" group-title="NACIONALES", Agro Tv 
-http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/chunklist_w729317017.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Liv_TV_logo.svg/245px-Liv_TV_logo.svg.png" group-title="NACIONALES",Liv Tv 
 http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/2802/poster_220x220-2.jpg" group-title="NACIONALES", NIU Tv 
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/576459470349344768/tyC8xVXe.jpeg" group-title="NACIONALES",Uestv 
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://www.famtv.cl/img/tve_01.png" group-title="NACIONALES",Famtv 
-http://tvstream02.creowebcl.com/8090/8090/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/3916/poster_220x220-2.jpg" group-title="NACIONALES",Señal Uc 
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom#IptvChile
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/NuevoTiempo-Logo.jpg" group-title="NACIONALES",Nuevo Tiempo 480
