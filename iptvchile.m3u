@@ -11,8 +11,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-LIGA MEXICANA-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="LIGA MEXICANA",Liga Mexicana (Gentileza Addons Futmex)
 http://livestream-f.akamaihd.net/i/21551068_6363253_lsifpbb41id82gymt6r_1@305994/index_312_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1474824216~acl=%2Fi%2F21551068_6363253_lsifpbb41id82gymt6r_1%40305994%2F*~data=hdntl~hmac=49de1303e53f4fb1378f6adcd3b6dc8a6bcc88ef6c10be4a581de10ab97607a8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="LIGA MEXICANA",Liga Mexicana (Gentileza Addons Futmex)
-http://stream.ssh101.com:1935/live/planetadeportesweb/chunklist.m3u8
 #EXTINF:0,-CDF-
 #EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium
 http://livestream-f.akamaihd.net/i/21494740_6342866_lsi0f7hmkt8toexfqtc_1@306589/index_526_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1474814541~acl=%2fi%2f21494740_6342866_lsi0f7hmkt8toexfqtc_1%40306589%2f*~data=hdntl~hmac=c82eb305770135a1edc1afb37ab8f07033c58ed2b3ff0daa734ab5ab2e89c048
