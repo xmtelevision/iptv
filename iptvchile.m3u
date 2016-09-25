@@ -249,7 +249,7 @@ http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w1125199642.m3u8#IptvChile
 #EXTINF:0 tvg-logo="http://raddio.net/wp-content/uploads/2015/12/14a09f0df05350ff0e67fe961d800c9c.jpg" group-title="RADIOS CON VIDEO",Patagonia Radio
 http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.maximafm.cl/maximachile/MAXIMAchile.jpg" group-title="RADIOS CON VIDEO",Maxima Fm
-http://evo.eltelon.com:1935/live/archi-maximafm/chunklist_w2072098221.m3u8#IptvChile
+http://evo.eltelon.com:1935/live/archi-maximafm/chunklist_w810699711.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2159077161/image.jpg" group-title="RADIOS CON VIDEO",Radio Maxima
 http://188.165.227.203:1935/maxima//maxima/playlist.m3u8#IptvChile
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1092536678/logorp_400x400.jpg" group-title="RADIOS CON VIDEO",Radio Polar
