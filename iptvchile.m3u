@@ -122,6 +122,8 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 http://cdn.ztreaming.com/tustreaming/live3/chunklist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-antofagastatv.png" group-title="REGIONALES",Antofagasta Tv Antofagasta
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8#IptvChile
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwckLbZ.jpg" group-title="REGIONALES", Tv Escolar Antofagasta
+http://evo.eltelon.com:1935/live/corporacion-antofagasta/chunklist_w1339385469.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1U-lqonYKYE/AAAAAAAAAAI/AAAAAAAAAAA/yDTUwMx2zmw/s88-c-k-no/photo.jpg" group-title="REGIONALES",Am Antofagasta
 http://evo.eltelon.com:1935/live//am-tv/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-holvoet.png" group-title="REGIONALES",Holvoet Copiapo 
