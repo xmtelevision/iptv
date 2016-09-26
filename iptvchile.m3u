@@ -9,11 +9,11 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-CDF-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF (solo partidos)
-http://livestream-f.akamaihd.net/i/21587199_6378476_lsi83ri46gwefqnxp46_1@305611/index_2196_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1474846766~acl=%2fi%2f21587199_6378476_lsi83ri46gwefqnxp46_1%40305611%2f*~data=hdntl~hmac=aa00dcaef39ac649df4d0913cc4fa4feefc167efd2bb279a074fcf413259b5a4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF Multicanal
+http://livestream-f.akamaihd.net/21587199_6378476_lsi83ri46gwefqnxp46_1_2196@305611?v=3.6.0&fp=WIN%2023,0,0,162&r=DRZCC&g=CPYJGTOKKXWD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF Acestream Android (Solo partidos)
 acestream://6a656a97585299912598bf9ad3d682e9bfc11dca
-#EXTINF:-1 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium (Kodi) Multicanales
+#EXTINF:-1 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium Multicanal (Kodi) 
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:0,-NACIONALES-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN HD
