@@ -8,11 +8,13 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
-#EXTINF:0,-FOX SPORTS-
-#EXTINF:-1 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png" group-title="FOX SPORTS", Fox Sports Argentina (Kodi)
+#EXTINF:0,-ARGENTINA-
+#EXTINF:-1 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png" group-title="ARGENTINA", Fox Sports Argentina (Kodi)
 rtmp://46.28.50.116/stream playpath=fox1boliche?id=3852&pk=39b9b725c6542031d0c2fa3e703450b583d9fd05ecdc6c32930b13c5c94ca2d5 swfUrl=http://www.zony.tv/static/scripts/fplayer.swf live=1 pageUrl=http://www.zony.tv/embedplayer/fox1boliche/1/600/400
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="FOX SPORTS", Fox Sports 2 Argentina (Kodi)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="ARGENTINA", Fox Sports 2 Argentina (Kodi)
 rtmp://95.211.186.223/stream playpath=fox2antonov?id=3775&pk=39b9b725c6542031d0c2fa3e703450b583d9fd05ecdc6c32930b13c5c94ca2d5 swfUrl=http://www.zony.tv/static/scripts/fplayer.swf live=1 pageUrl=http://www.zony.tv/embedplayer/fox2antonov/1/600/400
+#EXTINF:-1 tvg-logo="http://66.media.tumblr.com/05ccf9acd5631582663e564735f1ab14/tumblr_njna8hKAy01tjcg1mo1_400.png" group-title="ARGENTINA", Direct Tv Argentina (Kodi)
+rtmp://$OPT:rtmp-raw=rtmp://95.211.214.158/stream playpath=directvverde?id=3561&pk=39b9b725c6542031d0c2fa3e703450b583d9fd05ecdc6c32930b13c5c94ca2d5 swfUrl=http://www.zony.tv/static/scripts/fplayer.swf live=1 pageUrl=http://www.zony.tv/embedplayer/directvverde/1/600/400
 #EXTINF:0,-CDF-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF (solo partidos)
 http://livestream-f.akamaihd.net/i/21587199_6378476_lsi83ri46gwefqnxp46_1@305611/index_2196_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1474846766~acl=%2fi%2f21587199_6378476_lsi83ri46gwefqnxp46_1%40305611%2f*~data=hdntl~hmac=aa00dcaef39ac649df4d0913cc4fa4feefc167efd2bb279a074fcf413259b5a4
