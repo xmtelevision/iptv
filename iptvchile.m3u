@@ -11,6 +11,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League - Borussia Dortmund - Real Madrid 
 http://livestream-f.akamaihd.net/i/21611242_6383294_lsijhfyk6xg000ifwmt_1@305992/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475070837~acl=%2fi%2f21611242_6383294_lsijhfyk6xg000ifwmt_1%40305992%2f*~data=hdntl~hmac=d580d9c1e83416c9c0d81458b8241c294f08b33a092da5b2d264a2bad141b3eb
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League - Borussia Dortmund - Real Madrid 
+http://livestream-f.akamaihd.net/21663311_6410428_lsi1rulysom8u2q3clp_1_556@305842?v=3.6.0&fp=WIN%2023,0,0,162&r=UOLRU&g=QNVHEFYFQPFE
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League - Sevilla FC - Olympique Lyon 
 http://livestream-f.akamaihd.net/i/21525023_6355178_lsiu2chxq7pt3oad74h_1@306152/index_1696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475080767~acl=%2fi%2f21525023_6355178_lsiu2chxq7pt3oad74h_1%40306152%2f*~data=hdntl~hmac=7c3bf56c5eace504e3e050e49f399a6d526ebe6548a256e98e38abbc8c86c4b4
 #EXTINF:0,-CDO-
