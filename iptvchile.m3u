@@ -30,8 +30,6 @@ http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/pla
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b950.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN SD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b500.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN FUERA DE CHILE
-http://streams.innova-systems.net/TVNCHILE/index.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
@@ -40,8 +38,6 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8#IptvChile
 http://mdstrm.com/live-stream-playlist/5614309a434aff1309a9d904.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega FUERA DE CHILE
-http://streams.innova-systems.net/MEGACHILE/index.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red (Kodi)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
@@ -80,8 +76,6 @@ http://movilstream.digitalproserver.com:554/ucvtv/livestream1/playlist.m3u8#Iptv
 http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b848000.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV SD
 http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b348000.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV FUERA DE CHILE
-http://streams.innova-systems.net/UCVCHILE/index.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdtv.png" group-title="NACIONALES", Camara de Diputados 
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://tv.senado.cl/tvsenado/site/artic/20150709/imag/foto_0000000120150709110044.png" group-title="NACIONALES",Tv Senado HD 
