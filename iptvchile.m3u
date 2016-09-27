@@ -9,10 +9,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League - Borussia Dortmund - Real Madrid HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase;=on
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League - Borussia Dortmund - Real Madrid SD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase;=on
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League - Borussia Dortmund - Real Madrid 
 http://livestream-f.akamaihd.net/i/21611242_6383294_lsijhfyk6xg000ifwmt_1@305992/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475070837~acl=%2fi%2f21611242_6383294_lsijhfyk6xg000ifwmt_1%40305992%2f*~data=hdntl~hmac=d580d9c1e83416c9c0d81458b8241c294f08b33a092da5b2d264a2bad141b3eb
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League - Borussia Dortmund - Real Madrid 
