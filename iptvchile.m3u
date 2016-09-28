@@ -10,10 +10,10 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multideportes
-http://livestream-f.akamaihd.net/i/21611242_6383294_lsijhfyk6xg000ifwmt_1@305992/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475070837~acl=%2fi%2f21611242_6383294_lsijhfyk6xg000ifwmt_1%40305992%2f*~data=hdntl~hmac=d580d9c1e83416c9c0d81458b8241c294f08b33a092da5b2d264a2bad141b3eb
+http://livestream-f.akamaihd.net/i/21611242_6383294_lsip9c9xicfjgiaqfbr_1@305536/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475161568~acl=%2fi%2f21611242_6383294_lsip9c9xicfjgiaqfbr_1%40305536%2f*~data=hdntl~hmac=2e5fa4f788d9a9afd4640c1d3d177e72d70af210c045382663b06c5061a58331
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multideportes
-http://livestream-f.akamaihd.net/i/21525023_6355178_lsiu2chxq7pt3oad74h_1@306152/index_1696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475080767~acl=%2fi%2f21525023_6355178_lsiu2chxq7pt3oad74h_1%40306152%2f*~data=hdntl~hmac=7c3bf56c5eace504e3e050e49f399a6d526ebe6548a256e98e38abbc8c86c4b4
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",TDN Liga Mexicana prueba
+http://livestream-f.akamaihd.net/i/21525023_6355178_lsi09ttwbjtiw2aji55_1@305994/index_1696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475155683~acl=%2fi%2f21525023_6355178_lsi09ttwbjtiw2aji55_1%40305994%2f*~data=hdntl~hmac=2ee3421c739dab83e0287777d991bfc089d3c2da5dd76e746fafabfa3c298e07
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",TDN Liga Mexicana 
 http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/master.m3u8
 #EXTINF:0,-CDO-
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="CDO",Canal del Deporte Olimpico
