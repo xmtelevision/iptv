@@ -10,7 +10,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Bein Sports
-http://livestream-f.akamaihd.net/i/21741249_6423638_lsitzhurqh0tz3j0puj_1@191235/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475258475~acl=%2fi%2f21741249_6423638_lsitzhurqh0tz3j0puj_1%40191235%2f*~data=hdntl~hmac=5f4bd7fca746efd8ba14fbf44e19a60b7fbb05083ab06ed52c0072700feee763
+http://livestream-f.akamaihd.net/i/21741744_6423809_lsi3mwh0j16895xghbj_1@175891/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475260929~acl=%2fi%2f21741744_6423809_lsi3mwh0j16895xghbj_1%40175891%2f*~data=hdntl~hmac=3fd926b8757528363ffcbe3be50325126d4497750357a967bec202a5a5a8cbf5
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Bein Sports 
 http://livestream-f.akamaihd.net/i/21741744_6423809_lsi3mwh0j16895xghbj_1@175891/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475260929~acl=%2fi%2f21741744_6423809_lsi3mwh0j16895xghbj_1%40175891%2f*~data=hdntl~hmac=3fd926b8757528363ffcbe3be50325126d4497750357a967bec202a5a5a8cbf5
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Fox Sports Argentina
