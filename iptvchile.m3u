@@ -12,9 +12,9 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Fox Sports Argentina
 http://livestream-f.akamaihd.net/i/21739327_6422895_lsi1bai7bw5tvbovydj_1@174572/index_596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475247013~acl=%2fi%2f21739327_6422895_lsi1bai7bw5tvbovydj_1%40174572%2f*~data=hdntl~hmac=9dff2b2c4130a8a9aeff7723c402290a5a052284914791fa1bd166c76358b3a9
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Bein Sports
-http://livestream-f.akamaihd.net/i/21611242_6383294_lsip9c9xicfjgiaqfbr_1@305536/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475161568~acl=%2fi%2f21611242_6383294_lsip9c9xicfjgiaqfbr_1%40305536%2f*~data=hdntl~hmac=2e5fa4f788d9a9afd4640c1d3d177e72d70af210c045382663b06c5061a58331
+http://livestream-f.akamaihd.net/i/21611242_6383294_lsijwlkge2pwozk6twy_1@305536/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475242648~acl=%2fi%2f21611242_6383294_lsijwlkge2pwozk6twy_1%40305536%2f*~data=hdntl~hmac=5f3460a7d7bf705ac2ec37b718fe66aee346257001a0a67c30b81baf964e4ea8
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Bein Sports Max
-http://livestream-f.akamaihd.net/i/21525023_6355178_lsi09ttwbjtiw2aji55_1@305994/index_1696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475155683~acl=%2fi%2f21525023_6355178_lsi09ttwbjtiw2aji55_1%40305994%2f*~data=hdntl~hmac=2ee3421c739dab83e0287777d991bfc089d3c2da5dd76e746fafabfa3c298e07
+http://livestream-f.akamaihd.net/i/21525023_6355178_lsiy0zgyttzp4cntkck_1@305735/index_1696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475253844~acl=%2fi%2f21525023_6355178_lsiy0zgyttzp4cntkck_1%40305735%2f*~data=hdntl~hmac=479ba685fa0624c38b5671b76821bf4b75503bde99f789a0b27f0be5b13146a9
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",TDN Liga Mexicana 
 http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/master.m3u8
 #EXTINF:0,-CDO-
