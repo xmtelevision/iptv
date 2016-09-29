@@ -11,8 +11,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Bein Sports
 http://livestream-f.akamaihd.net/i/21741744_6423809_lsi3mwh0j16895xghbj_1@175891/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475260929~acl=%2fi%2f21741744_6423809_lsi3mwh0j16895xghbj_1%40175891%2f*~data=hdntl~hmac=3fd926b8757528363ffcbe3be50325126d4497750357a967bec202a5a5a8cbf5
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Bein Sports 
-http://livestream-f.akamaihd.net/i/21741744_6423809_lsi3mwh0j16895xghbj_1@175891/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475260929~acl=%2fi%2f21741744_6423809_lsi3mwh0j16895xghbj_1%40175891%2f*~data=hdntl~hmac=3fd926b8757528363ffcbe3be50325126d4497750357a967bec202a5a5a8cbf5
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",CDF Premium Multicanal (Kodi)
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:0,-CDO-
