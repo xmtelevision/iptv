@@ -9,22 +9,20 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League 
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Liga Española
 http://livestream-f.akamaihd.net/i/21611242_6383294_lsip9c9xicfjgiaqfbr_1@305536/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475161568~acl=%2fi%2f21611242_6383294_lsip9c9xicfjgiaqfbr_1%40305536%2f*~data=hdntl~hmac=2e5fa4f788d9a9afd4640c1d3d177e72d70af210c045382663b06c5061a58331
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League 
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Liga Española
 http://livestream-f.akamaihd.net/i/21525023_6355178_lsi09ttwbjtiw2aji55_1@305994/index_1696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475155683~acl=%2fi%2f21525023_6355178_lsi09ttwbjtiw2aji55_1%40305994%2f*~data=hdntl~hmac=2ee3421c739dab83e0287777d991bfc089d3c2da5dd76e746fafabfa3c298e07
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League Fox Sports
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Fox Sports
 http://livestream-f.akamaihd.net/i/21724581_6419242_lsi6ksxz06yyseej3ku_1@177640/index_596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475172180~acl=%2Fi%2F21724581_6419242_lsi6ksxz06yyseej3ku_1%40177640%2F*~data=hdntl~hmac=717dd0daf84e033835669266430d0729f7117f2ef807a1187ca27d39ace0fb79
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Champions League ESPN
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",ESPN
 http://livestream-f.akamaihd.net/i/21126706_6378737_lsia6t2gm8zcy60e16d_1@306223/index_348_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475171291~acl=%2Fi%2F21126706_6378737_lsia6t2gm8zcy60e16d_1%40306223%2F*~data=hdntl~hmac=9e53e02d6c032b0ca1f905d09300f3fe73967e66cfb8501e2f1542498f0a3257
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",TDN Liga Mexicana 
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Liga Mexicana 
 http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/master.m3u8
 #EXTINF:0,-CDO-
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="CDO",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:0,-CDF-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k3C3wDx.jpg" group-title="CDF",Estadio CDF Acestream Android (Solo partidos)
-acestream://6a656a97585299912598bf9ad3d682e9bfc11dca
 #EXTINF:-1 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium Multicanal (Kodi) 1
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:-1 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="CDF",CDF Premium Multicanal (Kodi) 2
