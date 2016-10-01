@@ -19,7 +19,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES",Sevilla Fc Tv
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 1
-http://iphone-streaming.ustream.tv/uhls/22745081/streams/live/iphone/playlist.m3u8
+http://livestream-f.akamaihd.net/i/21756825_6428811_lsio7q8dlji3k6hdsj8_1@305739/index_272_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475412193~acl=%2Fi%2F21756825_6428811_lsio7q8dlji3k6hdsj8_1%40305739%2F*~data=hdntl~hmac=818ecd78ccd620b3590629a38ded973e631ab80dc099f2bc859266f9a758bc98
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 2
 http://livestream-f.akamaihd.net/i/21755617_6428382_lsiercjeqpm331be05u_1@306057/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475346904~acl=%2fi%2f21755617_6428382_lsiercjeqpm331be05u_1%40306057%2f*~data=hdntl~hmac=3b24a23f4722aba3290c5f740b385ab0e1a606e2e287073008ad775b859eb59c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI)
