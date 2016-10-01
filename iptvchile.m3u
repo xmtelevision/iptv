@@ -10,11 +10,11 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-MUSICA-
-#EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="MUSICA", Fm Hot Tv 
+#EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="MUSICA", Fm Hot HD
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="MUSICA", Contivision Musica 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="MUSICA", Contivision Musica HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-vtv2.png" group-title="MUSICA",VTV Valparaiso y VIña del Mar
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-vtv2.png" group-title="MUSICA",VTV HD
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8#IptvChile
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4479/poster_150x150-2.jpg" group-title="MUSICA",Pandero Music Chile HD
 http://evo.eltelon.com:1935/live/panderocl.smil/chunklist_w100634422_b2244100_sleng.m3u8
