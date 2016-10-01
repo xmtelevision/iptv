@@ -19,13 +19,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES",Sevilla Fc Tv
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 1
-http://livestream-f.akamaihd.net/i/21756825_6428811_lsio7q8dlji3k6hdsj8_1@305739/index_272_av-b.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475412193~acl=%2Fi%2F21756825_6428811_lsio7q8dlji3k6hdsj8_1%40305739%2F*~data=hdntl~hmac=818ecd78ccd620b3590629a38ded973e631ab80dc099f2bc859266f9a758bc98
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 2
-http://livestream-f.akamaihd.net/i/21755617_6428382_lsiercjeqpm331be05u_1@306057/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475404535~acl=%2fi%2f21755617_6428382_lsiercjeqpm331be05u_1%40306057%2f*~data=hdntl~hmac=e4a5edda2283229ee42242436fdc4ada510a5e92b984b27c8b0b35bad8c506a0
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 3
-http://hls.goodgame.ru/hls/92354.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 4
-http://livestream-f.akamaihd.net/21663311_6431448_lsimodul2ote3iotzvb_1_696@306315?v=3.6.0&fp=WIN%2023,0,0,162&r=UWTNF&g=DLZVRMVBHAUR
+http://livestream-f.akamaihd.net/i/21236275_6365831_lsiozrp348mq3fo1ld1_1@176951/index_348_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475424706~acl=%2fi%2f21236275_6365831_lsiozrp348mq3fo1ld1_1%40176951%2f*~data=hdntl~hmac=7683c9723a57e19b30378301487f716306a459da3732122fe5e19036ad83ee8e
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI)
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:0,-NACIONALES-
