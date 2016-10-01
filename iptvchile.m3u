@@ -10,6 +10,10 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/07UJyiX.png" group-title="IPTV CHILE",GRUPO TELEGRAM: https://telegram.me/joinchat/ANLBbD_kPR2BSz-njmZAwA
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-MUSICA-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="MUSICA",Carolina Tv HD
+http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream1/chunks.m3u8?#IptvChile
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="MUSICA",Carolina Tv SD
+http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream2/chunks.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="MUSICA", Fm Hot HD
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="MUSICA", Contivision Musica HD
@@ -236,12 +240,6 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://tv-online.cl/soberania-tv-magallanes-y-antartica.jpg?160315114433" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8#IptvChile
 #EXTINF:0,-RADIOS CON VIDEO-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOS CON VIDEO",Carolina Tv HD
-http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream1/chunks.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOS CON VIDEO",Carolina Tv SD
-http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream2/chunks.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="RADIOS CON VIDEO",Carolina Tv SD
-http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream3/chunks.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fZffdxL.jpg" group-title="RADIOS CON VIDEO",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://www.duna.cl/media/2013/12/radio-duna.jpg" group-title="RADIOS CON VIDEO",Radio Duna HD
