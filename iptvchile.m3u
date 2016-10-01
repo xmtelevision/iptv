@@ -18,11 +18,11 @@ http://streams.innova-systems.net/GOLPERUHD/index.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES",Sevilla Fc Tv
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 1
 http://iphone-streaming.ustream.tv/uhls/22745081/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 2
 http://livestream-f.akamaihd.net/i/21755617_6428382_lsiercjeqpm331be05u_1@306057/index_1996_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475346904~acl=%2fi%2f21755617_6428382_lsiercjeqpm331be05u_1%40306057%2f*~data=hdntl~hmac=3b24a23f4722aba3290c5f740b385ab0e1a606e2e287073008ad775b859eb59c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (Kodi)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI)
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:0,-NACIONALES-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN HD
@@ -33,47 +33,47 @@ http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/pla
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b950.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN SD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b500.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN EXTRANGERO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN EXTRANJERO
 http://streams.innova-systems.net/TVNCHILE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 1
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 2
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 3
 http://mdstrm.com/live-stream-playlist/5614309a434aff1309a9d904.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 4
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega EXTRANJERO
 http://streams.innova-systems.net/MEGACHILE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red EXTRANJERO
 http://162.243.17.5:8000/live/IPTV/IPTV/148.m3u8
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red (Kodi)
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red (SOLO KODI)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 1
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 2
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 3
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 4
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 5
 http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 6
 http://mi.chv.cl/playlist/stream.m3u8?s=hd#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 1
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 2
 http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 3
 http://13.live.cdn.cl/13hddesktop/13hd-632.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 4
 http://13.live.cdn.cl/13hddesktop/13hd-400.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 5
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 6
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 7
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 Movil
 http://cdn.ztreaming.com/t13vivo3/mobile.m3u8#IptvChile
