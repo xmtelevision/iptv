@@ -28,6 +28,8 @@ http://evo.eltelon.com:1935/live/panderocl.smil/chunklist_w100634422_b1044100_sl
 http://evo.eltelon.com:1935/live/panderotop.smil/chunklist_w1582495215_b2244100_sleng.m3u8
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4478/poster_150x150-2.jpg" group-title="MUSICA",Pandero Music Top SD
 http://evo.eltelon.com:1935/live/panderotop.smil/chunklist_w1582495215_b1044100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fZffdxL.jpg" group-title="MUSICA",Carnaval Tv 
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="MUSICA",PortalFoxMix Tv 
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8#IptvChile
 #EXTINF:0,-DEPORTES-
@@ -112,16 +114,22 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd#IptvChile
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd#IptvChile
 #EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-teletrak.png" group-title="NACIONALES",Teletrak
 http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://www.sporting.cl/pedigree/logos/logo_vsc.gif" group-title="NACIONALES", Sporting Tv 
+http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-agrotv.png" group-title="NACIONALES", Agro Tv 
 http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/chunklist_w1760742229.m3u8
 #EXTINF:-1 tvg-logo="http://www.famtv.cl/img/tve_01.png" group-title="NACIONALES",Famtv 
 http://tvstream02.creowebcl.com/8090/8090/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://media.tumblr.com/2b6b0ac9e646b3b91537c1f45a5a64d9/tumblr_inline_mmsyp4OxUu1qz4rgp.png" group-title="NACIONALES",Fail Army 
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8#IptvChile
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4418/poster_150x150-2.jpg" group-title="NACIONALES",Trailer Tv
-http://evo.eltelon.com:1935/live/trailer-tv/chunklist_w1979572646.m3u8
-#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="NACIONALES",Trailer Tv Kids
-http://evo.eltelon.com:1935/live/trailer-tvkids/chunklist_w607247776.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4418/poster_150x150-2.jpg" group-title="NACIONALES",Trailer Tv HD
+http://evo.eltelon.com:1935/live/trailer-tv.smil/chunklist_w1704144876_b2244100_sleng.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4418/poster_150x150-2.jpg" group-title="NACIONALES",Trailer Tv SD
+http://evo.eltelon.com:1935/live/trailer-tv.smil/chunklist_w1704144876_b1044100_sleng.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="NACIONALES",Trailer Tv Kids HD
+http://evo.eltelon.com:1935/live/trailer-tvkids.smil/chunklist_w434283311_b2244100_sleng.m3u8
+#EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/4477/poster_150x150-2.jpg" group-title="NACIONALES",Trailer Tv Kids SD
+http://evo.eltelon.com:1935/live/trailer-tvkids.smil/chunklist_w434283311_b1044100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2016/01/CinemaTVPlay-Logo.jpg" group-title="NACIONALES",Cinema Tv Play 
 http://servicioamerica.net:1935/cinematvplays//cinematvplays/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Liv_TV_logo.svg/245px-Liv_TV_logo.svg.png" group-title="NACIONALES",Liv Tv 
@@ -167,8 +175,6 @@ http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?#IptvC
 http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-c2sanantonio.png" group-title="REGIONALES",Canal 2 San Antonio
 http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://www.sporting.cl/pedigree/logos/logo_vsc.gif" group-title="REGIONALES", Sporting Tv Valparaiso
-http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763410127256948736/T4xDXrS6.jpg" group-title="REGIONALES", Maipu Television
 http://tvstream02.creoweb.cl:80/maipu571//maipu571/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-indeptv.png" group-title="REGIONALES",Independencia Tv Santiago
@@ -205,6 +211,8 @@ http://evo.eltelon.com:1935/live/televida/chunklist_w1191743482.m3u8
 http://movilstream.digitalproserver.com/c9/_definst_/c9.smil/chunklist-b1500000.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tvu.png" group-title="REGIONALES",TVU Concepción 
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8#IptvChile
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/598548722516111360/GskCQim8.jpg" group-title="REGIONALES",TV8 Concepción 
+http://movilstream.digitalproserver.com/tv8/tv8vivo/tv8.smil/chunklist-b548000.m3u8?
 #EXTINF:-1 tvg-logo="http://tv-online.cl/dinamica-television-coronel.jpg?160315114433" group-title="REGIONALES",Dinamica Tv Coronel
 http://evo.eltelon.com:1935/live/dinamica-television/chunklist_w235225936.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tv4lota.png" group-title="REGIONALES",Tv 4 Lota
@@ -240,8 +248,6 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://tv-online.cl/soberania-tv-magallanes-y-antartica.jpg?160315114433" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8#IptvChile
 #EXTINF:0,-RADIOS CON VIDEO-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fZffdxL.jpg" group-title="RADIOS CON VIDEO",Carnaval Tv 
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://www.duna.cl/media/2013/12/radio-duna.jpg" group-title="RADIOS CON VIDEO",Radio Duna HD
 http://unlimited5-cl.dps.live/dunatv/dunatv.smil/dunatv5-hls/livestream1/chunks.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s8407q.png" group-title="RADIOS CON VIDEO",Fm Tiempo 
