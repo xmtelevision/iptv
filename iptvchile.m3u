@@ -39,6 +39,24 @@ acestream://6a656a97585299912598bf9ad3d682e9bfc11dca
 http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="DEPORTES",CDF Premium WebdelFutbol 2
 http://stream.ssh101.com:1935/live/lalolanda1122/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xKyOB7v.jpg" group-title="DEPORTES",BEIN SPORTS 
+http://23.237.22.12:8000/beinhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/645838678284181504/ZrcB161r.jpg" group-title="DEPORTES",CMD
+http://23.237.22.12:8000/cmdhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES",ESPN
+http://23.237.22.12:8000/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES",ESPN 2
+http://23.237.22.12:8000/espn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UQ6fiR1NUKM/UUX4EYLY5tI/AAAAAAAADwQ/3pflCaLgLp0/h120/espn3200.png" group-title="DEPORTES",​ESPN 3
+http://23.237.22.12:8000/espn3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png" group-title="DEPORTES",​FOX SPORTS 1
+http://23.237.22.12:8000/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",​FOX SPORTS 2
+http://23.237.22.12:8000/foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8l0Pn0G.jpg" group-title="DEPORTES",WIN SPORTS
+http://23.237.22.12:8000/live/win_hd.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8l0Pn0G.jpg" group-title="DEPORTES",​WIN SPORTS HD
+http://23.237.22.12:8000/winhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PhlTiEJ.jpg" group-title="DEPORTES",Gol Peru
@@ -47,23 +65,7 @@ http://streams.innova-systems.net/GOLPERUHD/index.m3u8#IptvChile
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES",Sevilla Fc Tv
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",BEIN SPORTS 
-http://23.237.22.12:8000/beinhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",CMD
-http://23.237.22.12:8000/cmdhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",ESPN
-http://23.237.22.12:8000/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",ESPN 2
-http://23.237.22.12:8000/espn2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​ESPN 3
-http://23.237.22.12:8000/espn3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​FOX SPORTS 1
-http://23.237.22.12:8000/foxsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​FOX SPORTS 2
-http://23.237.22.12:8000/foxsports2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",WIN SPORTS
-http://23.237.22.12:8000/live/win_hd.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​WIN SPORTS HD
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal
 http://23.237.22.12:8000/winhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI)
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
