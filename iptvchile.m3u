@@ -37,10 +37,8 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8#IptvChi
 acestream://6a656a97585299912598bf9ad3d682e9bfc11dca
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="DEPORTES",CDF Premium WebdelFutbol 1
-http://stream.ssh101.com:1935/live/lalolanda1118/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="DEPORTES",CDF Premium WebdelFutbol 2
-http://stream.ssh101.com:1935/live/lalolanda1122/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="DEPORTES",CDF Premium 
+http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xKyOB7v.jpg" group-title="DEPORTES",Bein Sports Ñ 
 http://23.237.22.12:8000/beinhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png" group-title="DEPORTES",​FOX Sports 1
