@@ -41,10 +41,24 @@ http://streams.innova-systems.net/GOLPERUHD/index.m3u8#IptvChile
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES",Sevilla Fc Tv
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 1
-http://azubuhlspull-a.akamaihd.net/580e7cca2e8b27830eac948774b3303d/eu-west-1/video413935CH5755ed86d51eb/2400/index.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES", Multicanal 2
-http://livestream-f.akamaihd.net/i/21782592_6436793_lsi8syi5t1uj30jem9d_1@305999/index_348_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475491445~acl=%2fi%2f21782592_6436793_lsi8syi5t1uj30jem9d_1%40305999%2f*~data=hdntl~hmac=f140e9840597bd0dea25d62b3b120ce299f59428ae61676c4120fab0c2c5ca3b
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",BEIN SPORTS 
+http://23.237.22.12:8000/beinhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",CMD
+http://23.237.22.12:8000/cmdhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",ESPN
+http://23.237.22.12:8000/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",ESPN 2
+http://23.237.22.12:8000/espn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​ESPN 3
+http://23.237.22.12:8000/espn3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​FOX SPORTS 1
+http://23.237.22.12:8000/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​FOX SPORTS 2
+http://23.237.22.12:8000/foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",WIN SPORTS
+http://23.237.22.12:8000/live/win_hd.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",​WIN SPORTS HD
+http://23.237.22.12:8000/winhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI)
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:0,-NACIONALES-
