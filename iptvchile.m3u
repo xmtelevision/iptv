@@ -267,6 +267,16 @@ http://188.165.227.203:1935/maxima//maxima/playlist.m3u8#IptvChile
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1092536678/logorp_400x400.jpg" group-title="RADIOS CON VIDEO",Radio Polar
 http://evo.eltelon.com:1935/live/archi-polar/chunklist_w16721680.m3u8#IptvChile
 #EXTINF:0,-RADIOS-
+#EXTINF:-1 tvg-logo="http://static.juicedev.me/Radio/logos/carolina.png" group-title="Radios", Radio Carolina
+http://ice.dallas.digitalproserver.com/carolina_player.mp3
+#EXTINF:-1 tvg-logo="http://static.juicedev.me/Radio/logos/carolina.png" group-title="Radios", Radio Carolina
+http://tunein.digitalproserver.com/carolina_player.mp3
+#EXTINF:-1 tvg-logo="http://radioenvivo.me/wp-content/uploads/2013/11/radio-activa-chile.jpg" group-title="Radios", Radioactiva
+http://77.67.109.164/ACTIVA_SC
+#EXTINF:-1 tvg-logo="http://radioenvivo.me/wp-content/uploads/2013/11/radio-activa-chile.jpg" group-title="Radios", Radioactiva 
+http://69.31.54.139/ACTIVA.mp3?type=.flv
+#EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="Radios",Radio PortalFoxMix 
+http://167.114.119.122:9934/;
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios",Anglolatina Antofagasta
 http://streaming.radioanglolatina.com/;?1474944052607.mp3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios",Radio Candela
@@ -279,16 +289,6 @@ http://einstein-aws.mixlr.com/http://10.0.2.164:8000/dbf76cb1f5c3a686d5ee73cc734
 http://5.9.65.9:8014/;
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Imagina (88.1 FM)
 http://77.67.109.164/IMAGINA_SC
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radio Carolina
-http://ice.dallas.digitalproserver.com/carolina_player.mp3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radio Carolina
-http://tunein.digitalproserver.com/carolina_player.mp3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radioactiva (92.5 FM) 1
-http://77.67.109.164/ACTIVA_SC
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radioactiva (92.5 FM) 2
-http://69.31.54.139/ACTIVA.mp3?type=.flv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios",Radio PortalFoxMix 
-http://167.114.119.122:9934/;
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Maxima FM (88.1 FM Antofagasta)
 http://cast3.serverhost.cl:8764
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Concierto (88.5 FM)
