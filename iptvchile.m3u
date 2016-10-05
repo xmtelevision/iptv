@@ -279,6 +279,8 @@ http://einstein-aws.mixlr.com/http://10.0.2.164:8000/dbf76cb1f5c3a686d5ee73cc734
 http://5.9.65.9:8014/;
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Imagina (88.1 FM)
 http://77.67.109.164/IMAGINA_SC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radio Carolina
+http://ice.dallas.digitalproserver.com/carolina_player.mp3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radioactiva (92.5 FM) 1
 http://77.67.109.164/ACTIVA_SC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radioactiva (92.5 FM) 2
@@ -335,10 +337,6 @@ http://69.64.49.28:8000/
 http://1071.live.streamtheworld.com/FMDOS_SC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Digital FM (99.1 FM Punta Arenas)
 http://mimix.mercurio.cl:8000/digitalfm
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Carolina (99.3 FM)
-http://tunein.digitalproserver.com/carolinafmbb.aac
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Carolina (Alt)(99.3 FM)
-rtmp://radio.cl.digitalproserver.com:443/carolinafm/carolinafmlive/carolinafm.stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Bio-Bio la Radio (99.7 FM)
 http://ice.dallas.digitalproserver.com/biostgo
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Bio-Bio la radio (Alt)(99.7 FM)
