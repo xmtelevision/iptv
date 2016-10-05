@@ -33,10 +33,6 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8#IptvChi
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/realmadrid.png" group-title="DEPORTES",Real Madrid Tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES",Sevilla Fc Tv
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 
 https://hitbox.gcdn.co/hls/futbol2016/index.m3u8?st=DxtlqAI2eB32C3Be6pSFaQ;ci=aQKewIV8XxZFqnpKtt_TIA
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI)
