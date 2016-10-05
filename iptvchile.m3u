@@ -281,6 +281,8 @@ http://5.9.65.9:8014/;
 http://77.67.109.164/IMAGINA_SC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radio Carolina
 http://ice.dallas.digitalproserver.com/carolina_player.mp3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radio Carolina
+http://tunein.digitalproserver.com/carolina_player.mp3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radioactiva (92.5 FM) 1
 http://77.67.109.164/ACTIVA_SC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sc1l9wE.png" group-title="Radios", Radioactiva (92.5 FM) 2
