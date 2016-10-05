@@ -16,7 +16,7 @@ http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestr
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-contivisionmus.png" group-title="MUSICA", Contivision Musica HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-vtv2.png" group-title="MUSICA",VTV HD
+#EXTINF:-1 tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/09/logos_vtv.png" group-title="MUSICA",VTV HD
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fZffdxL.jpg" group-title="MUSICA",Carnaval Tv 
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8#IptvChile
@@ -163,7 +163,7 @@ http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8?#IptvChile
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tcsantacruz.png" group-title="REGIONALES", Telecanal Curico 
 http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-vtv2.png" group-title="REGIONALES",VTV Valle de Aconcagua
+#EXTINF:-1 tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/09/logos_vtv.png" group-title="REGIONALES",VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-c2sanantonio.png" group-title="REGIONALES",Canal 2 San Antonio
 http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8#IptvChile
