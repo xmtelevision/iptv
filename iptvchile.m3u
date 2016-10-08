@@ -43,15 +43,15 @@ rtmp://www1.iguide.to/iguide playpath=rc266q1nutunhdk swfUrl=http://www.iguide.t
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:0,-NACIONALES-
 
-#EXTINF:-1 tvg-ID="" tvg-name="CH: TVN" tvg-logo="" group-title="Latinos SUR",CH: TVN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN DEMO
 http://192.99.39.218:25461/live/iptvlatinoamerica/12345/661.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH: Canal 13" tvg-logo="" group-title="General Streams",CH: Canal 13
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 DEMO
 http://192.99.39.218:25461/live/iptvlatinoamerica/12345/621.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH: ChileVision" tvg-logo="" group-title="General Streams",CH: ChileVision
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV DEMO
 http://192.99.39.218:25461/live/iptvlatinoamerica/12345/620.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH: Mega" tvg-logo="" group-title="General Streams",CH: Mega
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega DEMO
 http://192.99.39.218:25461/live/iptvlatinoamerica/12345/619.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH: Mega" tvg-logo="" group-title="General Streams",CH:CNN CHILE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/540220727278841856/lDfdUX3U.jpeg" group-title="NACIONALES",CNN CHILE DEMO
 http://192.99.39.218:25461/live/iptvlatinoamerica/12345/54.ts
 
 
