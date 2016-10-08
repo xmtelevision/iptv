@@ -59,6 +59,8 @@ http://192.99.39.218:25461/live/iptvlatinoamerica/12345/54.ts
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN EXTRANJERO
 http://streams.innova-systems.net/TVNCHILE/tracks-v1a1/index.m3u8#IptvChile
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-tvnint.png" group-title="NACIONALES",Tv Chile
+http://185.9.0.229:4022/udp/239.209.0.55:3301
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 1
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 2
