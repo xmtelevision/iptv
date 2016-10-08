@@ -34,15 +34,27 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8#IptvChi
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="DEPORTES",CDF Premium 
-http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
+http://192.99.39.218:25461/live/iptvlatinoamerica/12345/55.ts
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 
 http://bit.do/cwhTf
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI) 1
 rtmp://www1.iguide.to/iguide playpath=rc266q1nutunhdk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UdoLiqQ.jpg" group-title="DEPORTES",Multicanal (SOLO KODI) 2
 rtmp://www1.iguide.to/iguide playpath=v0bpo15c260j1qw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
-
 #EXTINF:0,-NACIONALES-
+
+#EXTINF:-1 tvg-ID="" tvg-name="CH: TVN" tvg-logo="" group-title="Latinos SUR",CH: TVN
+http://192.99.39.218:25461/live/iptvlatinoamerica/12345/661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Canal 13" tvg-logo="" group-title="General Streams",CH: Canal 13
+http://192.99.39.218:25461/live/iptvlatinoamerica/12345/621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH: ChileVision" tvg-logo="" group-title="General Streams",CH: ChileVision
+http://192.99.39.218:25461/live/iptvlatinoamerica/12345/620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Mega" tvg-logo="" group-title="General Streams",CH: Mega
+http://192.99.39.218:25461/live/iptvlatinoamerica/12345/619.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CH: Mega" tvg-logo="" group-title="General Streams",CH:CNN CHILE
+http://192.99.39.218:25461/live/iptvlatinoamerica/12345/54.ts
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN 
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN EXTRANJERO
