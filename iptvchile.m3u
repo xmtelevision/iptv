@@ -89,13 +89,11 @@ http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 Movil
 http://cdn.ztreaming.com/t13vivo3/mobile.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV HD
-http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?#IptvChile
+http://unlimited5-cl.dps.live/ucvtv/ucvtv.smil/ucvtv-hls5/livestream1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV SD
+http://unlimited5-cl.dps.live/ucvtv/ucvtv.smil/ucvtv-hls5/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV HD
-http://movilstream.digitalproserver.com:554/ucvtv/livestream1/playlist.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV SD
-http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b848000.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV SD
-http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b348000.m3u8?#IptvChile
+http://unlimited5-cl.dps.live/ucvtv/ucvtv.smil/ucvtv-hls5/livestream3/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdtv.png" group-title="NACIONALES", Camara de Diputados 
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="http://tv.senado.cl/tvsenado/site/artic/20150709/imag/foto_0000000120150709110044.png" group-title="NACIONALES",Tv Senado HD 
