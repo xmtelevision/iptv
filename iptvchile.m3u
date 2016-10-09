@@ -8,8 +8,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="https://saldocuentarut.com/wp-content/uploads/2015/07/cuenta-rut.png" group-title="IPTV CHILE",DONACIONES CUENTA RUT
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="https://modernseoul.files.wordpress.com/2012/05/ufc-logo.png" group-title="DEPORTES",UFC
-http://190.57.234.164/V3/6/2.m3u8?
 #EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="DEPORTES",CDF Premium 
 http://192.99.39.218:25461/live/iptvlatinoamerica/12345/55.ts
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
