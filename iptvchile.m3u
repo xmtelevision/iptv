@@ -107,9 +107,10 @@ http://unlimited5-cl.dps.live/ucvtv/ucvtv.smil/ucvtv-hls5/livestream2/chunks.m3u
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-ucv.png" group-title="NACIONALES",UCV SD
 http://unlimited5-cl.dps.live/ucvtv/ucvtv.smil/ucvtv-hls5/livestream3/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cnncl.png" group-title="NACIONALES",CNN CHILE 1
-http://unlimited6-cl.dps.live/cnn/cnn.smil/cnnhls6/livestream1/chunks.m3u8?
+http://unlimited5-cl.dps.live/cnn/cnn.smil/cnnhls5/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cnncl.png" group-title="NACIONALES",CNN CHILE 2
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile (SD)(Alt USA)
+http://unlimited5-cl.dps.live/cnn/cnn.smil/cnnhls5/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cnncl.png" group-title="NACIONALES",CNN CHILE 3
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdtv.png" group-title="NACIONALES", Camara de Diputados 
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?#IptvChile
