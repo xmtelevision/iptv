@@ -9,7 +9,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
 #EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="DEPORTES",CDF Premium 
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345/55.ts
+http://cdn.metacafe.com/videos/11425000/11425964/11425964_720p.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7ZmbdEaLSfI/VSWcxvxV_tI/AAAAAAAAA_Y/y81HeRP24s8/s1600/lSKat26.png" group-title="DEPORTES",Directv Sports
@@ -44,22 +44,8 @@ http://evo.eltelon.com:1935/live/panderotop.smil/chunklist_w1582495215_b1044100_
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="MUSICA",PortalFoxMix Tv 
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8#IptvChile
 #EXTINF:0,-NACIONALES-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN DEMO
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345/661.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 DEMO
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345/621.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV DEMO
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345/620.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega DEMO
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345/619.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/540220727278841856/lDfdUX3U.jpeg" group-title="NACIONALES",CNN CHILE DEMO
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345/54.ts
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN 
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN EXTRANJERO
-http://streams.innova-systems.net/TVNCHILE/tracks-v1a1/index.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-tvnint.png" group-title="NACIONALES",Tv Chile
 http://185.9.0.229:4022/udp/239.209.0.55:3301
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 1
@@ -70,8 +56,6 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8#IptvChile
 http://mdstrm.com/live-stream-playlist/5614309a434aff1309a9d904.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 4
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?#IptvChile
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega EXTRANJERO
-http://streams.innova-systems.net/MEGACHILE/tracks-v1a1/index.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png" group-title="NACIONALES",La Red (KODI)
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 1
