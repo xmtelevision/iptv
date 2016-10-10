@@ -70,12 +70,6 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8#IptvChile
 http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV 6
 http://mi.chv.cl/playlist/stream.m3u8?s=hd#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 1
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 2
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#IptvChile
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 3
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 Prueba
 http://csm-e-saw1-4.yospace.13.cl/csm/live/108031140/4.m3u8;jsessionid=CB78965474470057CE1A67D47FE29507.csm-e-saw1-4.cds1.yospace.com?yo.ac=true&unique=1475580896&externalId=CH13M
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 Movil
