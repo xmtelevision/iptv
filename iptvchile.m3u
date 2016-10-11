@@ -131,6 +131,8 @@ http://evo.eltelon.com:1935/live/trailer-tvkids.smil/chunklist_w434283311_b22441
 http://evo.eltelon.com:1935/live/trailer-tvkids.smil/chunklist_w434283311_b1044100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2016/01/CinemaTVPlay-Logo.jpg" group-title="NACIONALES",Cinema Tv Play 
 http://servicioamerica.net:1935/cinematvplays//cinematvplays/playlist.m3u8#IptvChile
+#EXTINF:0 tvg-logo="http://resource.lacuarta.com/img/4ta_tv_logo_canal.png" group-title="NACIONALES",La Cuarta Tv
+http://unlimited5-cl.dps.live/lt/lt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Liv_TV_logo.svg/245px-Liv_TV_logo.svg.png" group-title="NACIONALES",Liv Tv 
 http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://lisa.eltelon.com/cache/media/2802/poster_220x220-2.jpg" group-title="NACIONALES", NIU Tv 
