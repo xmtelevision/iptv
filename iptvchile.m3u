@@ -20,11 +20,13 @@ http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/55.ts
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7ZmbdEaLSfI/VSWcxvxV_tI/AAAAAAAAA_Y/y81HeRP24s8/s1600/lSKat26.png" group-title="DEPORTES",Directv Sports
 http://latino-webtv.ml:8880/directv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 1
+http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 2
 http://bit.do/cwhTf
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal (KODI) 1
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 3 (KODI) 
 rtmp://www1.iguide.to/iguide playpath=rc266q1nutunhdk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal (KODI) 2
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 4 (KODI) 
 rtmp://www1.iguide.to/iguide playpath=yavy0jafnewfz21 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34153&autoplay=true
 #EXTINF:0,-MUSICA-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="MUSICA",Carolina Tv HD
