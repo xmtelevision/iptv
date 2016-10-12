@@ -10,8 +10,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://iptvroku.com/wp-content/uploads/2015/12/LOGO-IPTVROKUBLANCO.png" group-title="IPTV CHILE",IPTVROKU.COM
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:0 tvg-logo="http://teveonline.net/wp-content/uploads/2015/10/eliminatorias-rusia-2018.jpg" group-title="DEPORTES",WEB DEL FUTBOL
-http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/BfSfbTy.jpg" group-title="DEPORTES",CDF Basico DEMO IPTVROKU.COM
 http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/56.ts
 #EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="DEPORTES",CDF Premium DEMO IPTVROKU.COM
