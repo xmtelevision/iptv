@@ -10,10 +10,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://iptvroku.com/wp-content/uploads/2015/12/LOGO-IPTVROKUBLANCO.png" group-title="IPTV CHILE",IPTVROKU.COM
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:0 tvg-logo="http://i.imgur.com/BfSfbTy.jpg" group-title="DEPORTES",CDF Basico DEMO IPTVROKU.COM
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/56.ts
-#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="DEPORTES",CDF Premium DEMO IPTVROKU.COM
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/55.ts
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7ZmbdEaLSfI/VSWcxvxV_tI/AAAAAAAAA_Y/y81HeRP24s8/s1600/lSKat26.png" group-title="DEPORTES",Directv Sports
@@ -43,19 +39,6 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/pl
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8#IptvChile
 
 #EXTINF:0,-NACIONALES-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN  DEMO IPTVROKU.COM
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/8.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN  DEMO IPTVROKU.COM
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/7.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png" group-title="NACIONALES",Canal 13 DEMO IPTVROKU.COM
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/621.ts
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png" group-title="NACIONALES",CHV DEMO IPTVROKU.COM
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/620.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega DEMO IPTVROKU.COM
-http://192.99.39.218:25461/live/iptvlatinoamerica/12345x/619.ts
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN 
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?#IptvChile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="NACIONALES",Mega 1
