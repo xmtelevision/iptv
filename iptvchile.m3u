@@ -12,8 +12,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7ZmbdEaLSfI/VSWcxvxV_tI/AAAAAAAAA_Y/y81HeRP24s8/s1600/lSKat26.png" group-title="DEPORTES",Directv Sports
-http://latino-webtv.ml:8880/directv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 1
 http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 2
