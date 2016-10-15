@@ -5,9 +5,11 @@
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/Q4NgMIX.png" group-title="IPTV CHILE",CANALES CHILENOS
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
-#EXTINF:0 tvg-logo="https://saldocuentarut.com/wp-content/uploads/2015/07/cuenta-rut.png" group-title="IPTV CHILE",DONACIONES CUENTA RUT
-http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://iptvroku.com/wp-content/uploads/2015/12/LOGO-IPTVROKUBLANCO.png" group-title="IPTV CHILE",IPTVROKU.COM
+http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
+#EXTINF:0 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="IPTV CHILE",ADDONS FUTMEX
+http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
+#EXTINF:0 tvg-logo="https://saldocuentarut.com/wp-content/uploads/2015/07/cuenta-rut.png" group-title="IPTV CHILE",DONACIONES CUENTA RUT
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="DEPORTES",Liga Mexicana (ADDONS FUTMEX)
@@ -557,3 +559,6 @@ http://200.75.19.171/uoct/16/playlist.m3u8
 http://200.75.19.171/uoct/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bqANBWs.png" group-title="UOCT", Isabel Riquelme con Bascuñán Guerrero
 http://200.75.19.171/uoct/6/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://saldocuentarut.com/wp-content/uploads/2015/07/cuenta-rut.png" group-title="IPTV CHILE",DONACIONES CUENTA RUT
+http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
