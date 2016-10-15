@@ -15,6 +15,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="DEPORTES",Liga Mexicana (ADDONS FUTMEX)
 http://stream.ssh101.com:1935/live/planetadeportesweb/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
+http://zial.dyndns.tv:8000/live/zialcobra3/zialcobra3/274.ts
+#EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
