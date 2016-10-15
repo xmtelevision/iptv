@@ -10,9 +10,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://iptvroku.com/wp-content/uploads/2015/12/LOGO-IPTVROKUBLANCO.png" group-title="IPTV CHILE",IPTVROKU.COM
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Veracruz v/s Leon
-http://iphone-streaming.ustream.tv/uhls/22722786/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/23CVAa9.jpg" group-title="DEPORTES",San Luis v/s Cobresal Apertura 2016
+#EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_16978.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
