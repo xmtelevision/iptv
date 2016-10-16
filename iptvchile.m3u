@@ -12,10 +12,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="https://saldocuentarut.com/wp-content/uploads/2015/07/cuenta-rut.png" group-title="IPTV CHILE",DONACIONES CUENTA RUT
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="DEPORTES",Liga Mexicana (ADDONS FUTMEX)
-http://stream.ssh101.com:1935/live/planetadeportesweb/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
-http://zial.dyndns.tv:8000/live/zialcobra3/zialcobra3/274.ts
 #EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
@@ -30,6 +26,14 @@ rtmp://www1.iguide.to/iguide playpath=rt3ah3ztlgw54oi swfUrl=http://www.iguide.t
 rtmp://www1.iguide.to/iguide playpath=yavy0jafnewfz21 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=32102&autoplay=true
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 5 (KODI)
 rtmp://www1.iguide.to/iguide playpath=yq32alj9c0rjdsw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=34381&autoplay=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="DEPORTES",Eurosport 1
+http://37.187.159.132:6500/play/a01r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="DEPORTES",Eurosport 1
+http://37.187.159.132:6500/play/a00r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="DEPORTES",Eurosport 2
+http://37.187.159.132:6500/play/a01s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="DEPORTES",Eurosport 2
+http://37.187.159.132:6500/play/a00s
 #EXTINF:0,-MUSICA-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="MUSICA",Carolina Tv HD
 http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream1/chunks.m3u8?#IptvChile
