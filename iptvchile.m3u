@@ -16,6 +16,32 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",BeIN LaLiga
+http://latino-webtv.ml:8880/beinhd/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/r6bz8fg.jpg" group-title="DEPORTES",BeIN LaLiga
+http://latino-webtv.ml:8880/ligaplus/playlist.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-8pauLAhFzzY/V0DXKyLR3SI/AAAAAAAAAbs/AqdqgL8ictEuW3zbI09GZIfe7nMVtFagwCLcB/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru
+http://latino-webtv.ml:8880/cmdhd/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/042013/directv_logo2012_2c.png?itok=mb8EYcaO" group-title="DEPORTES",Directv Sports
+http://latino-webtv.ml:8880/directv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES" , ESPN
+http://latino-webtv.ml:8880/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES" , ESPN 2
+http://latino-webtv.ml:8880/espn2/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://lh3.googleusercontent.com/-UQ6fiR1NUKM/UUX4EYLY5tI/AAAAAAAADwQ/3pflCaLgLp0/h120/espn3200.png" group-title="DEPORTES" , ESPN 3
+http://latino-webtv.ml:8880/espn3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.talkandroid.com/uploads/2014/02/FOX_Sports_logo1-630x382.png" group-title="DEPORTES", Fox Sports 
+http://latino-webtv.ml:8880/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES", Fox Sports 2
+http://latino-webtv.ml:8880/foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES" , ESPN
+http://latino-webtv.ml:8880/tpmariocs/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES" , ESPN 2
+http://latino-webtv.ml:8880/tpmariocs/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://lh3.googleusercontent.com/-UQ6fiR1NUKM/UUX4EYLY5tI/AAAAAAAADwQ/3pflCaLgLp0/h120/espn3200.png" group-title="DEPORTES" , ESPN 3
+http://latino-webtv.ml:8880/tpmariocs/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="DEPORTES" , ESPN+
+http://latino-webtv.ml:8880/tpmariocs/CANAL516/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 1
 http://149.255.152.70/idman/index.m3u8
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 2
