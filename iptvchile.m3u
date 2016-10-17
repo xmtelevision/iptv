@@ -39,7 +39,6 @@ http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8#IptvChile
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8#IptvChile
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="MUSICA",PortalFoxMix Tv 
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8#IptvChile
-
 #EXTINF:0,-NACIONALES-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="NACIONALES",TVN 
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?#IptvChile
