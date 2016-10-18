@@ -12,10 +12,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="IPTV CHILE",ADDONS FUTMEX
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616969183948054528/mF1Oxcly.jpg" group-title="DEPORTES",Real Madrid v/s Legia Warszawa
-http://livestream-f.akamaihd.net/i/22012642_6516385_lsiglp1rbq4geowud0d_1@305802/index_696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1476904267~acl=%2fi%2f22012642_6516385_lsiglp1rbq4geowud0d_1%40305802%2f*~data=hdntl~hmac=193e7de72da336faa7cbc99e0f4c9edac1026edabec1b9ae7f55d6995b5817ab
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616969183948054528/mF1Oxcly.jpg" group-title="DEPORTES",Dinamo v/s Sevilla
-http://livestream-f.akamaihd.net/i/22004601_6513663_lsihymw9e8fk2ct3bz4_1@305499/index_2596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1476838576~acl=%2fi%2f22004601_6513663_lsihymw9e8fk2ct3bz4_1%40305499%2f*~data=hdntl~hmac=8ef71423e5a87aa6fa69f0882658b4734caffa3a65b5ed941ed2ad271442ca82
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
