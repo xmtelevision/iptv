@@ -16,20 +16,14 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://livestream-f.akamaihd.net/i/22012642_6516385_lsiglp1rbq4geowud0d_1@305802/index_696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1476904267~acl=%2fi%2f22012642_6516385_lsiglp1rbq4geowud0d_1%40305802%2f*~data=hdntl~hmac=193e7de72da336faa7cbc99e0f4c9edac1026edabec1b9ae7f55d6995b5817ab
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616969183948054528/mF1Oxcly.jpg" group-title="DEPORTES",Dinamo v/s Sevilla
 http://livestream-f.akamaihd.net/i/22004601_6513663_lsihymw9e8fk2ct3bz4_1@305499/index_2596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1476838576~acl=%2fi%2f22004601_6513663_lsihymw9e8fk2ct3bz4_1%40305499%2f*~data=hdntl~hmac=8ef71423e5a87aa6fa69f0882658b4734caffa3a65b5ed941ed2ad271442ca82
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616969183948054528/mF1Oxcly.jpg" group-title="DEPORTES",Champions League
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 1
 http://149.255.152.70/idman/index.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 2
-http://bit.do/cwhTf
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 3 (KODI) 
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 2 (KODI) 
 rtmp://www1.iguide.to/iguide playpath=rt3ah3ztlgw54oi swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=32588&autoplay=true
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Multicanal 4 (KODI) 
-rtmp://www1.iguide.to/iguide playpath=yavy0jafnewfz21 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=#ed%h0#w18623jsda6523lDGD live=1 timeout=10 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=32102&autoplay=true
 #EXTINF:0,-MUSICA-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HcHyVqX.jpg" group-title="MUSICA",Carolina Tv HD
 http://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls5/livestream1/chunks.m3u8?#IptvChile
