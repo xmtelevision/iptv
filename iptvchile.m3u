@@ -16,6 +16,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616969183948054528/mF1Oxcly.jpg" group-title="DEPORTES",Champions League
 http://livestream-f.akamaihd.net/i/22004601_6513663_lsihymw9e8fk2ct3bz4_1@305499/index_2596_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1476838576~acl=%2fi%2f22004601_6513663_lsihymw9e8fk2ct3bz4_1%40305499%2f*~data=hdntl~hmac=8ef71423e5a87aa6fa69f0882658b4734caffa3a65b5ed941ed2ad271442ca82
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616969183948054528/mF1Oxcly.jpg" group-title="DEPORTES",Champions League
+http://livestream-f.akamaihd.net/i/22010989_6515770_lsitju64y0ms117bchf_1@305907/index_1696_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1476891369~acl=%2fi%2f22010989_6515770_lsitju64y0ms117bchf_1%40305907%2f*~data=hdntl~hmac=b6527f69b66a5b0bd23c11797afbf7f1361e7eee565cc043c10f61beaf31dd33
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
