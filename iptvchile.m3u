@@ -12,9 +12,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="IPTV CHILE",ADDONS FUTMEX
 http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES"Barcelona v/s Manchester United
-http://nimbleedge-80035096.us-east-1.elb.amazonaws.com/rpctvlive/medcomrpctv/rpctv/rpctv360/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES"Barcelona v/s Manchester United
+#EXTINF:-1 tvg-logo="http://publicdomainvectors.org/photos/maxim2_soccerball.png" group-title="DEPORTES",Barcelona v/s Manchester City
 http://livestream-f.akamaihd.net/22020050_6518538_lsitudby65itmjp6vjo_1_348@172571?v=3.8.0&fp=WIN%2023,0,0,185&r=NRETW&g=BVPUJLIIDFCQ
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
