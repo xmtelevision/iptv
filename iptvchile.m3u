@@ -16,6 +16,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio#IptvChile
 http://stdephds-lh.akamaihd.net/i/m3xst01_1@92113/index_1048_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="DEPORTES",America vs Chivas 2
 http://iphone-streaming.ustream.tv/uhls/22722786/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cdcNhmv.jpg" group-title="DEPORTES",America vs Chivas 3
+http://content-ause3.uplynk.com/channel/056da3d6825a41eda728dd54ce619e94/e.m3u8?ad.kv=_fw_ae,null,_fw_euid,null&exp=1476840865&ptid=ESPNPlay_Events_VDMS&rn=605698063&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=espniads&ad.csid=watchespn:ios:phone:espniads&ad.caid=a19350629&eid=a19350629&euid=espn_play&ct=c&sig=3fe83ca25b510c0f6df0cff6ef14a681609825bb6f1e9efe1a20647d06f65ff3&pbs=d863e8863a8748b785b40076f61c8e29
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="DEPORTES",CDF HD
 http://stream.ssh101.com:1935/live/lalolanda1119/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-cdo.png" group-title="DEPORTES",Canal del Deporte Olimpico
